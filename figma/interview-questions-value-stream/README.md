@@ -7,7 +7,17 @@ Each Figma text layer became one file. Content is copied as-is (including typos 
 
 Note: the full interview appendix exists twice on the page, once as Markdown and once as plain text; both are kept. The BUC writing prompt layer contains its text twice in Figma and is kept verbatim.
 
-Note: `proxy-interviews/` holds the two Market Intelligence Direction proxy-interview guides (Coverage and Capital Markets). These are the first interviews to be run with Product Proxies as a sense check before going to bankers. The Capital Markets guide was originally pasted into Figma as plain text; it has been reformatted as Markdown (mirroring the Coverage guide) in both the repo and the Figma layer.
+
+## Two interview rounds, kept separate
+
+| | Round 1 | Round 2 |
+| --- | --- | --- |
+| Folder | [`round-1-discovery-interview/`](round-1-discovery-interview/) | [`round-2-product-proxy-interviews/`](round-2-product-proxy-interviews/) |
+| What it is | The historical discovery mega-interview with one Senior Coverage MD (Q01 to Q151, 2026-09-23 to 2026-10-02). It produced the five JTBDs and the whole catalogue. | Two product-ready proxy-interview guides (12 questions each, status Draft) on Market Intelligence Direction: one for Coverage, one for Capital Markets (ECM/DCM). |
+| Status | Complete. Treat as a research record, not a reusable instrument. | Not yet run. First to be run with Product Proxies as a sense check before going to bankers. |
+| Output | Confirmed intent statements in [`evidence/`](evidence/) and governed records in [`catalogue/`](catalogue/). | Candidate direction and a short banker-validation question set (see each guide's synthesis gate). |
+
+Do not mix the two. Round 1 questions were exploratory and many were skipped, reopened or superseded; Round 2 questions are the ones to put in front of people. An audit of the whole corpus is in [`ASSESSMENT.md`](ASSESSMENT.md).
 
 | File | Figma layer | Title | Chars |
 | --- | --- | --- | --- |
@@ -43,11 +53,11 @@ Note: `proxy-interviews/` holds the two Market Intelligence Direction proxy-inte
 | [catalogue/scenarios/SC-GIB-REL-01-B.md](catalogue/scenarios/SC-GIB-REL-01-B.md) | `2:5624` | SC-GIB-REL-01-B - Time-Sensitive Relationship Risk Or Commitment | 3537 |
 | [catalogue/scenarios/SC-GIB-REL-01-C.md](catalogue/scenarios/SC-GIB-REL-01-C.md) | `2:5623` | SC-GIB-REL-01-C - Tier-Based Cadence Review | 3457 |
 | [evidence/coverage-senior-md/confirmed-intent.md](evidence/coverage-senior-md/confirmed-intent.md) | `2:5603` | Coverage Senior MD Confirmed Intent Evidence | 14777 |
-| [interview/senior-coverage-md-intent-interview-full-appendix-plain-text.md](interview/senior-coverage-md-intent-interview-full-appendix-plain-text.md) | `2:5599` | Senior Coverage MD Intent Interview - Full Appendix | 95487 |
-| [interview/senior-coverage-md-intent-interview-full-appendix.md](interview/senior-coverage-md-intent-interview-full-appendix.md) | `2:5661` | Senior Coverage MD Intent Interview - Full Appendix | 101241 |
-| [interview/senior-coverage-md-pipeline-intent-interview-summary.md](interview/senior-coverage-md-pipeline-intent-interview-summary.md) | `2:5601` | Senior Coverage MD Pipeline Intent: Comprehensive Interview Summary | 29881 |
-| [proxy-interviews/capital-markets-market-intelligence-direction-proxy-interview.md](proxy-interviews/capital-markets-market-intelligence-direction-proxy-interview.md) | `19:6127` | Capital Markets Market Intelligence Direction - Proxy Interview | 14141 |
-| [proxy-interviews/coverage-market-intelligence-direction-proxy-interview.md](proxy-interviews/coverage-market-intelligence-direction-proxy-interview.md) | `19:6128` | Coverage Market Intelligence Direction - Proxy Interview | 11585 |
+| [round-1-discovery-interview/senior-coverage-md-intent-interview-full-appendix-plain-text.md](round-1-discovery-interview/senior-coverage-md-intent-interview-full-appendix-plain-text.md) | `2:5599` | Senior Coverage MD Intent Interview - Full Appendix | 95487 |
+| [round-1-discovery-interview/senior-coverage-md-intent-interview-full-appendix.md](round-1-discovery-interview/senior-coverage-md-intent-interview-full-appendix.md) | `2:5661` | Senior Coverage MD Intent Interview - Full Appendix | 101241 |
+| [round-1-discovery-interview/senior-coverage-md-pipeline-intent-interview-summary.md](round-1-discovery-interview/senior-coverage-md-pipeline-intent-interview-summary.md) | `2:5601` | Senior Coverage MD Pipeline Intent: Comprehensive Interview Summary | 29881 |
+| [round-2-product-proxy-interviews/capital-markets-market-intelligence-direction-proxy-interview.md](round-2-product-proxy-interviews/capital-markets-market-intelligence-direction-proxy-interview.md) | `19:6127` | Capital Markets Market Intelligence Direction - Proxy Interview | 14141 |
+| [round-2-product-proxy-interviews/coverage-market-intelligence-direction-proxy-interview.md](round-2-product-proxy-interviews/coverage-market-intelligence-direction-proxy-interview.md) | `19:6128` | Coverage Market Intelligence Direction - Proxy Interview | 11585 |
 | [knowledge/banker-archetypes.md](knowledge/banker-archetypes.md) | `2:5644` | --- | 5848 |
 | [personas/ib-coverage-analyst-junior.md](personas/ib-coverage-analyst-junior.md) | `2:5657` | IB Coverage Analyst, Junior (A&A Coverage) | 7257 |
 | [personas/ib-ecm-analyst-junior.md](personas/ib-ecm-analyst-junior.md) | `2:5658` | IB ECM Analyst, Junior (A&A Product) | 7036 |
