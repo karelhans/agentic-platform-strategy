@@ -17,7 +17,7 @@ Note: the full interview appendix exists twice on the page, once as Markdown and
 | Status | Complete. Treat as a research record, not a reusable instrument. | Not yet run. First to be run with Product Proxies as a sense check before going to bankers. |
 | Output | Confirmed intent statements in [`evidence/`](evidence/) and governed records in [`catalogue/`](catalogue/). | Candidate direction and a short banker-validation question set (see each guide's synthesis gate). |
 
-Do not mix the two. Round 1 questions were exploratory and many were skipped, reopened or superseded; Round 2 questions are the ones to put in front of people. An audit of the whole corpus is in [`ASSESSMENT.md`](ASSESSMENT.md).
+Do not mix the two. Round 1 questions were exploratory and many were skipped, reopened or superseded; Round 2 questions are the ones to put in front of people. The purpose, scope, consumption contract, litmus test and admission rule for this layer are in [`CHARTER.md`](CHARTER.md). An audit of the whole corpus is in [`ASSESSMENT.md`](ASSESSMENT.md).
 
 | File | Figma layer | Title | Chars |
 | --- | --- | --- | --- |
