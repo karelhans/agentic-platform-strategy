@@ -94,3 +94,7 @@ Round 1 discovered intent and did so honestly, but it is single-participant, clo
 ## What is not a problem
 
 The lens architecture (separate lenses, cross-links, temporary situation views, no universal object) was tested repeatedly in Round 1 (Q43 to Q63) and survived a rollback. The umbrella statement is correctly kept as orientation rather than a use case. Capacity is correctly deferred. Risk and controls are correctly a triggered guardrail. Non-action as a legitimate outcome is well evidenced. The governance metadata (revision, cutoff, review triggers, supersession links, append-only history) is complete on every record. None of this needs to change.
+
+## Addendum, 2026-10-05 later the same day
+
+The two `ACTOR-*` records cited throughout the catalogue (`ACTOR-COV-SENIOR-MD` revision 2.0 and `ACTOR-COV-PIPELINE-TEAM` revision 1.0) were added to the Figma page after this assessment was written and are now in `catalogue/actors/`. Finding 5 above is therefore half resolved: the catalogue's own actor layer exists and is evidence-backed, with contributor roles for VPs, juniors and product partners still marked `[validate]`. The other half stands: the pre-intent persona material under `reference/` is still untraced to these records and still contradicts them on activity measures. Five lens-specific proxy guides also arrived after this assessment and are covered in the Round 2 README.

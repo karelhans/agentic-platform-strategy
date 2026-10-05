@@ -6,7 +6,7 @@ Single source of truth for what drives IB and GCB decision making: business outc
 
 | Folder | Holds |
 | --- | --- |
-| [`catalogue/`](catalogue/) | Governed intent records with stable IDs: business outcomes, job families, business use cases, JTBDs, scenarios. |
+| [`catalogue/`](catalogue/) | Governed intent records with stable IDs: business outcomes, job families, business use cases, JTBDs, actors, scenarios. |
 | [`evidence/`](evidence/) | What the records rest on: the confirmed-intent synthesis and the interview rounds. |
 | [`templates/`](templates/) | The generation guide and one template per artifact type. |
 | [`prompts/`](prompts/) | Writing prompts used to produce records in the business's language. |
@@ -35,7 +35,7 @@ Do not mix the two. Round 1 questions were exploratory and many were skipped, re
 
 ## File index by Figma layer
 
-Known dangling links inside the ingested content, inherited from the source and not yet present on the Figma page: the `actors/ACTOR-*` records cited by the catalogue, `evidence/coverage-senior-md/pipeline-capability-contributions.md`, and repository paths referenced by the banker archetypes file.
+Known dangling links inside the ingested content, inherited from the source and not yet present on the Figma page: `evidence/coverage-senior-md/pipeline-capability-contributions.md`, and repository paths referenced by the banker archetypes file. The two `ACTOR-*` records arrived on the Figma page after the first ingest and are now in `catalogue/actors/`. The actor template exists twice on the Figma page (`2:5638` and `36:1082`, identical); one copy is kept.
 
 | File | Figma layer | Title | Chars |
 | --- | --- | --- | --- |
@@ -52,6 +52,8 @@ Known dangling links inside the ingested content, inherited from the source and 
 | [evidence/interviews/round-2-product-proxy-interviews/coverage-relationship-management-proxy-interview.md](evidence/interviews/round-2-product-proxy-interviews/coverage-relationship-management-proxy-interview.md) | `19:6329` | Coverage Relationship Management - Proxy Interview | 11160 |
 | [reference/README.md](reference/README.md) | `27:619` | Reference: pre-intent persona material | 806 |
 | [catalogue/README.md](catalogue/README.md) | `2:5637` | Intent Catalogue | 6944 |
+| [catalogue/actors/ACTOR-COV-SENIOR-MD.md](catalogue/actors/ACTOR-COV-SENIOR-MD.md) | `36:1081` | ACTOR-COV-SENIOR-MD - Senior Coverage MD | 6574 |
+| [catalogue/actors/ACTOR-COV-PIPELINE-TEAM.md](catalogue/actors/ACTOR-COV-PIPELINE-TEAM.md) | `36:1080` | ACTOR-COV-PIPELINE-TEAM - Coverage Opportunity Team | 4947 |
 | [catalogue/business-outcomes/BO-GIB-INTEL-01.md](catalogue/business-outcomes/BO-GIB-INTEL-01.md) | `2:5604` | BO-GIB-INTEL-01 - Improve Consequential Intelligence Response | 3396 |
 | [catalogue/business-outcomes/BO-GIB-MEET-01.md](catalogue/business-outcomes/BO-GIB-MEET-01.md) | `2:5607` | BO-GIB-MEET-01 - Improve Consequential Client Interaction Outcomes | 3794 |
 | [catalogue/business-outcomes/BO-GIB-PIPE-01.md](catalogue/business-outcomes/BO-GIB-PIPE-01.md) | `2:5606` | BO-GIB-PIPE-01 - Improve Opportunity Portfolio Accuracy | 4568 |
