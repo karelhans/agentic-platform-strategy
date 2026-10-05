@@ -15,7 +15,7 @@ Eight product-ready interview guides, all status `Draft`. One validates the exis
 
 Suggested order in a proxy session: the model-validation guide first (it tests the catalogue as a whole, episode first), then the lens guide for the lens the proxy knows best, then a market-intelligence guide where relevant. The five lens guides each end with a representative-episode question; ask it early if time is short.
 
-A visual version of all eight guides, with facilitator notes, is in [`interview-guide.html`](interview-guide.html).
+A visual version of all eight guides, with facilitator notes, is in [`interview-guide.html`](interview-guide.html). The same guides are rendered as native frames on the Figma page **Round 2 · Interview Guide** in the Personas file, generated from the markdown layers on the Interview questions + Value stream page.
 
 Note: the Meetings guide ends with a stray `z` after the synthesis gate in the Figma source; it is kept verbatim.
 
