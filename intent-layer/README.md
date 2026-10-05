@@ -27,7 +27,7 @@ Note: the full interview appendix exists twice on the page, once as Markdown and
 | | Round 1 | Round 2 |
 | --- | --- | --- |
 | Folder | [`evidence/interviews/round-1-discovery-interview/`](evidence/interviews/round-1-discovery-interview/) | [`evidence/interviews/round-2-product-proxy-interviews/`](evidence/interviews/round-2-product-proxy-interviews/) |
-| What it is | The historical discovery mega-interview with one Senior Coverage MD (Q01 to Q151, 2026-09-23 to 2026-10-02). It produced the five JTBDs and the whole catalogue. | Two product-ready proxy-interview guides (12 questions each, status Draft) on Market Intelligence Direction: one for Coverage, one for Capital Markets (ECM/DCM). |
+| What it is | The historical discovery mega-interview with one Senior Coverage MD (Q01 to Q151, 2026-09-23 to 2026-10-02). It produced the five JTBDs and the whole catalogue. | Three product-ready proxy-interview guides (status Draft): Market Intelligence Direction for Coverage and for Capital Markets (ECM/DCM), plus a Coverage Intent Model Validation guide that tests the existing catalogue. |
 | Status | Complete. Treat as a research record, not a reusable instrument. | Not yet run. First to be run with Product Proxies as a sense check before going to bankers. |
 | Output | Confirmed intent statements in [`evidence/`](evidence/) and governed records in [`catalogue/`](catalogue/). | Candidate direction and a short banker-validation question set (see each guide's synthesis gate). |
 
@@ -39,6 +39,13 @@ Known dangling links inside the ingested content, inherited from the source and 
 
 | File | Figma layer | Title | Chars |
 | --- | --- | --- | --- |
+| [README.md](README.md) | `27:616` | IB Intent Layer (index; the Figma copy omits this file table) | 13551 |
+| [CHARTER.md](CHARTER.md) | `27:617` | IB Intent Layer Charter | 9557 |
+| [ASSESSMENT.md](ASSESSMENT.md) | `29:615` | Audit and assessment of the Interview questions + Value stream corpus | 16362 |
+| [evidence/interviews/round-1-discovery-interview/README.md](evidence/interviews/round-1-discovery-interview/README.md) | `27:618` | Round 1: discovery mega-interview (historical record) | 1087 |
+| [evidence/interviews/round-2-product-proxy-interviews/README.md](evidence/interviews/round-2-product-proxy-interviews/README.md) | `28:615` | Round 2: product-proxy sense-check interviews | 1779 |
+| [evidence/interviews/round-2-product-proxy-interviews/coverage-intent-model-validation-proxy-interview.md](evidence/interviews/round-2-product-proxy-interviews/coverage-intent-model-validation-proxy-interview.md) | `28:616` | Coverage Intent Model Validation - Proxy Interview | 21395 |
+| [reference/README.md](reference/README.md) | `27:619` | Reference: pre-intent persona material | 806 |
 | [catalogue/README.md](catalogue/README.md) | `2:5637` | Intent Catalogue | 6944 |
 | [catalogue/business-outcomes/BO-GIB-INTEL-01.md](catalogue/business-outcomes/BO-GIB-INTEL-01.md) | `2:5604` | BO-GIB-INTEL-01 - Improve Consequential Intelligence Response | 3396 |
 | [catalogue/business-outcomes/BO-GIB-MEET-01.md](catalogue/business-outcomes/BO-GIB-MEET-01.md) | `2:5607` | BO-GIB-MEET-01 - Improve Consequential Client Interaction Outcomes | 3794 |
