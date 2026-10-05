@@ -8,4 +8,4 @@ One Senior Coverage MD, Q01 to Q151, interviewed 2026-09-23 to 2026-10-02 throug
 | [Full appendix (plain text)](senior-coverage-md-intent-interview-full-appendix-plain-text.md) | Same content as pasted into Figma without markdown. |
 | [Pipeline intent interview summary](senior-coverage-md-pipeline-intent-interview-summary.md) | Navigation aid: question-to-decision traceability and the question register. |
 
-Canonical conclusions live in `../evidence/coverage-senior-md/confirmed-intent.md`, not here.
+Canonical conclusions live in [`../../coverage-senior-md/confirmed-intent.md`](../../coverage-senior-md/confirmed-intent.md), not here.

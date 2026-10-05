@@ -1,6 +1,6 @@
 # Audit and assessment of the Interview questions + Value stream corpus
 
-Date: 2026-10-05. Scope: every file on the Figma page "Interview questions + Value stream" as ingested into this folder, which is the four-lens Coverage intent catalogue (business outcome, job family, business use case, JTBD, scenarios), the confirmed-intent evidence record, the Round 1 discovery mega-interview (Q01 to Q151), the Round 2 product-proxy interview guides, the templates and generation guide, the BUC writing prompt, the banker archetypes, the untested user profiles and the three personas.
+Date: 2026-10-05. Scope: every file on the Figma page "Interview questions + Value stream" as ingested into `intent-layer/`, which is the four-lens Coverage intent catalogue (business outcome, job family, business use case, JTBD, scenarios), the confirmed-intent evidence record, the Round 1 discovery mega-interview (Q01 to Q151), the Round 2 product-proxy interview guides, the templates and generation guide, the BUC writing prompt, the banker archetypes, the untested user profiles and the three personas.
 
 Two questions were asked. First, is the value stream to JTBD to scenario mapping sound? Second, do the interviews do the job of validating that the model is the right summary of how the business operates and thinks, and that it is framed around value?
 

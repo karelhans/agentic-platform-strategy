@@ -42,7 +42,7 @@ Consumption rules:
 1. **Cite by stable ID and revision.** Reference `BO-*`, `JF-*`, `BUC-*`, `JTBD-*`, `ACTOR-*` and `SC-*` IDs, with the revision relied upon. Never cite by title text.
 2. **Build only on sufficient maturity.** Build and execution decisions may rest on records at `Confirmed` or `Evidence-backed`. A `Hypothesis` record may inform discovery and research but may not be the sole justification for a build. A `Superseded` record may not be cited for new work.
 3. **Read the maturity, not just the label.** A `Confirmed` record carries the participant count in its evidence field. Until a statement has been accepted by two or more participants, consumers should treat it as evidence-backed, single participant, whatever the label says.
-4. **Generate personas only from `ACTOR-*` records.** The untested user profiles and banker archetypes in this folder predate the intent work, carry solution assumptions, and are not a generation source until traced to actor records or marked superseded.
+4. **Generate personas only from `ACTOR-*` records.** The untested user profiles and banker archetypes under `reference/` predate the intent work, carry solution assumptions, and are not a generation source until traced to actor records or marked superseded.
 5. **Do not infer capability support from a JTBD.** A confirmed job says what progress is sought. It says nothing about which capability serves it. Capability mappings need their own evidence pass.
 6. **Report back.** When a workspace finds evidence that contradicts, extends or breaks a record, it raises a review trigger on that record rather than editing it locally or working around it. The generation guide's re-review procedure applies.
 
@@ -70,7 +70,7 @@ The generation guide governs maturity, promotion, review and supersession. This 
 
 A new `JTBD-*`, `BUC-*` or `SC-*` enters the layer only when:
 
-1. **It has an evidence record.** At least one interview, observation or operating-data source is filed under `evidence/` with participant role, context, date and method, and without participant identity or client-identifying detail.
+1. **It has an evidence record.** At least one interview, observation or operating-data source is filed under `evidence/` (interview instruments under `evidence/interviews/`) with participant role, context, date and method, and without participant identity or client-identifying detail.
 2. **It has at least one concrete episode or an explicit gap marker.** Desired-progress statements alone admit a record at `Hypothesis`. An observed episode is required for `Evidence-backed` process and scenario records.
 3. **It passes the generation quality gate** in the artifact generation guide, including the solution-language guardrail and the cross-artifact integrity rules.
 4. **It has an owner** who can accept, reopen or supersede it, and a next-review condition.
