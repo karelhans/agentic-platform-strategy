@@ -7,6 +7,8 @@ Each Figma text layer became one file. Content is copied as-is (including typos 
 
 Note: the full interview appendix exists twice on the page, once as Markdown and once as plain text; both are kept. The BUC writing prompt layer contains its text twice in Figma and is kept verbatim.
 
+Note: `proxy-interviews/` holds the two Market Intelligence Direction proxy-interview guides (Coverage and Capital Markets). These are the first interviews to be run with Product Proxies as a sense check before going to bankers. The Capital Markets guide was pasted into Figma as plain text, so its Interview Record table is flattened onto one line; it is kept verbatim.
+
 | File | Figma layer | Title | Chars |
 | --- | --- | --- | --- |
 | [catalogue/README.md](catalogue/README.md) | `2:5637` | Intent Catalogue | 6944 |
@@ -44,6 +46,8 @@ Note: the full interview appendix exists twice on the page, once as Markdown and
 | [interview/senior-coverage-md-intent-interview-full-appendix-plain-text.md](interview/senior-coverage-md-intent-interview-full-appendix-plain-text.md) | `2:5599` | Senior Coverage MD Intent Interview - Full Appendix | 95487 |
 | [interview/senior-coverage-md-intent-interview-full-appendix.md](interview/senior-coverage-md-intent-interview-full-appendix.md) | `2:5661` | Senior Coverage MD Intent Interview - Full Appendix | 101241 |
 | [interview/senior-coverage-md-pipeline-intent-interview-summary.md](interview/senior-coverage-md-pipeline-intent-interview-summary.md) | `2:5601` | Senior Coverage MD Pipeline Intent: Comprehensive Interview Summary | 29881 |
+| [proxy-interviews/capital-markets-market-intelligence-direction-proxy-interview.md](proxy-interviews/capital-markets-market-intelligence-direction-proxy-interview.md) | `19:6127` | Capital Markets Market Intelligence Direction - Proxy Interview | 13388 |
+| [proxy-interviews/coverage-market-intelligence-direction-proxy-interview.md](proxy-interviews/coverage-market-intelligence-direction-proxy-interview.md) | `19:6128` | Coverage Market Intelligence Direction - Proxy Interview | 11585 |
 | [knowledge/banker-archetypes.md](knowledge/banker-archetypes.md) | `2:5644` | --- | 5848 |
 | [personas/ib-coverage-analyst-junior.md](personas/ib-coverage-analyst-junior.md) | `2:5657` | IB Coverage Analyst, Junior (A&A Coverage) | 7257 |
 | [personas/ib-ecm-analyst-junior.md](personas/ib-ecm-analyst-junior.md) | `2:5658` | IB ECM Analyst, Junior (A&A Product) | 7036 |
