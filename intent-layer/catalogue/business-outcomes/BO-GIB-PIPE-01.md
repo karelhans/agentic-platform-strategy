@@ -17,11 +17,11 @@
 | **Contributing business use cases** | [`BUC-GIB-PIPE-01`](../business-use-cases/BUC-GIB-PIPE-01.md) - Review one opportunity and decide its next move; [`BUC-GIB-PIPE-02`](../business-use-cases/BUC-GIB-PIPE-02.md) (candidate) - Recognise an idea as an opportunity, which carries the leading indicator "earlier idea recognition"; [`BUC-GIB-PIPE-03`](../business-use-cases/BUC-GIB-PIPE-03.md) (candidate) - Review the portfolio and redirect effort, which carries effort allocation. Candidates are not admitted. Until then their contribution is a starting view. |
 | **Dependencies and external factors** | Client candor, market timing, product and regional coordination, data availability, legal and control restrictions, and the maturity of the opportunity. |
 | **Evidence** | [Coverage Senior MD confirmed intent evidence revision 2.0](../../evidence/coverage-senior-md/confirmed-intent.md), especially Q113-Q117 and Q149. |
-| **Evidence maturity** | `Hypothesis` - the direction is evidence-backed, but no approved baseline, target, timeframe, or measurement contract exists. |
+| **Evidence maturity** | `Hypothesis` - the direction is evidence-backed, but no approved baseline, target, timeframe, or measurement rule exists. |
 
-## Measurement Contract
+## Measurement Rule
 
-| Measure | Definition | Source | Cadence | Owner | Baseline | Target | Caveats |
+| Measure | Definition | Source | Frequency | Owner | Baseline | Target | Caveats |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Portfolio accuracy | Comparison of accepted stage-appropriate assessments with the later observed direction and outcome `[validate calculation and inclusion rules]`. | Authoritative opportunity history and review decisions `[validate]`. | Quarterly and annual `[validate]`. | GIB pipeline business outcome owner `[validate]`. | `[validate]` | `[validate]` | Early-stage views may legitimately differ. Accuracy must not reward false certainty or discourage idea capture. |
 | Earlier idea recognition | Time from material evidence becoming available to the idea being recognised with an accountable owner `[validate]`. | Evidence source trail and opportunity history `[validate]`. | Monthly `[validate]`. | Coverage pipeline governance `[validate]`. | `[validate]` | `[validate]` | Causality to commercial outcomes is unproven. The recognition event is the completion of `BUC-GIB-PIPE-02` (candidate); measure definition unchanged. |

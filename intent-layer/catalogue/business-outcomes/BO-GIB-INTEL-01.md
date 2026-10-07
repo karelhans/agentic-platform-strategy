@@ -17,11 +17,11 @@
 | **Contributing business use cases** | [`BUC-GIB-INTEL-01`](../business-use-cases/BUC-GIB-INTEL-01.md); [`BUC-GIB-INTEL-02`](../business-use-cases/BUC-GIB-INTEL-02.md) (candidate). A Signal that never reaches its owner counts as a material surprise under the primary measure. |
 | **Dependencies and external factors** | Source availability and quality, client context, evidence access, market timing, and response authority. |
 | **Evidence** | [Coverage Senior MD confirmed intent evidence revision 2.0](../../evidence/coverage-senior-md/confirmed-intent.md), Q05-Q08 and Q71-Q91. |
-| **Evidence maturity** | `Hypothesis` - direction is supported, but no approved measurement contract exists. |
+| **Evidence maturity** | `Hypothesis` - direction is supported, but no approved measurement rule exists. |
 
-## Measurement Contract
+## Measurement Rule
 
-| Measure | Definition | Source | Cadence | Owner | Baseline | Target | Caveats |
+| Measure | Definition | Source | Frequency | Owner | Baseline | Target | Caveats |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Material surprises | Material client or firm changes recognised only after the useful response time had passed `[validate]`. | Accepted Decisions and later outcome reviews `[validate]`. | Quarterly `[validate]`. | Coverage intelligence outcome owner `[validate]`. | `[validate]` | `[validate]` | Must distinguish unforeseeable events from missed evidence. |
 

@@ -17,11 +17,11 @@
 | **Contributing business use cases** | [`BUC-GIB-MEET-01`](../business-use-cases/BUC-GIB-MEET-01.md) |
 | **Dependencies and external factors** | Client attendance and candor, participant preparation, evidence availability, coordination, meeting purpose, and external decision timing. |
 | **Evidence** | [Coverage Senior MD confirmed intent evidence revision 2.0](../../evidence/coverage-senior-md/confirmed-intent.md), Q123-Q127. |
-| **Evidence maturity** | `Hypothesis`. The desired outcome is supported, but no approved population, baseline, target, timeframe, or measurement contract exists. |
+| **Evidence maturity** | `Hypothesis`. The desired outcome is supported, but no approved population, baseline, target, timeframe, or measurement rule exists. |
 
-## Measurement Contract
+## Measurement Rule
 
-| Measure | Definition | Source | Cadence | Owner | Baseline | Target | Caveats |
+| Measure | Definition | Source | Frequency | Owner | Baseline | Target | Caveats |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | High-stakes meeting outcome | The meeting produces accepted learning, relationship progress, decision progress or protection, or a validated Decision to monitor or dismiss. The changed state is sent to its owner and the first step has begun `[validate]`. | Meeting interpretation and linked commitments `[validate]`. | Quarterly `[validate]`. | Coverage client-meeting outcome owner `[validate]`. | `[validate]` | `[validate]` | Do not reward meeting volume or forced commitments. |
 

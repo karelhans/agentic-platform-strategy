@@ -19,9 +19,9 @@
 | **Evidence** | [Coverage evidence revision 2.0](../../evidence/coverage-senior-md/confirmed-intent.md), Q92-Q111. |
 | **Evidence maturity** | `Hypothesis`. The signs are evidenced, but no approved outcome measure, baseline, target, or timeframe exists. |
 
-## Measurement Contract
+## Measurement Rule
 
-| Measure | Definition | Source | Cadence | Owner | Baseline | Target | Caveats |
+| Measure | Definition | Source | Frequency | Owner | Baseline | Target | Caveats |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Relationship quality | Assessment using evidenced signs of trust, access, reciprocity, engagement, and direction `[validate scoring and use]`. | Client interaction and commitment evidence, plus the judgment of the Coverage owner `[validate]`. | Quarterly or event-driven `[validate]`. | Coverage relationship outcome owner `[validate]`. | `[validate]` | `[validate]` | Do not reduce an evolving relationship to one opaque score or to contact volume. |
 

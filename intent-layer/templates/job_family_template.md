@@ -54,7 +54,7 @@ A valid job family:
 | **Review state** | `Current`, `Review required`, `In review`, `Candidate` (raised by a proposal, not admitted; revision below `1.0` allowed), or `Superseded`. |
 | **Last reviewed** | Date of the latest explicit evidence and boundary review. |
 | **Review owner** | Business or evidence owner who can accept, reopen, split, merge, or supersede the family. |
-| **Next review** | Date, cadence, or event that prompts reconsideration. |
+| **Next review** | Date, frequency, or event that prompts reconsideration. |
 | **Review triggers** | Material changes to business purpose, lifecycle position, scope boundary, member use cases or JTBDs, adjacent families, controls, or cross-LOB applicability. |
 | **Supersession links** | Prior, split, merged, or replacement stable IDs and revisions, or `None`. |
 | **Change rationale** | Evidence delta and reason for the current revision or maturity decision. |

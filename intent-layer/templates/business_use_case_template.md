@@ -129,7 +129,7 @@ Scenarios are meaningful variations of the same business use case. They retain t
 | **Review state** | `Current`, `Review required`, `In review`, `Candidate` (raised by a proposal, not admitted; revision below `1.0` allowed), or `Superseded`. |
 | **Last reviewed** | Date of the latest explicit evidence, boundary, and value review. |
 | **Review owner** | Accountable business or evidence owner who can accept, reopen, split, merge, or supersede the use case. |
-| **Next review** | Date, cadence, or event that prompts reconsideration. |
+| **Next review** | Date, frequency, or event that prompts reconsideration. |
 | **Review triggers** | Material changes to trigger, accountable collective, completion condition, value delivered, process boundary, decision rights, controls, parent family, related JTBDs, or scenarios. |
 | **Supersession links** | Prior, split, merged, or replacement stable IDs and revisions, or `None`. |
 | **Change rationale** | Evidence delta and reason for the current revision or maturity decision. |

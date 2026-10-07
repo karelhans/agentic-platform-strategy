@@ -60,7 +60,7 @@ Do not create a separate archetype for superficial preferences or differences th
 | **Goals and pressures** | Outcomes the cohort tries to advance and pressures shaping its behavior. |
 | **Evidence and information needs** | Information required to perform tasks and exercise judgment. |
 | **Expertise and mental models** | Domain knowledge and recurring reasoning patterns relevant to the work. |
-| **Working patterns** | Recurring contexts, cadence, collaboration modes, and time constraints. |
+| **Working patterns** | Recurring contexts, timing, collaboration modes, and time constraints. |
 | **Pain points and failure exposure** | Friction, ambiguity, risk, or consequences experienced by the cohort. |
 | **Control and sensitivity constraints** | Entitlements, confidentiality, conduct, or risk boundaries shaping the work. |
 | **Meaningful internal variations** | Differences within the cohort that should influence scenarios or research cuts but do not justify a separate archetype. |
@@ -86,7 +86,7 @@ Optional narrative:
 | **Review state** | `Current`, `Review required`, `In review`, `Candidate` (raised by a proposal, not admitted; revision below `1.0` allowed), or `Superseded`. |
 | **Last reviewed** | Date of the latest explicit cohort and contribution review. |
 | **Review owner** | Role or evidence owner who can accept, reopen, split, merge, or supersede the archetype. |
-| **Next review** | Date, cadence, or event that prompts reconsideration. |
+| **Next review** | Date, frequency, or event that prompts reconsideration. |
 | **Review triggers** | Material changes to cohort criteria, responsibility, authority, handoffs, information needs, working patterns, controls, internal variations, or linked JTBD and use-case contributions. |
 | **Supersession links** | Prior, split, merged, or replacement stable IDs and revisions, or `None`. |
 | **Change rationale** | Evidence delta and reason for the current revision or maturity decision. |

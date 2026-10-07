@@ -45,9 +45,9 @@ When a baseline or target is not yet evidenced, mark it `[validate]` rather than
 | **Evidence** | Research, operating data, strategy decisions, or approved targets supporting the record. |
 | **Evidence maturity** | `Hypothesis`, `Evidence-backed`, `Confirmed`, or `Superseded`. |
 
-## Measurement Contract
+## Measurement Rule
 
-| Measure | Definition | Source | Cadence | Owner | Baseline | Target | Caveats |
+| Measure | Definition | Source | Frequency | Owner | Baseline | Target | Caveats |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | `[Measure]` | `[Calculation and inclusion rules]` | `[Authoritative source]` | `[Frequency]` | `[Responsible role]` | `[Value or validate]` | `[Value or validate]` | `[Known limitations]` |
 
@@ -60,7 +60,7 @@ When a baseline or target is not yet evidenced, mark it `[validate]` rather than
 | **Review state** | `Current`, `Review required`, `In review`, `Candidate` (raised by a proposal, not admitted; revision below `1.0` allowed), or `Superseded`. |
 | **Last reviewed** | Date of the latest explicit evidence and measurement review. |
 | **Review owner** | Business outcome owner or approved evidence owner who can accept, reopen, or supersede the record. |
-| **Next review** | Date, cadence, or event that prompts reconsideration. |
+| **Next review** | Date, frequency, or event that prompts reconsideration. |
 | **Review triggers** | Material changes to scope, owner, baseline, target, timeframe, measure definition, guardrails, causal assumptions, or linked work. |
 | **Supersession links** | Prior or replacement stable IDs and revisions, or `None`. |
 | **Change rationale** | Evidence delta and reason for the current revision or maturity decision. |

@@ -90,7 +90,7 @@ Define an archetype using relevant criteria rather than invented biography:
 | **Review state** | `Current`, `Review required`, `In review`, `Candidate` (raised by a proposal, not admitted; revision below `1.0` allowed), or `Superseded`. |
 | **Last reviewed** | Date of the latest explicit evidence, wording, and boundary review. |
 | **Review owner** | Accountable participant group or approved evidence owner who can accept, reopen, or supersede the job. |
-| **Next review** | Date, cadence, or event that prompts reconsideration. |
+| **Next review** | Date, frequency, or event that prompts reconsideration. |
 | **Review triggers** | Material changes to job ownership, situation, desired progress, required judgment, desired outcome, trade-offs, parent use cases, actor evidence, or success signals. |
 | **Supersession links** | Prior, split, merged, or replacement stable IDs and revisions, or `None`. |
 | **Change rationale** | Evidence delta and reason for the current wording, revision, or maturity decision. |

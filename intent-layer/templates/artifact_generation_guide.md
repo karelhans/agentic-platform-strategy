@@ -114,7 +114,7 @@ Every promoted artifact must record:
 | **Review state** | `Current`, `Review required`, `In review`, `Candidate` (raised by a proposal, not admitted; revision below `1.0` allowed), or `Superseded`. This is governance state, not delivery status or evidence maturity. |
 | **Last reviewed** | Date of the latest explicit evidence and boundary review. |
 | **Review owner** | Accountable role or evidence owner who can accept, reopen, or supersede the record. |
-| **Next review** | Date, cadence, or event-based condition that will prompt reconsideration. |
+| **Next review** | Date, frequency, or event-based condition that will prompt reconsideration. |
 | **Review triggers** | Record-specific changes that require re-review. |
 | **Supersession links** | Prior or replacement stable IDs and revisions, or `None`. |
 | **Change rationale** | Concise reason for the current revision and the evidence delta behind it. |

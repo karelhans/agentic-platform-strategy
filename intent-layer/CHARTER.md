@@ -54,7 +54,7 @@ A value-add initiative is aligned with IB or GCB intent when it can state all of
 
 | # | Test | Pass condition |
 | --- | --- | --- |
-| 1 | Outcome | Names at least one `BO-*` it intends to move, and says which measure in that outcome's measurement contract it expects to change and in which direction. |
+| 1 | Outcome | Names at least one `BO-*` it intends to move, and says which measure in that outcome's measurement rule it expects to change and in which direction. |
 | 2 | Job | Names at least one `JTBD-*` it serves and quotes the desired progress and the unwanted trade-off it will respect. |
 | 3 | Process | Names the `BUC-*` and the specific steps it changes, and states the value delivered of that use case in the use case's own words. |
 | 4 | Scenario | Names at least one `SC-*` it covers and at least one it deliberately does not. |
@@ -101,7 +101,7 @@ In rough order:
 | Accepts new records | Owner, after the admission rule is met |
 | Resolves disputes over a record | Owner, with the responsible cohort's representative |
 | Runs the litmus test | The initiative, countersigned by the owner or delegate |
-| Review cadence | Quarterly, and on every promotion, supersession or failed litmus test |
+| Review frequency | Quarterly, and on every promotion, supersession or failed litmus test |
 | Change control | This charter follows the same revision, supersession and append-only history rules as every record in the layer |
 
 ## Revision history

@@ -71,7 +71,7 @@ Record only the meaningful differences from the parent business use case.
 | **Review state** | `Current`, `Review required`, `In review`, `Candidate` (raised by a proposal, not admitted; revision below `1.0` allowed), or `Superseded`. |
 | **Last reviewed** | Date of the latest explicit evidence and variation review. |
 | **Review owner** | Business or evidence owner who can accept, reopen, reclassify, or supersede the scenario. |
-| **Next review** | Date, cadence, or event that prompts reconsideration. |
+| **Next review** | Date, frequency, or event that prompts reconsideration. |
 | **Review triggers** | Material changes to trigger, stakes, actors, authority, controls, path, parent use case, invariant value delivered, or evidence that the variation is actually a separate use case. |
 | **Supersession links** | Prior or replacement scenario or business-use-case IDs and revisions, or `None`. |
 | **Change rationale** | Evidence delta and reason for the current revision, reclassification, or maturity decision. |
