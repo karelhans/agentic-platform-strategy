@@ -30,7 +30,7 @@
 
 | Actor cohort | Responsibility in this use case | Judgment or authority | Information and constraints | Persona reference |
 | --- | --- | --- | --- | --- |
-| Senior Coverage MD | Recognise ideas from client interaction and relationship context. Challenge whether a credible JPM role and client need exist. Decide to own the idea where senior context is required. | Admits, declines, or watches. Names the owner where the idea is theirs to place. | Veiled intent and sparse evidence. Must not fill the portfolio with speculation. | `ACTOR-COV-SENIOR-MD` |
+| Senior Coverage MD | Recognise ideas from client Interactions and relationship context. Challenge whether a credible JPM role and client need exist. Decide to own the idea where senior context is required. | Admits, declines, or watches. Names the owner where the idea is theirs to place. | Veiled intent and sparse evidence. Must not fill the portfolio with speculation. | `ACTOR-COV-SENIOR-MD` |
 | Coverage opportunity team | Recognise ideas from Signals and product context. Propose an owner. Accept or decline as the named owner. | The proposed owner accepts or declines ownership. | Evidence is partial. Interpretations may differ across products and regions. | `ACTOR-COV-PIPELINE-TEAM` |
 | Supporting cohort | State the implication for the institution and the plural readings so the decision is senior-ready. | Prepares; does not admit or decline. | Senior-ready bar under time pressure (Q04, Q35). | `ACTOR-COV-SUPPORT-TEAM` (candidate) `[validate actor]` |
 
@@ -38,7 +38,7 @@
 
 | Step | Task or activity | Responsible role(s) | Evidence considered | Judgment or decision | Collaboration or handoff | Resulting state |
 | --- | --- | --- | --- | --- | --- | --- |
-| `BUC-GIB-PIPE-02-S1` | State the implication for the institution. | Recognising banker, supporting cohort | The Signal, comment, or context. What the institution is doing or facing. What the client has said or avoided saying. | Decide what this could mean for the institution, in business terms. | Signal-originated ideas arrive from `BUC-GIB-INTEL-01` S6. Conversation-originated ideas arrive from `BUC-GIB-MEET-01` S6 or relationship work. | A stated implication, not yet an opportunity. |
+| `BUC-GIB-PIPE-02-S1` | State the implication for the institution. | Recognising banker, supporting cohort | The Signal, comment, or context. What the institution is doing or facing. What the client has said or avoided saying. | Decide what this could mean for the institution, in business terms. | Signal-originated ideas arrive from `BUC-GIB-INTEL-01` S6. Interaction-originated ideas arrive from `BUC-GIB-MEET-01` S6 or relationship work. | A stated implication, not yet an opportunity. |
 | `BUC-GIB-PIPE-02-S2` | Judge whether a credible JPM role and client need exist. | Recognising banker, Senior Coverage MD | Client need or strategic thesis, JPM's relevance and position, access path. | Decide whether JPM could plausibly contribute and the client could plausibly need it. | Product bankers add product-specific plausibility where relevant. | A plausibility judgment with its grounds. |
 | `BUC-GIB-PIPE-02-S3` | Note plural interpretations. | Recognising banker, contributors | Alternative readings of the same evidence; what each would imply. | Decide which readings to carry forward and which to drop. | Differing views are recorded, not reconciled by force. | Explicit uncertainty. |
 | `BUC-GIB-PIPE-02-S4` | State value qualitatively. | Recognising banker | Strategic relevance to the firm; indicative scale in words. | Decide whether the idea is worth an owner's effort without estimating economics (Q143). | None required. | Qualitative value statement. |
@@ -52,7 +52,7 @@ Candidate scenarios named by the model revision of 2026-10-07; no scenario files
 | Scenario ID | Context or trigger | What varies | What remains invariant |
 | --- | --- | --- | --- |
 | `SC-GIB-PIPE-02-A` (candidate, `Hypothesis`) | Signal-originated: a triaged Signal arrives from `BUC-GIB-INTEL-01` S6 with a transaction path as its response. | Evidence is external and already judged for credibility. Client intent is inferred, not heard. | One idea admitted, watched, or deliberately not recognised. |
-| `SC-GIB-PIPE-02-B` (candidate, `Hypothesis`) | Conversation-originated: a veiled client comment (Q115) arrives from `BUC-GIB-MEET-01` S6 or relationship contact. | Evidence is the banker's own reading of the client. Interpretation and relationship sensitivity dominate. | One idea admitted, watched, or deliberately not recognised. |
+| `SC-GIB-PIPE-02-B` (candidate, `Hypothesis`) | Interaction-originated: a veiled client comment (Q115) arrives from `BUC-GIB-MEET-01` S6 or relationship Engagement. | Evidence is the banker's own reading of the client. Interpretation and relationship sensitivity dominate. | One idea admitted, watched, or deliberately not recognised. |
 
 ## Exceptions And Failure Paths
 
@@ -82,7 +82,7 @@ This record absorbs the IBIQ use-case mapping's earlier `BUC-GIB-PIPE-02` candid
 
 | Field | Value |
 | --- | --- |
-| **Revision** | `0.2` |
+| **Revision** | `0.3` |
 | **Evidence cutoff** | 2026-10-02, through Q151. |
 | **Review state** | `Candidate` |
 | **Last reviewed** | 2026-10-07 |
@@ -90,7 +90,7 @@ This record absorbs the IBIQ use-case mapping's earlier `BUC-GIB-PIPE-02` candid
 | **Next review** | When a concrete recognition episode is collected (Round 2 CPIPE03, CPIPE08) or the owner decides on admission. |
 | **Review triggers** | A concrete episode; evidence that recognition and review share one unit of value after all; evidence that recognition belongs to the Signal family; a changed Q143 economics rule; admission of `ACTOR-COV-SUPPORT-TEAM`. |
 | **Supersession links** | Supersedes the IBIQ mapping's provisional `BUC-GIB-PIPE-02` candidate (consumers/ibiq-use-case-mapping.md, section 2). Takes the recognition half of the `BUC-GIB-PIPE-01` revision `2.0` trigger. |
-| **Change rationale** | Revision `0.2`: banker-language pass; wording only, meaning unchanged. Revision `0.1`: raised by the model revision of 2026-10-07 and not admitted. The use case test showed that taking an idea under ownership produces a unit of value no existing use case produces. Q140 and Q149 make the transition the business's own leading measure. Held at `Candidate` pending an episode. |
+| **Change rationale** | Revision `0.3`: terminology pass (Interaction, Engagement); wording only, meaning unchanged. Revision `0.2`: banker-language pass; wording only, meaning unchanged. Revision `0.1`: raised by the model revision of 2026-10-07 and not admitted. The use case test showed that taking an idea under ownership produces a unit of value no existing use case produces. Q140 and Q149 make the transition the business's own leading measure. Held at `Candidate` pending an episode. |
 
 ## Revision History
 
@@ -98,3 +98,4 @@ This record absorbs the IBIQ use-case mapping's earlier `BUC-GIB-PIPE-02` candid
 | --- | --- | --- | --- | --- | --- |
 | `0.1` | 2026-10-07 | No new source evidence; model revision of 2026-10-07 re-tested the pipeline family against Q01-Q151 | Raised as a candidate; trigger and value `Evidence-backed`, steps `Hypothesis`; not admitted. | Coverage intent model owner (as candidate, not admitted) | `BUC-GIB-PIPE-01`, `JTBD-GIB-PIPE-01`, `JF-GIB-PIPE-01`, `BO-GIB-PIPE-01`, `SC-GIB-PIPE-01-D` |
 | `0.2` | 2026-10-07 | No new source evidence; banker-language pass | Banker-language pass: editorial wording in house language (Decision, Rationale, View, Signal; send to; owner; management; material or high-stakes). Meaning, evidence, maturity and review state unchanged. | Coverage intent model owner (as candidate, not admitted) | None; wording only |
+| `0.3` | 2026-10-07 | No new source evidence; terminology pass | Terminology: Interaction (a live exchange with a client: call, virtual or in person) and Engagement (any client contact, including email) adopted as governed terms. Meaning, evidence, maturity and review state unchanged. | Coverage intent model owner (as candidate, not admitted) | None; wording only |

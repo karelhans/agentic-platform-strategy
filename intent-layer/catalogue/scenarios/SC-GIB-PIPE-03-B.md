@@ -22,7 +22,7 @@
 | **Stakes and urgency** | Senior judgment is placed where it can still change the outcome (Q114). Delay leaves effort in the wrong place or ownership unresolved. |
 | **What varies** | Steps S4 and S5 are the centre. Trade-offs are made across opportunities using client decision windows, expected economics, relationship consequence, probability that effort changes the outcome, and commitments already made (Q24). Business heads may attend to resolve conflicts (Q142). |
 | **What remains invariant** | The forum ends with one accepted shared picture and every redirection explicit, with an accepted owner. |
-| **Additional business rules or controls** | Each redirection has an owner who accepts it. Conflicts over ownership, client contact, or priorities go to business heads. Coverage continues to coordinate across the institution (Q142). Control rule of the parent applies. |
+| **Additional business rules or controls** | Each redirection has an owner who accepts it. Conflicts over ownership, client Engagement, or priorities go to business heads. Coverage continues to coordinate across the institution (Q142). Control rule of the parent applies. |
 | **Exit or transition** | Redirections pass to the owner's job family. Opportunities whose judgment changed become `BUC-GIB-PIPE-01` review triggers. The next forum reviews progress against the decisions. |
 
 ## Process Variation
@@ -45,7 +45,7 @@
 
 | Field | Value |
 | --- | --- |
-| **Revision** | `1.1` |
+| **Revision** | `1.2` |
 | **Evidence cutoff** | 2026-10-02, through Q151. |
 | **Review state** | `Candidate` |
 | **Last reviewed** | 2026-10-07 |
@@ -53,7 +53,7 @@
 | **Next review** | With the parent: after a real forum is observed or on the owner's admission decision. |
 | **Review triggers** | Changed decision authority or participants; evidence that alignment and decision forums do not vary on one axis; admission or rejection of `BUC-GIB-PIPE-03`; admission of a business-head actor record. |
 | **Supersession links** | Carries the decision mode of [`SC-GIB-PIPE-01-A`](SC-GIB-PIPE-01-A.md) revision `1.0` (`Superseded`). |
-| **Change rationale** | Revision `1.1`: banker-language pass; wording only, meaning unchanged. Revision `1.0`: raised by the model revision of 2026-10-07 and not admitted. The two Q146 modes of the former recurring-session scenario are placed on one axis, forum purpose, under the promoted use case. |
+| **Change rationale** | Revision `1.2`: terminology pass (Interaction, Engagement); wording only, meaning unchanged. Revision `1.1`: banker-language pass; wording only, meaning unchanged. Revision `1.0`: raised by the model revision of 2026-10-07 and not admitted. The two Q146 modes of the former recurring-session scenario are placed on one axis, forum purpose, under the promoted use case. |
 
 ## Revision History
 
@@ -61,3 +61,4 @@
 | --- | --- | --- | --- | --- | --- |
 | `1.0` | 2026-10-07 | No new source evidence; model revision of 2026-10-07 | Raised as a candidate scenario of `BUC-GIB-PIPE-03`; `Evidence-backed`, no forum observed; not admitted. | Coverage intent model owner (as candidate, not admitted) | `BUC-GIB-PIPE-03`, `SC-GIB-PIPE-01-A` |
 | `1.1` | 2026-10-07 | No new source evidence; banker-language pass | Banker-language pass: editorial wording in house language (Decision, Rationale, View, Signal; send to; owner; management; material or high-stakes). Meaning, evidence, maturity and review state unchanged. | Coverage intent model owner (as candidate, not admitted) | None; wording only |
+| `1.2` | 2026-10-07 | No new source evidence; terminology pass | Terminology: Interaction (a live exchange with a client: call, virtual or in person) and Engagement (any client contact, including email) adopted as governed terms. Meaning, evidence, maturity and review state unchanged. | Coverage intent model owner (as candidate, not admitted) | None; wording only |

@@ -32,7 +32,7 @@
 | --- | --- | --- | --- | --- |
 | Senior Coverage MD | Align the picture, challenge changed opportunities, and decide where the firm's effort should move. | Decides effort and ownership moves within their authority. Coordinates Coverage across products and regions. | Portfolio context is shared across the forum. Senior time is scarce. | `ACTOR-COV-SENIOR-MD` |
 | Coverage opportunity team | Bring the current state of owned opportunities; accept redirections. | Accountable owners accept or contest redirections that concern them. | Views may be stale or inconsistent at the outset. | `ACTOR-COV-PIPELINE-TEAM` |
-| Business heads | Resolve conflicts over ownership, client contact, or product and regional priorities that the forum surfaces (Q142). | Arbitrate; do not own opportunities. | A different cohort, not interviewed. | `[validate actor]` |
+| Business heads | Resolve conflicts over ownership, client Engagement, or product and regional priorities that the forum surfaces (Q142). | Arbitrate; do not own opportunities. | A different cohort, not interviewed. | `[validate actor]` |
 | Supporting cohort | Prepare the current picture so the forum spends time on judgment rather than reconstruction. | Prepares; does not decide. | Senior-ready bar (Q04, Q35). | `ACTOR-COV-SUPPORT-TEAM` (candidate) `[validate actor]` |
 
 ## Banker Process
@@ -79,7 +79,7 @@ The scenario axis is the forum's purpose (Q146).
 
 | Field | Value |
 | --- | --- |
-| **Revision** | `0.2` |
+| **Revision** | `0.3` |
 | **Evidence cutoff** | 2026-10-02, through Q151. |
 | **Review state** | `Candidate` |
 | **Last reviewed** | 2026-10-07 |
@@ -87,7 +87,7 @@ The scenario axis is the forum's purpose (Q146).
 | **Next review** | After a real management or planning forum is observed, or when the owner decides on admission. |
 | **Review triggers** | An observed forum; evidence that the forum's value is the same as one-opportunity review after all; changed forum purpose, decision authority, or participants; admission of a business-head actor record. |
 | **Supersession links** | Promoted from scenario [`SC-GIB-PIPE-01-A`](../scenarios/SC-GIB-PIPE-01-A.md) revision `1.0`, now `Superseded`; its two Q146 modes become `SC-GIB-PIPE-03-A` and `SC-GIB-PIPE-03-B`. Takes the recurring-forum half of the `BUC-GIB-PIPE-01` revision `2.0` trigger. |
-| **Change rationale** | Revision `0.2`: banker-language pass; wording only, meaning unchanged. Revision `0.1`: raised by the model revision of 2026-10-07 and not admitted. The use case test showed that the unit of value of the forum is the portfolio, not one opportunity. So the recurring session fails the scenario test and passes the use case test. Held at `Candidate` pending an observed forum. |
+| **Change rationale** | Revision `0.3`: terminology pass (Interaction, Engagement); wording only, meaning unchanged. Revision `0.2`: banker-language pass; wording only, meaning unchanged. Revision `0.1`: raised by the model revision of 2026-10-07 and not admitted. The use case test showed that the unit of value of the forum is the portfolio, not one opportunity. So the recurring session fails the scenario test and passes the use case test. Held at `Candidate` pending an observed forum. |
 
 ## Revision History
 
@@ -95,3 +95,4 @@ The scenario axis is the forum's purpose (Q146).
 | --- | --- | --- | --- | --- | --- |
 | `0.1` | 2026-10-07 | No new source evidence; model revision of 2026-10-07 re-tested the pipeline family against Q01-Q151 | Raised as a candidate, promoted from `SC-GIB-PIPE-01-A`; `Evidence-backed`, no forum observed; not admitted. | Coverage intent model owner (as candidate, not admitted) | `BUC-GIB-PIPE-01`, `SC-GIB-PIPE-01-A`, `SC-GIB-PIPE-03-A`, `SC-GIB-PIPE-03-B`, `JTBD-GIB-PIPE-01`, `JF-GIB-PIPE-01`, `BO-GIB-PIPE-01` |
 | `0.2` | 2026-10-07 | No new source evidence; banker-language pass | Banker-language pass: editorial wording in house language (Decision, Rationale, View, Signal; send to; owner; management; material or high-stakes). Meaning, evidence, maturity and review state unchanged. | Coverage intent model owner (as candidate, not admitted) | None; wording only |
+| `0.3` | 2026-10-07 | No new source evidence; terminology pass | Terminology: Interaction (a live exchange with a client: call, virtual or in person) and Engagement (any client contact, including email) adopted as governed terms. Meaning, evidence, maturity and review state unchanged. | Coverage intent model owner (as candidate, not admitted) | None; wording only |
