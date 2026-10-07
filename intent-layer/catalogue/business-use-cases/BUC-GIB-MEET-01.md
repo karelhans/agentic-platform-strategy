@@ -7,10 +7,10 @@
 | **Business outcome target(s)** | [`BO-GIB-MEET-01`](../business-outcomes/BO-GIB-MEET-01.md) |
 | **Job family** | [`JF-GIB-MEET-01`](../job-families/JF-GIB-MEET-01.md) |
 | **Value delivered** | An interpreted consequential client-interaction outcome with explicit commitments, affected intent job families updated, and first follow-through initiated. |
-| **Collective JTBD(s)** | [`JTBD-GIB-MEET-01`](../jtbd/JTBD-GIB-MEET-01.md) |
+| **Collective JTBD(s)** | [`JTBD-GIB-MEET-01`](../jtbd/JTBD-GIB-MEET-01.md). At S6 only, the commitment step also serves `JTBD-GIB-ACT-01` (candidate raised by the model revision of 2026-10-07, not admitted). |
 | **Accountable team or role** | Senior Coverage MD for the consequential client outcome, with a meeting team contributing preparation, participation, interpretation, and follow-through `[validate collective boundary]`. |
 | **Participating roles** | Coverage and product bankers, VPs, associates, relevant specialists, client stakeholders, and commitment owners `[validate]`. |
-| **Representative personas** | [`ACTOR-COV-SENIOR-MD`](../actors/ACTOR-COV-SENIOR-MD.md) |
+| **Representative personas** | [`ACTOR-COV-SENIOR-MD`](../actors/ACTOR-COV-SENIOR-MD.md); [`ACTOR-COV-SUPPORT-TEAM`](../actors/ACTOR-COV-SUPPORT-TEAM.md) (candidate raised by the model revision of 2026-10-07, not admitted) |
 | **Evidence maturity** | `Evidence-backed` - the process boundary is accepted in interview, but tasks, roles, and scenarios are synthesized without an observed meeting episode. |
 
 ## Process Boundary
@@ -21,7 +21,7 @@
 | **Starting state** | Relevant context, hypothesis, uncertainty, JPM posture, participant roles, and desired interaction outcome may be incomplete or misaligned. |
 | **Completion condition** | The meeting outcome is interpreted, commitments are explicit, relationship, pipeline, intelligence, and action state is updated as relevant, and the first next movement has begun. |
 | **Resulting state** | The team can rely on an accepted understanding of what changed and continue owned follow-through without reconstructing the interaction. |
-| **Out of scope** | Long-term relationship stewardship, complete downstream execution, broad opportunity review, routine scheduling, hosting, or use of a particular meeting technology. |
+| **Out of scope** | Long-term relationship stewardship, complete downstream execution, broad opportunity review, routine scheduling, hosting, or use of a particular meeting technology. The follow-up client contact itself belongs to `BUC-GIB-REL-02` (candidate); resolution of a commitment that later drifts or waits on the senior belongs to `BUC-GIB-ACT-01` (candidate). |
 | **Frequency and criticality** | Recurring but uneven; criticality rises with relationship leverage, forming decisions, relationship risk, major commitments, cross-JPM orchestration, or protocol. |
 
 ## Responsible Actor Archetypes
@@ -29,18 +29,18 @@
 | Actor cohort | Responsibility in this use case | Judgment or authority | Information and constraints | Persona reference |
 | --- | --- | --- | --- | --- |
 | Senior Coverage MD | Set the hypothesis and posture, apply client and franchise judgment, engage appropriately, interpret consequence, and accept the changed state. | Can shape or approve the intended learning or influence outcome, JPM posture, senior participation, and immediate disposition. | Needs concise timely context, relationship sensitivity, client decision dynamics, and critical uncertainty. | `ACTOR-COV-SENIOR-MD` |
-| Meeting contributors `[validate]` | Assemble evidence, align participants, prepare material, capture outcome, translate commitments, and begin follow-through. | Exercise delegated preparation and execution judgment; escalate client, strategic, relationship, control, or commitment ambiguity. | Time pressure, version quality, participant coordination, confidentiality, and post-meeting ownership. | `[validate actor]` |
+| Supporting team (VPs, associates, analysts) | Assemble evidence, align participants, prepare material, capture and interpret the outcome with the MD, translate commitments, and begin follow-through. | Exercise delegated preparation and execution judgment; escalate client, strategic, relationship, control, or commitment ambiguity. | Time pressure, version quality, participant coordination, confidentiality, and post-meeting ownership. Evidence is from the MD's account only (Q04, Q22, Q29, Q34, Q35). | `ACTOR-COV-SUPPORT-TEAM` (candidate raised by the model revision of 2026-10-07, not admitted) |
 
 ## Banker Process
 
 | Step | Task or activity | Responsible role(s) | Evidence considered | Judgment or decision | Collaboration or handoff | Resulting state |
 | --- | --- | --- | --- | --- | --- | --- |
-| `BUC-GIB-MEET-01-S1` | Establish why this interaction matters now. | Senior Coverage MD, meeting contributors | What changed, client and relationship context, decision window, commitments, relevant intelligence and opportunity state. | Decide whether the interaction is consequential and what senior involvement is warranted. | Relevant job family owners contribute material context. | Accepted purpose and urgency. |
+| `BUC-GIB-MEET-01-S1` | Establish why this interaction matters now. | Senior Coverage MD, supporting team | What changed, client and relationship context, decision window, commitments, relevant intelligence and opportunity state. | Decide whether the interaction is consequential and what senior involvement is warranted. | Relevant job family owners contribute material context. | Accepted purpose and urgency. |
 | `BUC-GIB-MEET-01-S2` | Form the client hypothesis and intended outcome. | Senior Coverage MD, meeting team | Client agenda markers, prior interactions, decision dynamics, evidence and uncertainty. | Decide what should be learned, influenced, protected, repaired, advanced, or deliberately deferred. | Challenge unsupported assumptions. | Grounded hypothesis and intended outcome. |
-| `BUC-GIB-MEET-01-S3` | Align JPM posture and resolve critical uncertainty. | Senior Coverage MD, participants, contributors | Participant roles, message, questions, sensitivities, evidence gaps, controls, and what to avoid. | Decide what must be resolved before engagement and how JPM should show up. | Assign targeted preparation and participant responsibilities. | Aligned posture and acceptable readiness. |
+| `BUC-GIB-MEET-01-S3` | Align JPM posture and resolve critical uncertainty. | Senior Coverage MD, participants, supporting team | Participant roles, message, questions, sensitivities, evidence gaps, controls, and what to avoid. | Decide what must be resolved before engagement and how JPM should show up. | Assign targeted preparation and participant responsibilities. | Aligned posture and acceptable readiness. |
 | `BUC-GIB-MEET-01-S4` | Engage and adapt in the client interaction. | Senior Coverage MD and meeting participants | Client responses, candor, questions, new evidence, relationship signals, and decision movement. | Test the hypothesis, adapt posture, and judge emerging consequence in context. | Participants contribute expertise without fragmenting the client experience. | New client and relationship evidence. |
 | `BUC-GIB-MEET-01-S5` | Interpret the outcome and changed state. | Senior Coverage MD, meeting team | What was learned, trust or candor changes, decision movement, uncertainty, and explicit or implied commitments. | Accept what changed, what remains unresolved, and whether action, wait, or stop is appropriate. | Reconcile interpretations without forcing false certainty. | Accepted interaction outcome. |
-| `BUC-GIB-MEET-01-S6` | Make commitments explicit, update job families, and initiate follow-through. | Commitment owners, relevant job family owners, Senior Coverage MD as needed | Accepted outcome, commitments, owners, changed relationship or opportunity judgment, and sensitivity. | Decide destination ownership and the first next movement. | Route to relationships, pipeline, intelligence, or actions and begin follow-through. | Changed state is owned and first movement is underway. |
+| `BUC-GIB-MEET-01-S6` | Make commitments explicit, update job families, and initiate follow-through. | Commitment owners, relevant job family owners, Senior Coverage MD as needed | Accepted outcome, commitments, owners, changed relationship or opportunity judgment, and sensitivity. | Decide destination ownership and the first next movement. | Route each changed state and commitment to the accountable owner's job family (Q136): relationship, pipeline or intelligence judgment to its owner in `BUC-GIB-REL-01`, `BUC-GIB-PIPE-01` or `BUC-GIB-INTEL-01`; a follow-up client message or call to `BUC-GIB-REL-02` (candidate); a commitment already above the drift or senior-dependency threshold to `BUC-GIB-ACT-01` (candidate). Below that threshold the commitment stays with its owner. This step serves `JTBD-GIB-ACT-01` (candidate). | Changed state is owned and first movement is underway. |
 
 ## Scenarios
 
@@ -49,6 +49,8 @@
 | [`SC-GIB-MEET-01-A`](../scenarios/SC-GIB-MEET-01-A.md) | Client decision is forming | Influence window and decision consequence dominate. | Interpreted outcome, routing, and initiated movement. |
 | [`SC-GIB-MEET-01-B`](../scenarios/SC-GIB-MEET-01-B.md) | Relationship-sensitive listening or repair | Candor, trust, and restraint dominate. | Grounded purpose and accepted changed state. |
 | [`SC-GIB-MEET-01-C`](../scenarios/SC-GIB-MEET-01-C.md) | Major commitment or cross-JPM meeting | Participant orchestration and commitment transition dominate. | Coherent JPM posture and owned follow-through. |
+| [`SC-GIB-MEET-01-D`](../scenarios/SC-GIB-MEET-01-D.md) | Protocol-driven or first senior interaction | Seniority, courtesy and relationship positioning dominate; the hypothesis is about access and agenda rather than a live decision. | Explicit purpose, interpreted outcome, and owned follow-through even where no commercial ask exists. |
+| [`SC-GIB-MEET-01-E`](../scenarios/SC-GIB-MEET-01-E.md) (candidate, `Hypothesis`) | Short-notice or unplanned interaction | Preparation is compressed into minutes and run in part by the MD alone; uncertainty is carried into the room rather than resolved before it. | The same completion: outcome interpreted, commitments explicit, first movement begun. |
 
 ## Exceptions And Failure Paths
 
@@ -58,6 +60,7 @@
 | Client response invalidates the hypothesis. | Interaction evidence conflicts with the prepared view. | Adapt in the meeting and record the changed interpretation. | Revised relationship, intelligence, or opportunity state. |
 | No action is appropriate. | Meeting validates waiting or stopping. | Record deliberate non-action and any return condition. | Owned no-action state rather than manufactured follow-up. |
 | Commitments are ambiguous after the interaction. | Participants leave with different interpretations. | Reconcile immediately under accountable senior judgment. | Explicit commitment or explicit absence of commitment. |
+| Notes captured without interpretation. | A record of what was said exists but S5 has not produced an accepted view of what changed, what remains unresolved, or whether to act, wait or stop. | Senior Coverage MD interprets with the meeting team before anything is routed; capture alone does not complete the use case. | Visible failure until S5 completes: the use case is not done and nothing is routed. |
 
 ## Outcomes And Evidence
 
@@ -66,26 +69,27 @@
 | **Success signals** | Client intent becomes clearer; trust or candor improves; a decision advances or is protected; no-action is validated; commitments resolve; first movement begins. |
 | **Failure consequences** | Missed influence window, damaged trust, fragmented JPM posture, unowned commitments, repeated interpretation, or activity without client progress. |
 | **Current process and pain** | Meeting preparation, context, outcome capture, and follow-through are distributed across people and artifacts; the concrete observed process remains `[validate]`. |
-| **Business rules and controls** | Client benefit and right to engage; aligned posture; confidentiality and conduct; uncertainty preserved; no automatic commitment inferred from discussion. |
-| **Evidence** | [Coverage evidence revision 2.0](../../evidence/coverage-senior-md/confirmed-intent.md), Q123-Q127. |
-| **Open questions** | Validate the process against observed meetings, contributor roles, commitment practices, and variations across LOBs. |
+| **Business rules and controls** | Client benefit and right to engage; aligned posture; confidentiality and conduct; uncertainty preserved; no automatic commitment inferred from discussion. Cross-family control rule (Q70, Q145, Q142): when evidence, outreach or ownership conflict arises outside the entitled group, others may know that a restricted situation exists and who owns it; further visibility depends on the restriction; Coverage orchestrates and business heads arbitrate. The rule has no value of its own and is never a scenario of this use case. |
+| **Evidence** | [Coverage evidence revision 2.0](../../evidence/coverage-senior-md/confirmed-intent.md), Q123-Q127; routing by accountable owner Q136; orchestration and arbitration Q142; restriction rule Q70 and Q145; supporting team Q04, Q22, Q29, Q34, Q35. The capture-without-interpretation failure is named in the Round 2 meetings guide CMEET11 (draft instrument, not participant evidence). [Model revision of 2026-10-07](../../proposals/model-revision-2026-10-07.md), sections 4, 6 and 8 and the meetings family inventory. |
+| **Open questions** | Validate the process against observed meetings (Round 2 CMEET12), supporting-team roles, commitment practices, and variations across LOBs. Confirm with a second banker that the follow-up contact handoff to `BUC-GIB-REL-02` (candidate) and the threshold into `BUC-GIB-ACT-01` (candidate) match practice. Test whether short-notice interactions (scenario E) and crisis or adverse-event meetings vary materially (Round 2 CMEET10). |
 
 ## Record Governance
 
 | Field | Value |
 | --- | --- |
-| **Revision** | `1.0` |
-| **Evidence cutoff** | 2026-10-02, through Q151. |
+| **Revision** | `1.1` |
+| **Evidence cutoff** | 2026-10-07, through Q151 and the model revision of 2026-10-07. |
 | **Review state** | `Current` |
-| **Last reviewed** | 2026-10-02 |
+| **Last reviewed** | 2026-10-07 |
 | **Review owner** | Coverage intent model owner |
-| **Next review** | After an observed consequential client-meeting episode. |
-| **Review triggers** | Changed trigger, completion, value delivered, accountable collective, boundary with relationship or actions, or evidence that preparation and conversion are separate use cases. |
+| **Next review** | After an observed consequential client-meeting episode (Round 2 CMEET12). |
+| **Review triggers** | Changed trigger, completion, value delivered, accountable collective, boundary with relationship or actions, or evidence that preparation and conversion are separate use cases. The last trigger was tested in the model revision of 2026-10-07 and did not fire: at Q127 the participant declined both a preparation-only and a transition-to-action emphasis, and readiness is consumed inside the same episode, so it is not a value anyone else receives. It remains a standing trigger for new evidence. |
 | **Supersession links** | None; first canonical record. |
-| **Change rationale** | Bound the Q127-confirmed job as one process from preparation through initiated follow-through. |
+| **Change rationale** | Model revision of 2026-10-07: the use case is kept whole after the split test; scenarios D and E added; the capture-without-interpretation failure made visible; S6 handoffs named by accountable owner (Q136) with candidates `BUC-GIB-REL-02`, `BUC-GIB-ACT-01` and `JTBD-GIB-ACT-01`; the cross-family control rule written into business rules; the unvalidated contributor actor replaced by candidate `ACTOR-COV-SUPPORT-TEAM`. Candidates were raised by the model revision and are not admitted by this revision; maturity unchanged. |
 
 ## Revision History
 
 | Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `1.0` | 2026-10-02 | Q123-Q127 confirmed-intent evidence | Promoted as `Evidence-backed`; observed process and contributor roles remain open. | Coverage intent model owner | Meeting outcome, family, JTBD, and scenarios A-C |
+| `1.1` | 2026-10-07 | Model revision of 2026-10-07; Q127 split test; Q136, Q142, Q70, Q145; Round 2 CMEET10 and CMEET11 as instruments. | Revised in place: kept whole, split trigger tested and not fired; scenarios D and E, one exception, S6 handoffs, control rule and candidate actor added. Maturity unchanged at `Evidence-backed`. | Coverage intent model owner | `JF-GIB-MEET-01`, `JTBD-GIB-MEET-01`, `SC-GIB-MEET-01-D`, `SC-GIB-MEET-01-E`; candidates `BUC-GIB-REL-02`, `BUC-GIB-ACT-01`, `JTBD-GIB-ACT-01`, `ACTOR-COV-SUPPORT-TEAM` |

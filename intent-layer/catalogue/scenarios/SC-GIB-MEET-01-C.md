@@ -36,24 +36,25 @@
 | **Success signals** | Coherent client experience; commitments match authority; no duplicate or conflicting follow-up; owners begin movement promptly. |
 | **Failure risks** | Fragmented message, unauthorized commitment, hidden dependency, unclear owner, or post-meeting reconstruction. |
 | **Evidence** | Coverage evidence revision 2.0, Q125-Q126 and cross-JPM orchestration findings. |
-| **Open questions** | Validate commitment authority, controls, and cross-region variation with product and governance stakeholders. |
+| **Open questions** | Validate commitment authority, controls, and cross-region variation with product and governance stakeholders. This scenario bundles two of the Q126 senior-attention tests, major commitment and cross-JPM orchestration, which the Round 2 meetings guide (CMEET10) lists separately; it stays one scenario until an observed episode shows the two vary differently in preparation, participation or follow-through, at which point it may split. Flagged by the model revision of 2026-10-07. |
 
 ## Record Governance
 
 | Field | Value |
 | --- | --- |
-| **Revision** | `1.0` |
-| **Evidence cutoff** | 2026-10-02, through Q151. |
+| **Revision** | `1.1` |
+| **Evidence cutoff** | 2026-10-07, through Q151 and the model revision of 2026-10-07. |
 | **Review state** | `Current` |
-| **Last reviewed** | 2026-10-02 |
+| **Last reviewed** | 2026-10-07 |
 | **Review owner** | Coverage intent model owner |
 | **Next review** | After an observed cross-JPM or major-commitment meeting. |
-| **Review triggers** | Changed orchestration authority, commitment rule, participant boundary, controls, or invariant value. |
+| **Review triggers** | Changed orchestration authority, commitment rule, participant boundary, controls, or invariant value; an episode showing that major-commitment and cross-JPM meetings vary differently. |
 | **Supersession links** | None. |
-| **Change rationale** | Represent cross-JPM and major-commitment complexity while preserving one meeting value outcome. |
+| **Change rationale** | Model revision of 2026-10-07: scenario confirmed as a variation, not a use case; flagged as bundling two Q126 tests that may split on evidence. No content change to the variation itself. |
 
 ## Revision History
 
 | Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `1.0` | 2026-10-02 | Q123-Q127 and cross-JPM evidence | Promoted as `Evidence-backed`; contributor and controls validation remain open. | Coverage intent model owner | `BUC-GIB-MEET-01` |
+| `1.1` | 2026-10-07 | Model revision of 2026-10-07, meetings family inventory section D. | Revised in place: possible split flagged in open questions and review triggers. Maturity unchanged. | Coverage intent model owner | `BUC-GIB-MEET-01` |

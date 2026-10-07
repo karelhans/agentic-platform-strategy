@@ -5,9 +5,9 @@
 | Field | Value |
 | --- | --- |
 | **ID** | `JTBD-GIB-MEET-01` |
-| **Parent business use case(s)** | [`BUC-GIB-MEET-01`](../business-use-cases/BUC-GIB-MEET-01.md) |
+| **Parent business use case(s)** | [`BUC-GIB-MEET-01`](../business-use-cases/BUC-GIB-MEET-01.md); for the follow-up contact variant only, `BUC-GIB-REL-02` Execute a purposeful client contact (candidate raised by the model revision of 2026-10-07, not admitted). |
 | **Job owner** | Senior Coverage MD with the participating meeting team. |
-| **Responsible actor archetypes** | [`ACTOR-COV-SENIOR-MD`](../actors/ACTOR-COV-SENIOR-MD.md); meeting contributor actor remains `[validate]`. |
+| **Responsible actor archetypes** | [`ACTOR-COV-SENIOR-MD`](../actors/ACTOR-COV-SENIOR-MD.md); [`ACTOR-COV-SUPPORT-TEAM`](../actors/ACTOR-COV-SUPPORT-TEAM.md), the VPs, associates and analysts who prepare, translate and quality-control (candidate raised by the model revision of 2026-10-07, not admitted). |
 | **Job statement** | When a consequential client interaction creates a fixed window to learn or influence, help me enter with a grounded hypothesis, timely context, aligned JPM posture, and critical uncertainty resolved, so the meeting clarifies intent, strengthens trust, and advances, protects, or deliberately defers a decision, with the changed state carried into owned follow-through. |
 | **Situation and triggers** | A planned or emerging client interaction has material relationship leverage, a forming client decision, relationship risk, a major commitment, cross-JPM coordination need, or protocol significance. |
 | **Desired progress** | Move from distributed context and uncertain purpose to a prepared, coherent interaction and an accepted changed state carried into movement. |
@@ -15,27 +15,28 @@
 | **Desired outcome** | Clearer client intent, stronger trust or candor, and an advanced, protected, or deliberately deferred decision with owned follow-through. |
 | **Unwanted trade-offs** | Generic preparation, purposeless contact, false confidence, fragmented JPM participation, unowned commitments, or post-meeting administrative burden without progress. |
 | **Current process, workaround, and pain** | Preparation, context, meeting output, and follow-through are distributed and require reconstruction `[validate through observed episode]`. |
-| **Related scenarios** | `SC-GIB-MEET-01-A` through `SC-GIB-MEET-01-C`. |
+| **Related scenarios** | [`SC-GIB-MEET-01-A`](../scenarios/SC-GIB-MEET-01-A.md), [`SC-GIB-MEET-01-B`](../scenarios/SC-GIB-MEET-01-B.md), [`SC-GIB-MEET-01-C`](../scenarios/SC-GIB-MEET-01-C.md), [`SC-GIB-MEET-01-D`](../scenarios/SC-GIB-MEET-01-D.md); [`SC-GIB-MEET-01-E`](../scenarios/SC-GIB-MEET-01-E.md) (candidate, `Hypothesis`). |
 | **Success signals** | Client intent clarity; trust or candor movement; decision progress or protection; validated non-action; interpreted outcome; explicit commitments; initiated follow-through. |
-| **Evidence** | [Coverage evidence revision 2.0](../../evidence/coverage-senior-md/confirmed-intent.md), confirmed at Q127. |
-| **Evidence maturity** | `Confirmed` for the Senior Coverage MD cohort. |
+| **Evidence** | [Coverage evidence revision 2.0](../../evidence/coverage-senior-md/confirmed-intent.md), confirmed at Q127 by one participant. At Q127 the participant was offered a preparation-only and a transition-to-action emphasis and declined both; the statement stands whole. Re-tested in the [model revision of 2026-10-07](../../proposals/model-revision-2026-10-07.md): wording unchanged. |
+| **Evidence maturity** | `Confirmed` for the Senior Coverage MD cohort. Single participant: consumers treat this record as evidence-backed until a second banker from the cohort confirms the statement (charter sections 4 and 6). |
 
 ## Record Governance
 
 | Field | Value |
 | --- | --- |
-| **Revision** | `1.0` |
-| **Evidence cutoff** | 2026-10-02, through Q151. |
+| **Revision** | `1.1` |
+| **Evidence cutoff** | 2026-10-07, through Q151 and the model revision of 2026-10-07. |
 | **Review state** | `Current` |
-| **Last reviewed** | 2026-10-02 |
+| **Last reviewed** | 2026-10-07 |
 | **Review owner** | Coverage intent model owner |
-| **Next review** | After observed meeting episodes and broader senior-banker validation. |
+| **Next review** | After observed meeting episodes and a second senior banker's confirmation (Round 2 CMEET12 and the model-validation guide). |
 | **Review triggers** | Changed owner, situation, desired progress, completion boundary, success evidence, or evidence that the work should split into separate jobs. |
 | **Supersession links** | None; first canonical record. |
-| **Change rationale** | Preserve the exact Q127-confirmed statement and expose the synthesized process boundary separately. |
+| **Change rationale** | Model revision of 2026-10-07: statement re-tested and kept verbatim; the single-participant note is made explicit; the unvalidated contributor actor is replaced by the candidate `ACTOR-COV-SUPPORT-TEAM`; related scenarios extend to D and E; the follow-up contact variant is linked to candidate `BUC-GIB-REL-02`. No candidate is admitted by this revision. |
 
 ## Revision History
 
 | Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `1.0` | 2026-10-02 | Q127 confirmation and supporting Q123-Q126 evidence | Promoted to `Confirmed` for Senior Coverage MDs. | Coverage intent model owner | `BUC-GIB-MEET-01`, actor and scenarios A-C |
+| `1.1` | 2026-10-07 | Model revision of 2026-10-07, sections 3 to 8 and the meetings family inventory; Q127 re-read. | Revised in place: wording unchanged; single-participant note added; candidate actor and candidate follow-up use case referenced; scenarios D and E listed. Maturity unchanged. | Coverage intent model owner | `BUC-GIB-MEET-01`, `SC-GIB-MEET-01-D`, `SC-GIB-MEET-01-E`; candidates `BUC-GIB-REL-02`, `ACTOR-COV-SUPPORT-TEAM` |
