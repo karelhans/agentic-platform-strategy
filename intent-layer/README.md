@@ -12,6 +12,7 @@ Single source of truth for what drives IB and GCB decision making: business outc
 | [`prompts/`](prompts/) | Writing prompts used to produce records in the business's language. |
 | [`intent-layer-explained.html`](intent-layer-explained.html) | Visual explainer for people new to SDD: where the layer sits, one record chain, maturity, the litmus test. Open in a browser. |
 | [`consumers/`](consumers/) | Guides for workspaces that consume the layer. One per consumer: what to cite, what to own, what to rename. First: [IBIQ product definition](consumers/ibiq-product-definition.md), with the [use-case mapping](consumers/ibiq-use-case-mapping.md) and the [job family example](consumers/job-family-example.html). |
+| [`proposals/`](proposals/) | Proposed changes to the catalogue, tested but not admitted. First: the [model revision](proposals/model-revision-2026-10-07.md) that tests every job and use case candidate. |
 | [`reference/`](reference/) | Pre-intent persona material (untested user profiles, personas, banker archetypes). Not a generation source until traced to actor records or marked superseded; see the charter. |
 
 **Terminology.** The word "lens" was used in early drafts for what the catalogue calls a job family. It is retired; only the Round 1 evidence keeps it, verbatim, as the participants' own language.
@@ -57,6 +58,7 @@ Known dangling links inside the ingested content, inherited from the source and 
 | [consumers/ibiq-product-definition.md](consumers/ibiq-product-definition.md) | `76:615`; native frames `78:616` (page IBIQ · Consumer Guide) | Consumer guide: IBIQ product definition on the Intent Layer | 11403 |
 | [consumers/ibiq-use-case-mapping.md](consumers/ibiq-use-case-mapping.md) | `82:615` (page IBIQ · Consumer Guide) | IBIQ product use cases UC-01 to UC-05 mapped onto the Intent Layer; six candidate records, none admitted | 44513 |
 | [consumers/job-family-example.html](consumers/job-family-example.html) | `80:616` (page Job Family · Example) | What a full job family looks like: generic shape and the intelligence family with the IBIQ use cases mapped on | 30434 |
+| [proposals/model-revision-2026-10-07.md](proposals/model-revision-2026-10-07.md) | page Model Revision (main body only) | Every job and use case candidate tested: six jobs, nine use cases, two retirements, one control rule | 79798 |
 | [reference/README.md](reference/README.md) | `27:619` | Reference: pre-intent persona material | 806 |
 | [catalogue/README.md](catalogue/README.md) | `2:5637` | Intent Catalogue | 6944 |
 | [catalogue/actors/ACTOR-COV-SENIOR-MD.md](catalogue/actors/ACTOR-COV-SENIOR-MD.md) | `36:1081` | ACTOR-COV-SENIOR-MD - Senior Coverage MD | 6574 |

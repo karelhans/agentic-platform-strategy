@@ -24,7 +24,7 @@ The specs' success metrics are the other systematic problem. Of the thirty metri
 
 ## 2. Candidate records raised by this mapping
 
-None of these exist in the catalogue. IDs are provisional.
+None of these exist in the catalogue. IDs are provisional. Superseded in part by the model revision of the same day (`proposals/model-revision-2026-10-07.md`): daily re-orientation became scenario SC-GIB-INTEL-01-D rather than a use case, the ID BUC-GIB-INTEL-02 now names the signal-sharing use case, BUC-GIB-PIPE-02 was re-cut without its product-spec steps, and the two actor candidates collapsed into ACTOR-COV-SUPPORT-TEAM.
 
 | Candidate | Type | Raised by | One-line definition | Maturity and source |
 | --- | --- | --- | --- | --- |

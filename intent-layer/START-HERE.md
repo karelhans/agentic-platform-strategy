@@ -49,5 +49,6 @@ Every record carries a maturity label. `Hypothesis` means plausible, little dire
 | What a whole job family looks like, generic and worked | `consumers/job-family-example.html` |
 | Definitions to paste into a product definition page | `consumers/ibiq-product-definition.md`, sections 4 and 5 |
 | How five real product specs mapped, and what they got wrong | `consumers/ibiq-use-case-mapping.md`, section 1 is enough |
+| The full test of every job and use case, and what should change | `proposals/model-revision-2026-10-07.md`, sections 2 to 5 |
 | The records themselves | `catalogue/` |
 | The interview guides to run next | `evidence/interviews/round-2-product-proxy-interviews/` |
