@@ -7,7 +7,7 @@
 | **Parent business use case** | [`BUC-GIB-INTEL-01`](../business-use-cases/BUC-GIB-INTEL-01.md) |
 | **Related JTBDs** | [`JTBD-GIB-INTEL-01`](../jtbd/JTBD-GIB-INTEL-01.md) |
 | **Value delivered** | An accepted disposition, rationale, intended outcome, and destination for potentially consequential intelligence. |
-| **Primary actor cohorts** | `ACTOR-COV-SENIOR-MD`; preparatory triage contributors `[validate actor]`. |
+| **Primary actor cohorts** | `ACTOR-COV-SENIOR-MD`; `ACTOR-COV-SUPPORT-TEAM` (candidate). |
 | **Evidence maturity** | `Evidence-backed` |
 
 ## Context And Variation
@@ -21,7 +21,7 @@
 | **What varies** | Completion is an explicit wait, monitor, retain, or dismiss disposition rather than action. |
 | **What remains invariant** | Rationale, intended consequence, destination, and reassessment condition are explicit where relevant. |
 | **Additional business rules or controls** | Non-action is a valid result; do not create work merely to demonstrate responsiveness. |
-| **Exit or transition** | Attention closes or monitoring continues until evidence invalidates the signal or a reassessment condition occurs. |
+| **Exit or transition** | Attention closes or monitoring continues until evidence invalidates the signal or a reassessment condition occurs. When a monitored condition fires, that is a new `BUC-GIB-INTEL-01` trigger: the item re-enters at S1 with its prior rationale, rather than resuming inside this run. |
 
 ## Process Variation
 
@@ -42,18 +42,19 @@
 
 | Field | Value |
 | --- | --- |
-| **Revision** | `1.0` |
+| **Revision** | `1.1` |
 | **Evidence cutoff** | 2026-10-02, through Q151. |
 | **Review state** | `Current` |
-| **Last reviewed** | 2026-10-02 |
+| **Last reviewed** | 2026-10-07 |
 | **Review owner** | Coverage intent model owner |
 | **Next review** | After observed monitor and dismissal episodes. |
 | **Review triggers** | Changed closure, monitoring ownership, return condition, or evidence of silent loss. |
 | **Supersession links** | None. |
-| **Change rationale** | Promote deliberate non-action as a valid evidence-backed triage variation. |
+| **Change rationale** | Model revision of 2026-10-07: state that a fired monitor condition is a new `BUC-GIB-INTEL-01` trigger. Variation unchanged. |
 
 ## Revision History
 
 | Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `1.0` | 2026-10-02 | Confirmed-intent synthesis through Q151 | Promoted as `Evidence-backed`. | Coverage intent model owner | `BUC-GIB-INTEL-01` |
+| `1.1` | 2026-10-07 | Model revision of 2026-10-07; Q36, Q62, Q65, Q73 re-read | Revised in place; monitor return made explicit as a new trigger, no semantic change. | `[validate: intent model owner]` | `BUC-GIB-INTEL-01` |
