@@ -11,7 +11,7 @@
 | **Job owner** | Senior Coverage MD together with the supporting cohort. Collective form: Q22, Q34, Q35 and Q120 give the delegate's side of the same progress. The cohort that receives the delegation is therefore co-owner, not the owner of a separate job. |
 | **Responsible actor archetypes** | [`ACTOR-COV-SENIOR-MD`](../actors/ACTOR-COV-SENIOR-MD.md); [`ACTOR-COV-SUPPORT-TEAM`](../actors/ACTOR-COV-SUPPORT-TEAM.md) (candidate). |
 | **Job statement** | When consequential outcomes depend on coordinated work, help us translate intent into an accepted owner and explicit next commitment, and keep that commitment connected to visible outcome progress, so responsibilities resolve clearly and owners can move independently, without work drifting or repeatedly returning to the senior. |
-| **Situation and triggers** | A Decision on a Signal, a relationship objective, an opportunity move or a meeting outcome has to become somebody's work; the senior delegates; a committed checkpoint is missed, a decision window shrinks, an assumption changes or relationship risk rises (Q23); or work is waiting on the senior for direction, feedback, internal alignment, capacity or information (Q18). |
+| **Situation and triggers** | A Decision on a Signal, a relationship objective, an opportunity move or an Interaction outcome has to become somebody's work; the senior delegates; a committed checkpoint is missed, a decision window shrinks, an assumption changes or relationship risk rises (Q23); or work is waiting on the senior for direction, feedback, internal alignment, capacity or information (Q18). |
 | **Desired progress** | Move from intent held by the senior to an owner who has accepted the outcome, the starting view, the inputs and the checkpoint and escalation rule (Q22). The commitment stays visibly connected to the client or firm outcome it serves, so drift is seen while there is still time to intervene. |
 | **Required judgment** | Whether ownership is real rather than nominal (Q119). Which mode of intervention fits, decided on clarity of outcome and quality bar, current owner and commitment, and impact and time sensitivity (Q20). When senior attention may be released (Q36). On the cohort's side: how to translate the senior's starting view into executable work, and how to control quality to the standing senior-ready standard before it returns (Q34, Q35). |
 | **Desired outcome** | Commitments are fulfilled or consciously renegotiated rather than drifting. Client and firm outcomes advance. Owners proceed without repeated reinterpretation (Q120). Elapsed time from owner to client progress and from blocker to resolution shortens (Q21). |
@@ -30,7 +30,7 @@ The confirmed-intent summary records the statement in the individual form ("help
 
 | Field | Value |
 | --- | --- |
-| **Revision** | `0.2` |
+| **Revision** | `0.3` |
 | **Evidence cutoff** | 2026-10-02, through Q151. |
 | **Review state** | `Candidate` |
 | **Last reviewed** | 2026-10-07 |
@@ -38,7 +38,7 @@ The confirmed-intent summary records the statement in the individual form ("help
 | **Next review** | On acceptance or rejection of the model revision of 2026-10-07, or after the Round 2 actions guide has been run with a second participant. |
 | **Review triggers** | A participant selecting one of the Q122 emphases (commitment integrity, MD bottlenecks, delegation, momentum) over the combined statement; evidence that the supporting cohort seeks a different progress; contradiction of the collective form; changed parent use cases or commitment steps; a concrete episode. |
 | **Supersession links** | None. Catalogues the working view recorded in the confirmed-intent summary at Q122; the summary remains the evidence source. |
-| **Change rationale** | Raised by the model revision of 2026-10-07 as a candidate; not admitted. Gives the Q122 working view a stable ID so the commitment steps in the other families can cite the job they serve, in the collective form the proposal argues for. Revision `0.2` changes wording only. |
+| **Change rationale** | Raised by the model revision of 2026-10-07 as a candidate; not admitted. Gives the Q122 working view a stable ID so the commitment steps in the other families can cite the job they serve, in the collective form the proposal argues for. Revisions `0.2` and `0.3` change wording only. |
 
 ## Revision History
 
@@ -46,3 +46,4 @@ The confirmed-intent summary records the statement in the individual form ("help
 | --- | --- | --- | --- | --- | --- |
 | `0.1` | 2026-10-07 | Round 1 Q17 to Q23, Q36, Q118 to Q122, tested in the model revision of 2026-10-07 | Raised as a candidate at `Evidence-backed`, statement accepted at Q122 as a starting hypothesis; not admitted. | Pending: Coverage intent model owner | `BUC-GIB-ACT-01`, `JF-GIB-ACT-01`, `ACTOR-COV-SENIOR-MD`, `ACTOR-COV-SUPPORT-TEAM` |
 | `0.2` | 2026-10-07 | None | Banker-language pass: editorial wording in house language (Decision, Rationale, View, Signal; send to; owner; management; material or high-stakes). Meaning, evidence, maturity and review state unchanged. | Pending: Coverage intent model owner | None; wording only. |
+| `0.3` | 2026-10-07 | None | Terminology: Interaction (a live exchange with a client: call, virtual or in person) and Engagement (any client contact, including email) adopted as governed terms. Meaning, evidence, maturity and review state unchanged. | Pending: Coverage intent model owner | None; wording only. |

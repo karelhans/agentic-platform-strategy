@@ -7,7 +7,7 @@
 | Field | Value |
 | --- | --- |
 | **Cohort definition** | Coverage VPs, associates and analysts who prepare, translate and quality-control work on the senior's behalf in every job family. They complete the minimum triage before a Signal earns senior attention. They assemble evidence and prepared cases. They convert the senior's starting view and feedback into executable work. They hold the standing senior-ready quality bar before work returns to the MD. |
-| **Inclusion criteria** | Coverage bankers below MD who receive delegated work from a Senior Coverage MD. They are responsible for preparation, translation or quality control across intelligence, relationship, pipeline and meeting work (Q04, Q22, Q29, Q34, Q35, Q86, Q107, Q144). |
+| **Inclusion criteria** | Coverage bankers below MD who receive delegated work from a Senior Coverage MD. They are responsible for preparation, translation or quality control across intelligence, relationship, pipeline and Interaction work (Q04, Q22, Q29, Q34, Q35, Q86, Q107, Q144). |
 | **Exclusion criteria** | Product partners and bankers in other lines of business: Q148 says Coverage and product bankers vary materially, and the cohort has not been evidenced for them. Business heads: their job is firm-wide governance and conflict arbitration (Q142), not preparation on a senior's behalf. |
 | **Business context** | Priority client institutions and ambiguous origination across products and regions. Work moves from the MD to the team and back under time pressure. The MD reviews what the VP has already quality-controlled (Q35). |
 | **Evidence base** | [Coverage Senior MD confirmed intent evidence revision 2.0](../../evidence/coverage-senior-md/confirmed-intent.md); Round 1 appendix Q04, Q22, Q29, Q34, Q35, Q86, Q107, Q144. All evidence is the MD's description of the cohort; the cohort itself has not been interviewed. |
@@ -52,7 +52,7 @@ All five IBIQ product specifications exposed the same gap. The work they describ
 
 | Field | Value |
 | --- | --- |
-| **Revision** | `0.2` |
+| **Revision** | `0.3` |
 | **Evidence cutoff** | 2026-10-02, through Q151. |
 | **Review state** | `Candidate` |
 | **Last reviewed** | 2026-10-07 |
@@ -60,7 +60,7 @@ All five IBIQ product specifications exposed the same gap. The work they describ
 | **Next review** | On acceptance or rejection of the model revision of 2026-10-07, or after a VP, associate or analyst has been interviewed. |
 | **Review triggers** | First evidence from the cohort itself; evidence that VPs and juniors need separate archetypes; evidence that the cohort seeks a progress distinct from `JTBD-GIB-ACT-01`; a decision on whether `ACTOR-COV-PIPELINE-TEAM` narrows to opportunity ownership or merges with this record; cross-LOB evidence that product-banker support teams belong here after all. |
 | **Supersession links** | None. Collapses the IBIQ mapping's two actor candidates (VP and meeting contributor) into one record once admitted; relationship to `ACTOR-COV-PIPELINE-TEAM` is under review in that record. |
-| **Change rationale** | Raised by the model revision of 2026-10-07 as a candidate; not admitted. The MD's account evidences a VP-led cohort that prepares, translates and quality-controls in every job family, not only pipeline, and the catalogue had no record for it. Revision `0.2` changes wording only. |
+| **Change rationale** | Raised by the model revision of 2026-10-07 as a candidate; not admitted. The MD's account evidences a VP-led cohort that prepares, translates and quality-controls in every job family, not only pipeline, and the catalogue had no record for it. Revisions `0.2` and `0.3` change wording only. |
 
 ## Revision History
 
@@ -68,3 +68,4 @@ All five IBIQ product specifications exposed the same gap. The work they describ
 | --- | --- | --- | --- | --- | --- |
 | `0.1` | 2026-10-07 | Round 1 Q04, Q22, Q29, Q34, Q35, Q86, Q107, Q144, tested in the model revision of 2026-10-07 | Raised as a candidate at `Evidence-backed` from the MD's account only; not admitted. | Pending: Coverage intent model owner | `JTBD-GIB-ACT-01`, `BUC-GIB-ACT-01`, `JF-GIB-ACT-01`, `ACTOR-COV-PIPELINE-TEAM`, `ACTOR-COV-SENIOR-MD` |
 | `0.2` | 2026-10-07 | None | Banker-language pass: editorial wording in house language (Decision, Rationale, View, Signal; send to; owner; management; material or high-stakes). Meaning, evidence, maturity and review state unchanged. | Pending: Coverage intent model owner | None; wording only. |
+| `0.3` | 2026-10-07 | None | Terminology: Interaction (a live exchange with a client: call, virtual or in person) and Engagement (any client contact, including email) adopted as governed terms. Meaning, evidence, maturity and review state unchanged. | Pending: Coverage intent model owner | None; wording only. |

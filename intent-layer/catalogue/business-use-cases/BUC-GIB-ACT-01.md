@@ -37,12 +37,12 @@
 
 | Step | Task or activity | Responsible role(s) | Evidence considered | Judgment or decision | Collaboration or handoff | Resulting state |
 | --- | --- | --- | --- | --- | --- | --- |
-| `BUC-GIB-ACT-01-S1` | Identify commitments and blockers above threshold across job families. | Supporting cohort, Senior Coverage MD | Client promises made and received, decisions only the MD can make, work awaiting MD feedback, team commitments at risk, cross-bank dependencies, compliance and approvals (Q17); the threshold conditions (Q18, Q23). | Which items have crossed the threshold and so enter the senior attention set. | Read from the intelligence, relationship, pipeline and meeting records; no new object is created (Q141). | Bounded set of items above threshold. |
+| `BUC-GIB-ACT-01-S1` | Identify commitments and blockers above threshold across job families. | Supporting cohort, Senior Coverage MD | Client promises made and received, decisions only the MD can make, work awaiting MD feedback, team commitments at risk, cross-bank dependencies, compliance and approvals (Q17); the threshold conditions (Q18, Q23). | Which items have crossed the threshold and so enter the senior attention set. | Read from the intelligence, relationship, pipeline and Interaction records; no new object is created (Q141). | Bounded set of items above threshold. |
 | `BUC-GIB-ACT-01-S2` | State the consequence of delay. | Supporting cohort | Relationship or credibility cost, opportunity economics at risk, decision window remaining, downstream work held (Q19). | How this item compares with others if left unresolved. | Owner and contributors supply the facts; the cohort states them in comparable terms. | Comparable consequence attached to each item. |
 | `BUC-GIB-ACT-01-S3` | Check that the owner has accepted the work, not just the name. | Senior Coverage MD, commitment owner | Whether the named owner has accepted the outcome, the starting view, the inputs, and the checkpoint and escalation rule (Q22, Q119). | Is ownership real? | The owner confirms or the gap is surfaced to the MD. | Ownership confirmed as real, or exposed as nominal. |
 | `BUC-GIB-ACT-01-S4` | The MD chooses the mode: act, direct, chase, escalate, monitor or stop. | Senior Coverage MD | Clarity of outcome and quality bar, current owner and commitment, impact and time sensitivity (Q20); the available Decisions (Q65). | Which intervention, if any, and by whom. | Direction or delegation goes to the owner. Escalation goes to business heads where ownership conflicts cross the group with access. | Explicit senior Decision. |
 | `BUC-GIB-ACT-01-S5` | Release senior attention when owner and checkpoint are credible. | Senior Coverage MD | Client progress evidenced; owner and checkpoint secured; blocker or risk resolved; deliberate wait state; stop decision made; deliverable completed (Q36). | Is it safe to exit, or must the item stay in the attention set? | The owner takes the next checkpoint. | Item leaves the senior attention set or is deliberately kept. |
-| `BUC-GIB-ACT-01-S6` | Record the resolution in the owner's job family. | Commitment owner, supporting cohort | The resolution, its Rationale, the owner and the next checkpoint. | What the owner's family record now says about the commitment. | Written into the intelligence, relationship, pipeline or meeting record that holds the commitment (Q136). | The owner's family carries the resolution; the review is closed for this item. |
+| `BUC-GIB-ACT-01-S6` | Record the resolution in the owner's job family. | Commitment owner, supporting cohort | The resolution, its Rationale, the owner and the next checkpoint. | What the owner's family record now says about the commitment. | Written into the intelligence, relationship, pipeline or Interaction record that holds the commitment (Q136). | The owner's family carries the resolution; the review is closed for this item. |
 
 ## Scenarios
 
@@ -78,7 +78,7 @@ None yet. No scenario record is created until a concrete episode exists. Candida
 
 | Field | Value |
 | --- | --- |
-| **Revision** | `0.2` |
+| **Revision** | `0.3` |
 | **Evidence cutoff** | 2026-10-02, through Q151. |
 | **Review state** | `Candidate` |
 | **Last reviewed** | 2026-10-07 |
@@ -86,7 +86,7 @@ None yet. No scenario record is created until a concrete episode exists. Candida
 | **Next review** | On acceptance or rejection of the model revision of 2026-10-07, or after a concrete commitment episode is recorded. |
 | **Review triggers** | A concrete episode; a second participant changing the threshold conditions, the Decisions, or the "both" ownership model (Q121); evidence that a separate senior-attention object is wanted (Q141); changes to the commitment steps of the parent families; changed accountable collective. |
 | **Supersession links** | None. |
-| **Change rationale** | Raised by the model revision of 2026-10-07 as a candidate; not admitted. Gives the standing senior view at Q121 its one thin use case, with threshold entry and no new object. The four families' commitment steps can then say where above-threshold items go. Revision `0.2` changes wording only. |
+| **Change rationale** | Raised by the model revision of 2026-10-07 as a candidate; not admitted. Gives the standing senior view at Q121 its one thin use case, with threshold entry and no new object. The four families' commitment steps can then say where above-threshold items go. Revisions `0.2` and `0.3` change wording only. |
 
 ## Revision History
 
@@ -94,3 +94,4 @@ None yet. No scenario record is created until a concrete episode exists. Candida
 | --- | --- | --- | --- | --- | --- |
 | `0.1` | 2026-10-07 | Round 1 Q17 to Q23, Q36, Q118 to Q121, Q141, tested in the model revision of 2026-10-07 | Raised as a candidate at `Hypothesis` under charter rule 2; not admitted. | Pending: Coverage intent model owner | `JF-GIB-ACT-01`, `JTBD-GIB-ACT-01`, `ACTOR-COV-SENIOR-MD`, `ACTOR-COV-SUPPORT-TEAM` |
 | `0.2` | 2026-10-07 | None | Banker-language pass: editorial wording in house language (Decision, Rationale, View, Signal; send to; owner; management; material or high-stakes). Meaning, evidence, maturity and review state unchanged. | Pending: Coverage intent model owner | None; wording only. |
+| `0.3` | 2026-10-07 | None | Terminology: Interaction (a live exchange with a client: call, virtual or in person) and Engagement (any client contact, including email) adopted as governed terms. Meaning, evidence, maturity and review state unchanged. | Pending: Coverage intent model owner | None; wording only. |
