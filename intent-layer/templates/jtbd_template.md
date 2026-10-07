@@ -68,7 +68,7 @@ Use the individual or collective form that reflects how the work is actually own
 
 ## Representative Actor Archetypes
 
-A persona is a research-derived representation of a cohort responsible for all or part of the JTBD. It is a **design job family over the work**, not the source or owner of the work itself.
+A persona is a research-derived representation of a cohort responsible for all or part of the JTBD. It is a **design view over the work**, not the source or owner of the work itself.
 
 Define an archetype using relevant criteria rather than invented biography:
 
