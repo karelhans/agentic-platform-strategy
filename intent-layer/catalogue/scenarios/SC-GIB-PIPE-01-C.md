@@ -6,7 +6,7 @@
 | --- | --- |
 | **Parent business use case** | [`BUC-GIB-PIPE-01`](../business-use-cases/BUC-GIB-PIPE-01.md) |
 | **Related JTBDs** | [`JTBD-GIB-PIPE-01`](../jtbd/JTBD-GIB-PIPE-01.md) |
-| **Value delivered** | A shared, challenge-tested opportunity judgment with accountable stewardship and purposeful next movement or deliberate parking or exit. |
+| **Value delivered** | A challenge-tested judgment on one opportunity with an accountable owner and a purposeful next move, or a deliberate park or exit, and an explicit condition for future review. |
 | **Primary actor cohorts** | `ACTOR-COV-SENIOR-MD`, `ACTOR-COV-PIPELINE-TEAM` |
 | **Evidence maturity** | `Evidence-backed` |
 
@@ -21,7 +21,7 @@
 | **What varies** | Prior rationale and changed evidence become the starting point; stewardship and ownership must be renewed rather than inherited silently. |
 | **What remains invariant** | The opportunity receives a current challenge-tested judgment and explicit stewardship state. |
 | **Additional business rules or controls** | Retain minimal closure; do not preserve unnecessary sensitive detail or permanent active clutter. |
-| **Exit or transition** | The opportunity returns to active stewardship, remains parked under revised conditions, or exits. |
+| **Exit or transition** | The opportunity returns to active stewardship, remains parked under revised conditions, or exits (`SC-GIB-PIPE-01-F`). |
 
 ## Process Variation
 
@@ -42,18 +42,19 @@
 
 | Field | Value |
 | --- | --- |
-| **Revision** | `1.0` |
+| **Revision** | `1.1` |
 | **Evidence cutoff** | 2026-10-02, through Q151. |
 | **Review state** | `Current` |
-| **Last reviewed** | 2026-10-02 |
+| **Last reviewed** | 2026-10-07 |
 | **Review owner** | Coverage intent model owner |
 | **Next review** | After observing a parked-opportunity reactivation. |
 | **Review triggers** | Changed retention rule, watch ownership, re-entry condition, or evidence that reactivation requires a separate value outcome. |
 | **Supersession links** | None. |
-| **Change rationale** | Promote the desired reactivation variation while retaining the missing observed episode as an evidence gap. |
+| **Change rationale** | Revision `1.1`: the scenario axis of `BUC-GIB-PIPE-01` is now the condition of the opportunity when the review fires; this scenario is the parked condition. The model revision of 2026-10-07 tested reactivation as a separate use case and kept it a scenario: a different trigger alone does not split a use case whose value delivered is the same. Value delivered aligned to the parent's revision `3.0`. |
 
 ## Revision History
 
 | Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `1.0` | 2026-10-02 | Q147 and pipeline synthesis | Promoted as `Evidence-backed`; observed-case validation remains open. | Coverage intent model owner | `BUC-GIB-PIPE-01` |
+| `1.1` | 2026-10-07 | No new source evidence; model revision of 2026-10-07 | Scenario axis noted; kept as a scenario on the value test; value delivered aligned to the narrowed parent. Maturity unchanged. | Coverage intent model owner | `BUC-GIB-PIPE-01`, `SC-GIB-PIPE-01-F` |
