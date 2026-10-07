@@ -264,7 +264,7 @@ Send this to respondents ahead of the session. Everything here is a hypothesis f
 
 **Opportunity pipeline management.** When managing opportunities from idea through close, help me maintain disciplined stewardship through clear accountability, purposeful movement, regular challenge, and deliberate parking or exit, so the franchise can direct effort and protect its outlook without losing viable opportunities or creating administrative burden, even when client intent is ambiguous and judgments differ.
 
-**High-stakes client meetings.** When a consequential client interaction creates a fixed window to learn or influence, help me enter with a grounded hypothesis, timely context, aligned JPM posture, and critical uncertainty resolved, so the meeting clarifies intent, strengthens trust, and advances, protects, or deliberately defers a decision, with the changed state carried into owned follow-through.
+**High-stakes client Interactions.** When a consequential client interaction creates a fixed window to learn or influence, help me enter with a grounded hypothesis, timely context, aligned JPM posture, and critical uncertainty resolved, so the meeting clarifies intent, strengthens trust, and advances, protects, or deliberately defers a decision, with the changed state carried into owned follow-through.
 
 **Umbrella.** When client and franchise conditions are changing, help me judge what is consequential in context and maintain momentum toward the outcomes that matter, so JPM responds coherently while there is still time to influence the result, without confusing activity with progress.
 

@@ -51,7 +51,7 @@ Known dangling links inside the ingested content, inherited from the source and 
 | [evidence/interviews/round-2-product-proxy-interviews/README.md](evidence/interviews/round-2-product-proxy-interviews/README.md) | `28:615` | Round 2: product-proxy sense-check interviews | 3912 |
 | [evidence/interviews/round-2-product-proxy-interviews/coverage-intent-model-validation-proxy-interview.md](evidence/interviews/round-2-product-proxy-interviews/coverage-intent-model-validation-proxy-interview.md) | `28:616` | Coverage Intent Model Validation - Proxy Interview | 21672 |
 | [evidence/interviews/round-2-product-proxy-interviews/coverage-actions-and-commitments-proxy-interview.md](evidence/interviews/round-2-product-proxy-interviews/coverage-actions-and-commitments-proxy-interview.md) | `19:6325` | Coverage Actions And Commitments - Proxy Interview | 12073 |
-| [evidence/interviews/round-2-product-proxy-interviews/coverage-consequential-client-meetings-proxy-interview.md](evidence/interviews/round-2-product-proxy-interviews/coverage-consequential-client-meetings-proxy-interview.md) | `19:6326` | Coverage High-Stakes Client Meetings - Proxy Interview | 11094 |
+| [evidence/interviews/round-2-product-proxy-interviews/coverage-consequential-client-meetings-proxy-interview.md](evidence/interviews/round-2-product-proxy-interviews/coverage-consequential-client-meetings-proxy-interview.md) | `19:6326` | Coverage High-Stakes Client Interactions - Proxy Interview | 11094 |
 | [evidence/interviews/round-2-product-proxy-interviews/coverage-consequential-intelligence-proxy-interview.md](evidence/interviews/round-2-product-proxy-interviews/coverage-consequential-intelligence-proxy-interview.md) | `19:6327` | Coverage Consequential Intelligence - Proxy Interview | 11574 |
 | [evidence/interviews/round-2-product-proxy-interviews/coverage-pipeline-stewardship-proxy-interview.md](evidence/interviews/round-2-product-proxy-interviews/coverage-pipeline-stewardship-proxy-interview.md) | `19:6328` | Coverage Pipeline Stewardship - Proxy Interview | 11041 |
 | [evidence/interviews/round-2-product-proxy-interviews/coverage-relationship-management-proxy-interview.md](evidence/interviews/round-2-product-proxy-interviews/coverage-relationship-management-proxy-interview.md) | `19:6329` | Coverage Relationship Management - Proxy Interview | 11166 |
@@ -65,25 +65,25 @@ Known dangling links inside the ingested content, inherited from the source and 
 | [catalogue/actors/ACTOR-COV-PIPELINE-TEAM.md](catalogue/actors/ACTOR-COV-PIPELINE-TEAM.md) | `36:1080` | ACTOR-COV-PIPELINE-TEAM - Coverage Opportunity Team | 6995 |
 | [catalogue/actors/ACTOR-COV-SUPPORT-TEAM.md](catalogue/actors/ACTOR-COV-SUPPORT-TEAM.md) | `105:6` | ACTOR-COV-SUPPORT-TEAM - Coverage Supporting Cohort (candidate) | 10434 |
 | [catalogue/business-outcomes/BO-GIB-INTEL-01.md](catalogue/business-outcomes/BO-GIB-INTEL-01.md) | `2:5604` | BO-GIB-INTEL-01 - Improve Response To Material Signals | 3795 |
-| [catalogue/business-outcomes/BO-GIB-MEET-01.md](catalogue/business-outcomes/BO-GIB-MEET-01.md) | `2:5607` | BO-GIB-MEET-01 - Improve High-Stakes Client Meeting Outcomes | 3795 |
+| [catalogue/business-outcomes/BO-GIB-MEET-01.md](catalogue/business-outcomes/BO-GIB-MEET-01.md) | `2:5607` | BO-GIB-MEET-01 - Improve High-Stakes Client Interaction Outcomes | 3795 |
 | [catalogue/business-outcomes/BO-GIB-PIPE-01.md](catalogue/business-outcomes/BO-GIB-PIPE-01.md) | `2:5606` | BO-GIB-PIPE-01 - Improve Opportunity Portfolio Accuracy | 5864 |
 | [catalogue/business-outcomes/BO-GIB-REL-01.md](catalogue/business-outcomes/BO-GIB-REL-01.md) | `2:5605` | BO-GIB-REL-01 - Strengthen Priority Client Relationship Quality | 4145 |
 | [catalogue/business-use-cases/BUC-GIB-INTEL-01.md](catalogue/business-use-cases/BUC-GIB-INTEL-01.md) | `2:5608` | BUC-GIB-INTEL-01 - Triage And Send A Material Signal | 12731 |
-| [catalogue/business-use-cases/BUC-GIB-MEET-01.md](catalogue/business-use-cases/BUC-GIB-MEET-01.md) | `2:5611` | BUC-GIB-MEET-01 - Prepare, Conduct, And Convert A High-Stakes Client Meeting | 14622 |
+| [catalogue/business-use-cases/BUC-GIB-MEET-01.md](catalogue/business-use-cases/BUC-GIB-MEET-01.md) | `2:5611` | BUC-GIB-MEET-01 - Prepare, Conduct, And Convert A High-Stakes Client Interaction | 14622 |
 | [catalogue/business-use-cases/BUC-GIB-PIPE-01.md](catalogue/business-use-cases/BUC-GIB-PIPE-01.md) | `2:5610` | BUC-GIB-PIPE-01 - Review And Direct Priority Opportunities | 15157 |
 | [catalogue/business-use-cases/BUC-GIB-REL-01.md](catalogue/business-use-cases/BUC-GIB-REL-01.md) | `2:5609` | BUC-GIB-REL-01 - Review And Direct A Priority Client Relationship | 12510 |
 | [catalogue/business-use-cases/BUC-GIB-ACT-01.md](catalogue/business-use-cases/BUC-GIB-ACT-01.md) | `107:4` | BUC-GIB-ACT-01 - Resolve A Commitment That Is Drifting Or Waiting On The Senior (candidate) | 12817 |
 | [catalogue/business-use-cases/BUC-GIB-INTEL-02.md](catalogue/business-use-cases/BUC-GIB-INTEL-02.md) | `103:3` | BUC-GIB-INTEL-02 - Bring A Held Signal To Its Accountable Owner (candidate) | 11267 |
 | [catalogue/business-use-cases/BUC-GIB-PIPE-02.md](catalogue/business-use-cases/BUC-GIB-PIPE-02.md) | `104:3` | BUC-GIB-PIPE-02 - Recognise An Idea As An Opportunity (candidate) | 13210 |
 | [catalogue/business-use-cases/BUC-GIB-PIPE-03.md](catalogue/business-use-cases/BUC-GIB-PIPE-03.md) | `104:4` | BUC-GIB-PIPE-03 - Review The Portfolio And Redirect Effort (candidate) | 12505 |
-| [catalogue/business-use-cases/BUC-GIB-REL-02.md](catalogue/business-use-cases/BUC-GIB-REL-02.md) | `103:6` | BUC-GIB-REL-02 - Execute A Purposeful Client Contact (candidate) | 14165 |
+| [catalogue/business-use-cases/BUC-GIB-REL-02.md](catalogue/business-use-cases/BUC-GIB-REL-02.md) | `103:6` | BUC-GIB-REL-02 - Execute A Purposeful Client Engagement (candidate) | 14165 |
 | [catalogue/job-families/JF-GIB-INTEL-01.md](catalogue/job-families/JF-GIB-INTEL-01.md) | `2:5612` | JF-GIB-INTEL-01 - Intelligence Triage | 5942 |
-| [catalogue/job-families/JF-GIB-MEET-01.md](catalogue/job-families/JF-GIB-MEET-01.md) | `2:5615` | JF-GIB-MEET-01 - High-Stakes Client Meetings | 6935 |
+| [catalogue/job-families/JF-GIB-MEET-01.md](catalogue/job-families/JF-GIB-MEET-01.md) | `2:5615` | JF-GIB-MEET-01 - High-Stakes Client Interactions | 6935 |
 | [catalogue/job-families/JF-GIB-PIPE-01.md](catalogue/job-families/JF-GIB-PIPE-01.md) | `2:5614` | JF-GIB-PIPE-01 - Opportunity Pipeline Management | 8501 |
 | [catalogue/job-families/JF-GIB-REL-01.md](catalogue/job-families/JF-GIB-REL-01.md) | `2:5613` | JF-GIB-REL-01 - Client Relationship Management | 7600 |
 | [catalogue/job-families/JF-GIB-ACT-01.md](catalogue/job-families/JF-GIB-ACT-01.md) | `107:2` | JF-GIB-ACT-01 - Actions And Commitments (candidate) | 8590 |
 | [catalogue/jtbd/JTBD-GIB-INTEL-01.md](catalogue/jtbd/JTBD-GIB-INTEL-01.md) | `2:5616` | JTBD-GIB-INTEL-01 - Isolate And Route Consequential Intelligence | 3878 |
-| [catalogue/jtbd/JTBD-GIB-MEET-01.md](catalogue/jtbd/JTBD-GIB-MEET-01.md) | `2:5619` | JTBD-GIB-MEET-01 - Convert High-Stakes Client Meetings Into Progress | 5344 |
+| [catalogue/jtbd/JTBD-GIB-MEET-01.md](catalogue/jtbd/JTBD-GIB-MEET-01.md) | `2:5619` | JTBD-GIB-MEET-01 - Convert High-Stakes Client Interactions Into Progress | 5344 |
 | [catalogue/jtbd/JTBD-GIB-PIPE-01.md](catalogue/jtbd/JTBD-GIB-PIPE-01.md) | `2:5618` | JTBD-GIB-PIPE-01 - Maintain Disciplined Opportunity Management | 5769 |
 | [catalogue/jtbd/JTBD-GIB-REL-01.md](catalogue/jtbd/JTBD-GIB-REL-01.md) | `2:5617` | JTBD-GIB-REL-01 - Strengthen Priority Client Relationships | 4791 |
 | [catalogue/jtbd/JTBD-GIB-ACT-01.md](catalogue/jtbd/JTBD-GIB-ACT-01.md) | `107:3` | JTBD-GIB-ACT-01 - Translate Intent Into Accepted Ownership And Explicit Commitment (candidate) | 7246 |
@@ -101,7 +101,7 @@ Known dangling links inside the ingested content, inherited from the source and 
 | [catalogue/scenarios/SC-GIB-PIPE-01-E.md](catalogue/scenarios/SC-GIB-PIPE-01-E.md) | `2:5626` | SC-GIB-PIPE-01-E - Restricted Cross-GIB Opportunity | 5798 |
 | [catalogue/scenarios/SC-GIB-REL-01-A.md](catalogue/scenarios/SC-GIB-REL-01-A.md) | `2:5625` | SC-GIB-REL-01-A - Institution Relationship Review | 5580 |
 | [catalogue/scenarios/SC-GIB-REL-01-B.md](catalogue/scenarios/SC-GIB-REL-01-B.md) | `2:5624` | SC-GIB-REL-01-B - Time-Sensitive Relationship Risk Or Commitment | 4532 |
-| [catalogue/scenarios/SC-GIB-REL-01-C.md](catalogue/scenarios/SC-GIB-REL-01-C.md) | `2:5623` | SC-GIB-REL-01-C - Tier-Based Contact Frequency Review | 4400 |
+| [catalogue/scenarios/SC-GIB-REL-01-C.md](catalogue/scenarios/SC-GIB-REL-01-C.md) | `2:5623` | SC-GIB-REL-01-C - Tier-Based Engagement Frequency Review | 4400 |
 | [catalogue/scenarios/SC-GIB-INTEL-01-D.md](catalogue/scenarios/SC-GIB-INTEL-01-D.md) | `103:4` | SC-GIB-INTEL-01-D - Accumulated Signals With No Single Trigger (candidate) | 5066 |
 | [catalogue/scenarios/SC-GIB-INTEL-01-E.md](catalogue/scenarios/SC-GIB-INTEL-01-E.md) | `103:5` | SC-GIB-INTEL-01-E - Converging Changes Or Cross-Client Implication (candidate) | 5348 |
 | [catalogue/scenarios/SC-GIB-MEET-01-D.md](catalogue/scenarios/SC-GIB-MEET-01-D.md) | `105:4` | SC-GIB-MEET-01-D - Protocol-Driven Or First Senior Interaction | 7088 |

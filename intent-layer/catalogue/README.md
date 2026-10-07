@@ -19,14 +19,14 @@ Every record carries a review state. `Current`, `Review required` and `In review
 
 | Artifact | Stable ID | Maturity | Revision | Review state | Record |
 | --- | --- | --- | --- | --- | --- |
-| Business outcome | `BO-GIB-INTEL-01` | `Hypothesis` | `1.2` | `Current` | [Improve response to material signals](business-outcomes/BO-GIB-INTEL-01.md) |
-| Job family | `JF-GIB-INTEL-01` | `Evidence-backed` | `1.2` | `Current` | [Intelligence triage](job-families/JF-GIB-INTEL-01.md) |
-| Business use case | `BUC-GIB-INTEL-01` | `Evidence-backed` | `1.2` | `Current` | [Triage and send a material signal](business-use-cases/BUC-GIB-INTEL-01.md) |
-| Business use case | `BUC-GIB-INTEL-02` | `Evidence-backed` for trigger, value and judgments | `0.2` | `Candidate` | [Bring a held signal to its accountable owner](business-use-cases/BUC-GIB-INTEL-02.md) |
-| JTBD | `JTBD-GIB-INTEL-01` | `Confirmed` for Senior Coverage MDs, one participant | `1.2` | `Current` | [Isolate and judge material change](jtbd/JTBD-GIB-INTEL-01.md) |
-| JTBD | `JTBD-GIB-INTEL-02` | `Evidence-backed` for the need; wording untested | `0.2` | `Candidate` | [Bring held information to its accountable owner](jtbd/JTBD-GIB-INTEL-02.md) |
-| Scenario | `SC-GIB-INTEL-01-A` | `Evidence-backed` | `1.2` | `Current` | [Short-window material signal](scenarios/SC-GIB-INTEL-01-A.md) |
-| Scenario | `SC-GIB-INTEL-01-B` | `Evidence-backed` | `1.2` | `Current` | [Uncertain high-impact signal](scenarios/SC-GIB-INTEL-01-B.md) |
+| Business outcome | `BO-GIB-INTEL-01` | `Hypothesis` | `1.2` | `Current` | [Improve response to material Signals](business-outcomes/BO-GIB-INTEL-01.md) |
+| Job family | `JF-GIB-INTEL-01` | `Evidence-backed` | `1.3` | `Current` | [Intelligence triage](job-families/JF-GIB-INTEL-01.md) |
+| Business use case | `BUC-GIB-INTEL-01` | `Evidence-backed` | `1.3` | `Current` | [Triage and send a material Signal](business-use-cases/BUC-GIB-INTEL-01.md) |
+| Business use case | `BUC-GIB-INTEL-02` | `Evidence-backed` for trigger, value and judgments | `0.3` | `Candidate` | [Bring a held Signal to its accountable owner](business-use-cases/BUC-GIB-INTEL-02.md) |
+| JTBD | `JTBD-GIB-INTEL-01` | `Confirmed` for Senior Coverage MDs, one participant | `1.3` | `Current` | [Isolate and judge material change](jtbd/JTBD-GIB-INTEL-01.md) |
+| JTBD | `JTBD-GIB-INTEL-02` | `Evidence-backed` for the need; wording untested | `0.3` | `Candidate` | [Bring held information to its accountable owner](jtbd/JTBD-GIB-INTEL-02.md) |
+| Scenario | `SC-GIB-INTEL-01-A` | `Evidence-backed` | `1.2` | `Current` | [Short-window material Signal](scenarios/SC-GIB-INTEL-01-A.md) |
+| Scenario | `SC-GIB-INTEL-01-B` | `Evidence-backed` | `1.2` | `Current` | [Uncertain high-impact Signal](scenarios/SC-GIB-INTEL-01-B.md) |
 | Scenario | `SC-GIB-INTEL-01-C` | `Evidence-backed` | `1.2` | `Current` | [Monitor or dismiss](scenarios/SC-GIB-INTEL-01-C.md) |
 | Scenario | `SC-GIB-INTEL-01-D` | `Hypothesis` | `0.2` | `Candidate` | [Accumulated signals with no single trigger](scenarios/SC-GIB-INTEL-01-D.md) |
 | Scenario | `SC-GIB-INTEL-01-E` | `Evidence-backed` | `1.1` | `Candidate` | [Converging changes or cross-client implication](scenarios/SC-GIB-INTEL-01-E.md) |
@@ -35,49 +35,49 @@ Every record carries a review state. `Current`, `Review required` and `In review
 
 | Artifact | Stable ID | Maturity | Revision | Review state | Record |
 | --- | --- | --- | --- | --- | --- |
-| Business outcome | `BO-GIB-REL-01` | `Hypothesis` | `1.2` | `Current` | [Strengthen priority client relationship quality](business-outcomes/BO-GIB-REL-01.md) |
-| Job family | `JF-GIB-REL-01` | `Evidence-backed` | `1.2` | `Current` | [Client relationship management](job-families/JF-GIB-REL-01.md) |
-| Business use case | `BUC-GIB-REL-01` | `Evidence-backed` | `1.2` | `Current` | [Review and direct a priority client relationship](business-use-cases/BUC-GIB-REL-01.md) |
-| Business use case | `BUC-GIB-REL-02` | `Hypothesis`; S1, S2, S5 evidence-backed | `0.2` | `Candidate` | [Execute a purposeful client contact](business-use-cases/BUC-GIB-REL-02.md) |
-| JTBD | `JTBD-GIB-REL-01` | `Confirmed` for Senior Coverage MDs, one participant | `1.2` | `Current` | [Strengthen priority client relationships](jtbd/JTBD-GIB-REL-01.md) |
-| Scenario | `SC-GIB-REL-01-A` | `Evidence-backed` | `1.2` | `Current` | [Contextual change in the client institution](scenarios/SC-GIB-REL-01-A.md) |
-| Scenario | `SC-GIB-REL-01-B` | `Evidence-backed` | `1.2` | `Current` | [Time-Sensitive relationship risk or commitment](scenarios/SC-GIB-REL-01-B.md) |
-| Scenario | `SC-GIB-REL-01-C` | `Evidence-backed` | `1.2` | `Current` | [Tier-based contact frequency review](scenarios/SC-GIB-REL-01-C.md) |
-| Scenario | `SC-GIB-REL-01-D` | `Evidence-backed` | `1.1` | `Candidate` | [Cross-JPM overlap on one institution](scenarios/SC-GIB-REL-01-D.md) |
+| Business outcome | `BO-GIB-REL-01` | `Hypothesis` | `1.3` | `Current` | [Strengthen priority client relationship quality](business-outcomes/BO-GIB-REL-01.md) |
+| Job family | `JF-GIB-REL-01` | `Evidence-backed` | `1.3` | `Current` | [Client relationship management](job-families/JF-GIB-REL-01.md) |
+| Business use case | `BUC-GIB-REL-01` | `Evidence-backed` | `1.3` | `Current` | [Review and direct a priority client relationship](business-use-cases/BUC-GIB-REL-01.md) |
+| Business use case | `BUC-GIB-REL-02` | `Hypothesis`; S1, S2, S5 evidence-backed | `0.3` | `Candidate` | [Execute a purposeful client Engagement](business-use-cases/BUC-GIB-REL-02.md) |
+| JTBD | `JTBD-GIB-REL-01` | `Confirmed` for Senior Coverage MDs, one participant | `1.3` | `Current` | [Strengthen priority client relationships](jtbd/JTBD-GIB-REL-01.md) |
+| Scenario | `SC-GIB-REL-01-A` | `Evidence-backed` | `1.3` | `Current` | [Contextual change in the client institution](scenarios/SC-GIB-REL-01-A.md) |
+| Scenario | `SC-GIB-REL-01-B` | `Evidence-backed` | `1.3` | `Current` | [Time-sensitive relationship risk or commitment](scenarios/SC-GIB-REL-01-B.md) |
+| Scenario | `SC-GIB-REL-01-C` | `Evidence-backed` | `1.3` | `Current` | [Tier-based Engagement frequency review](scenarios/SC-GIB-REL-01-C.md) |
+| Scenario | `SC-GIB-REL-01-D` | `Evidence-backed` | `1.2` | `Candidate` | [Cross-JPM overlap on one institution](scenarios/SC-GIB-REL-01-D.md) |
 
 ### Opportunity Pipeline Management
 
 | Artifact | Stable ID | Maturity | Revision | Review state | Record |
 | --- | --- | --- | --- | --- | --- |
 | Business outcome | `BO-GIB-PIPE-01` | `Hypothesis` | `1.2` | `Current` | [Improve opportunity portfolio accuracy](business-outcomes/BO-GIB-PIPE-01.md) |
-| Job family | `JF-GIB-PIPE-01` | `Evidence-backed` | `1.2` | `Current` | [Opportunity pipeline management](job-families/JF-GIB-PIPE-01.md) |
-| Business use case | `BUC-GIB-PIPE-01` | `Evidence-backed` | `3.1` | `Current` | [Review one opportunity and decide its next move](business-use-cases/BUC-GIB-PIPE-01.md) |
-| Business use case | `BUC-GIB-PIPE-02` | Trigger and value `Evidence-backed`; steps `Hypothesis` | `0.2` | `Candidate` | [Recognise an idea as an opportunity](business-use-cases/BUC-GIB-PIPE-02.md) |
-| Business use case | `BUC-GIB-PIPE-03` | `Evidence-backed`; no forum observed | `0.2` | `Candidate` | [Review the portfolio and redirect effort](business-use-cases/BUC-GIB-PIPE-03.md) |
+| Job family | `JF-GIB-PIPE-01` | `Evidence-backed` | `1.3` | `Current` | [Opportunity pipeline management](job-families/JF-GIB-PIPE-01.md) |
+| Business use case | `BUC-GIB-PIPE-01` | `Evidence-backed` | `3.2` | `Current` | [Review one opportunity and decide its next move](business-use-cases/BUC-GIB-PIPE-01.md) |
+| Business use case | `BUC-GIB-PIPE-02` | Trigger and value `Evidence-backed`; steps `Hypothesis` | `0.3` | `Candidate` | [Recognise an idea as an opportunity](business-use-cases/BUC-GIB-PIPE-02.md) |
+| Business use case | `BUC-GIB-PIPE-03` | `Evidence-backed`; no forum observed | `0.3` | `Candidate` | [Review the portfolio and redirect effort](business-use-cases/BUC-GIB-PIPE-03.md) |
 | JTBD | `JTBD-GIB-PIPE-01` | `Confirmed` for Senior Coverage MDs, one participant | `2.2` | `Current` | [Maintain disciplined opportunity management](jtbd/JTBD-GIB-PIPE-01.md) |
 | Scenario | `SC-GIB-PIPE-01-A` | `Superseded` by `BUC-GIB-PIPE-03` | `2.0` | `Superseded` | [Recurring pipeline management session](scenarios/SC-GIB-PIPE-01-A.md) |
 | Scenario | `SC-GIB-PIPE-01-B` | `Evidence-backed` | `1.2` | `Current` | [Material change or closing decision window](scenarios/SC-GIB-PIPE-01-B.md) |
 | Scenario | `SC-GIB-PIPE-01-C` | `Evidence-backed` | `1.2` | `Current` | [Parked opportunity reactivation](scenarios/SC-GIB-PIPE-01-C.md) |
-| Scenario | `SC-GIB-PIPE-01-D` | `Evidence-backed` | `1.2` | `Current` | [Ambiguous early idea after recognition](scenarios/SC-GIB-PIPE-01-D.md) |
+| Scenario | `SC-GIB-PIPE-01-D` | `Evidence-backed` | `1.3` | `Current` | [Ambiguous early idea after recognition](scenarios/SC-GIB-PIPE-01-D.md) |
 | Scenario | `SC-GIB-PIPE-01-E` | `Superseded` by the cross-family control rule | `2.0` | `Superseded` | [Restricted cross-gib opportunity](scenarios/SC-GIB-PIPE-01-E.md) |
 | Scenario | `SC-GIB-PIPE-01-F` | `Evidence-backed` | `1.1` | `Current` | [Deliberate exit](scenarios/SC-GIB-PIPE-01-F.md) |
 | Scenario | `SC-GIB-PIPE-01-G` | `Evidence-backed` | `1.1` | `Current` | [Review condition reached without progress](scenarios/SC-GIB-PIPE-01-G.md) |
-| Scenario | `SC-GIB-PIPE-03-A` | `Evidence-backed` | `1.1` | `Candidate` | [Alignment-Only forum](scenarios/SC-GIB-PIPE-03-A.md) |
-| Scenario | `SC-GIB-PIPE-03-B` | `Evidence-backed` | `1.1` | `Candidate` | [Decision forum](scenarios/SC-GIB-PIPE-03-B.md) |
+| Scenario | `SC-GIB-PIPE-03-A` | `Evidence-backed` | `1.1` | `Candidate` | [Alignment-only forum](scenarios/SC-GIB-PIPE-03-A.md) |
+| Scenario | `SC-GIB-PIPE-03-B` | `Evidence-backed` | `1.2` | `Candidate` | [Decision forum](scenarios/SC-GIB-PIPE-03-B.md) |
 
-### High-Stakes Client Meetings
+### High-Stakes Client Interactions
 
 | Artifact | Stable ID | Maturity | Revision | Review state | Record |
 | --- | --- | --- | --- | --- | --- |
-| Business outcome | `BO-GIB-MEET-01` | `Hypothesis` | `1.1` | `Current` | [Improve high-stakes client meeting outcomes](business-outcomes/BO-GIB-MEET-01.md) |
-| Job family | `JF-GIB-MEET-01` | `Evidence-backed` | `1.2` | `Current` | [High-Stakes client meetings](job-families/JF-GIB-MEET-01.md) |
-| Business use case | `BUC-GIB-MEET-01` | `Evidence-backed` | `1.2` | `Current` | [Prepare, conduct, and convert a high-stakes client meeting](business-use-cases/BUC-GIB-MEET-01.md) |
-| JTBD | `JTBD-GIB-MEET-01` | `Confirmed` for Senior Coverage MDs, one participant | `1.2` | `Current` | [Convert high-stakes client meetings into progress](jtbd/JTBD-GIB-MEET-01.md) |
-| Scenario | `SC-GIB-MEET-01-A` | `Evidence-backed` | `1.1` | `Current` | [Forming client decision](scenarios/SC-GIB-MEET-01-A.md) |
-| Scenario | `SC-GIB-MEET-01-B` | `Evidence-backed` | `1.1` | `Current` | [Relationship-Sensitive listening or repair](scenarios/SC-GIB-MEET-01-B.md) |
-| Scenario | `SC-GIB-MEET-01-C` | `Evidence-backed` | `1.2` | `Current` | [Major commitment or cross-jpm meeting](scenarios/SC-GIB-MEET-01-C.md) |
-| Scenario | `SC-GIB-MEET-01-D` | `Evidence-backed` | `1.1` | `Current` | [Protocol-Driven or first senior interaction](scenarios/SC-GIB-MEET-01-D.md) |
-| Scenario | `SC-GIB-MEET-01-E` | `Hypothesis` | `0.2` | `Candidate` | [Short-Notice or unplanned interaction](scenarios/SC-GIB-MEET-01-E.md) |
+| Business outcome | `BO-GIB-MEET-01` | `Hypothesis` | `1.2` | `Current` | [Improve high-stakes client Interaction outcomes](business-outcomes/BO-GIB-MEET-01.md) |
+| Job family | `JF-GIB-MEET-01` | `Evidence-backed` | `1.3` | `Current` | [High-stakes client Interactions](job-families/JF-GIB-MEET-01.md) |
+| Business use case | `BUC-GIB-MEET-01` | `Evidence-backed` | `1.3` | `Current` | [Prepare, conduct, and convert a high-stakes client Interaction](business-use-cases/BUC-GIB-MEET-01.md) |
+| JTBD | `JTBD-GIB-MEET-01` | `Confirmed` for Senior Coverage MDs, one participant | `1.3` | `Current` | [Convert high-stakes client Interactions into progress](jtbd/JTBD-GIB-MEET-01.md) |
+| Scenario | `SC-GIB-MEET-01-A` | `Evidence-backed` | `1.2` | `Current` | [Forming client decision](scenarios/SC-GIB-MEET-01-A.md) |
+| Scenario | `SC-GIB-MEET-01-B` | `Evidence-backed` | `1.2` | `Current` | [Relationship-sensitive listening or repair](scenarios/SC-GIB-MEET-01-B.md) |
+| Scenario | `SC-GIB-MEET-01-C` | `Evidence-backed` | `1.3` | `Current` | [Major commitment or cross-JPM meeting](scenarios/SC-GIB-MEET-01-C.md) |
+| Scenario | `SC-GIB-MEET-01-D` | `Evidence-backed` | `1.2` | `Current` | [Protocol-driven or first senior Interaction](scenarios/SC-GIB-MEET-01-D.md) |
+| Scenario | `SC-GIB-MEET-01-E` | `Hypothesis` | `0.3` | `Candidate` | [Short-notice or unplanned Interaction](scenarios/SC-GIB-MEET-01-E.md) |
 
 ### Actions And Commitments (candidate family)
 
@@ -85,9 +85,9 @@ Raised by the model revision of 2026-10-07 from the Round 1 actions evidence (Q1
 
 | Artifact | Stable ID | Maturity | Revision | Review state | Record |
 | --- | --- | --- | --- | --- | --- |
-| Job family | `JF-GIB-ACT-01` | `Hypothesis` | `0.2` | `Candidate` | [Actions and commitments](job-families/JF-GIB-ACT-01.md) |
-| Business use case | `BUC-GIB-ACT-01` | `Hypothesis` | `0.2` | `Candidate` | [Resolve a commitment that is drifting or waiting on the senior](business-use-cases/BUC-GIB-ACT-01.md) |
-| JTBD | `JTBD-GIB-ACT-01` | `Evidence-backed`; Q122 accepted as a starting hypothesis | `0.2` | `Candidate` | [Translate intent into accepted ownership and explicit commitment](jtbd/JTBD-GIB-ACT-01.md) |
+| Job family | `JF-GIB-ACT-01` | `Hypothesis` | `0.3` | `Candidate` | [Actions and commitments](job-families/JF-GIB-ACT-01.md) |
+| Business use case | `BUC-GIB-ACT-01` | `Hypothesis` | `0.3` | `Candidate` | [Resolve a commitment that is drifting or waiting on the senior](business-use-cases/BUC-GIB-ACT-01.md) |
+| JTBD | `JTBD-GIB-ACT-01` | `Evidence-backed`; Q122 accepted as a starting hypothesis | `0.3` | `Candidate` | [Translate intent into accepted ownership and explicit commitment](jtbd/JTBD-GIB-ACT-01.md) |
 
 No business outcome exists for this family yet; the measure one would need is in the job family record.
 
@@ -95,9 +95,9 @@ No business outcome exists for this family yet; the measure one would need is in
 
 | Artifact | Stable ID | Maturity | Revision | Review state | Record |
 | --- | --- | --- | --- | --- | --- |
-| Actor | `ACTOR-COV-SENIOR-MD` | `Evidence-backed` | `2.2` | `Current` | [Senior coverage MD](actors/ACTOR-COV-SENIOR-MD.md) |
-| Actor | `ACTOR-COV-PIPELINE-TEAM` | `Evidence-backed` | `1.2` | `Review required` | [Coverage opportunity team](actors/ACTOR-COV-PIPELINE-TEAM.md) |
-| Actor | `ACTOR-COV-SUPPORT-TEAM` | `Evidence-backed` from the MD's account only | `0.2` | `Candidate` | [Coverage supporting cohort](actors/ACTOR-COV-SUPPORT-TEAM.md) |
+| Actor | `ACTOR-COV-SENIOR-MD` | `Evidence-backed` | `2.3` | `Current` | [Senior coverage MD](actors/ACTOR-COV-SENIOR-MD.md) |
+| Actor | `ACTOR-COV-PIPELINE-TEAM` | `Evidence-backed` | `1.3` | `Review required` | [Coverage opportunity team](actors/ACTOR-COV-PIPELINE-TEAM.md) |
+| Actor | `ACTOR-COV-SUPPORT-TEAM` | `Evidence-backed` from the MD's account only | `0.3` | `Candidate` | [Coverage supporting cohort](actors/ACTOR-COV-SUPPORT-TEAM.md) |
 
 ## Cross-Family Control Rule
 
