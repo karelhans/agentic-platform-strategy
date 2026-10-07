@@ -26,7 +26,7 @@ See the [Business Use Case Template](business_use_case_template.md) for the boun
 
 A valid JTBD:
 
-- describes desired progress, judgment, and outcomes rather than a product interaction;
+- describes desired progress, judgment, and outcomes rather than use of a product;
 - can be owned by an individual or collectively by a team;
 - uses the language of the people responsible for the work;
 - identifies the situation that makes the job relevant;
@@ -40,9 +40,9 @@ A valid JTBD:
 
 Use the individual or collective form that reflects how the work is actually owned.
 
-> **Individual:** When `[situation or trigger]`, help me `[desired progress and judgment]`, so `[client, franchise, or operating outcome]`, without `[unwanted trade-off]`.
+> **Individual:** When `[situation or trigger]`, help me `[desired progress and judgment]`, so `[client, firm, or operating outcome]`, without `[unwanted trade-off]`.
 
-> **Collective:** When `[situation or trigger]`, help us `[desired progress and judgment]`, so `[client, franchise, or operating outcome]`, without `[unwanted trade-off]`.
+> **Collective:** When `[situation or trigger]`, help us `[desired progress and judgment]`, so `[client, firm, or operating outcome]`, without `[unwanted trade-off]`.
 
 ## Record Template
 
@@ -58,7 +58,7 @@ Use the individual or collective form that reflects how the work is actually own
 | **Situation and triggers** | Circumstances that make the job relevant or urgent. |
 | **Desired progress** | What must move forward, become clearer, or materially improve. |
 | **Required judgment** | Decisions, interpretation, or authority that cannot be reduced to routine activity. |
-| **Desired outcome** | Observable client, franchise, risk, or operating result. |
+| **Desired outcome** | Observable client, firm, risk, or operating result. |
 | **Unwanted trade-offs** | Burden, delay, risk, loss, or distortion that must be avoided. |
 | **Current process, workaround, and pain** | How the work is accomplished today and what it costs. Mark unsupported claims `[validate]`. |
 | **Related scenarios** | Stable IDs for meaningful contexts or variations in which the job arises. |
@@ -68,7 +68,7 @@ Use the individual or collective form that reflects how the work is actually own
 
 ## Representative Actor Archetypes
 
-A persona is a research-derived representation of a cohort responsible for all or part of the JTBD. It is a **design view over the work**, not the source or owner of the work itself.
+A persona is a research-derived representation of a cohort responsible for all or part of the JTBD. It is a **design representation of the work**, not the source or owner of the work itself.
 
 Define an archetype using relevant criteria rather than invented biography:
 

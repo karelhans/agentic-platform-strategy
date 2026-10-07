@@ -24,7 +24,7 @@ A valid job family:
 | Field | What to capture |
 | --- | --- |
 | **Definition** | One-sentence description of the coherent area of business work. |
-| **Business purpose** | Client, franchise, risk, or operating purpose served by the family. |
+| **Business purpose** | Client, firm, risk, or operating purpose served by the family. |
 | **Lifecycle position** | Where this work sits in the relevant business lifecycle; use `cross-lifecycle` where appropriate. |
 | **Scope boundary** | Where the family starts and ends conceptually. |
 | **Included work** | Types of business use cases and JTBDs that belong here. |
@@ -83,17 +83,17 @@ A valid job family:
 
 | Field | Example |
 | --- | --- |
-| **Definition** | Work through which a sell-side deal team identifies, agrees, sequences, and prepares engagement with credible potential buyers. |
+| **Definition** | Work through which a sell-side deal team identifies, agrees, sequences, and prepares outreach to credible potential buyers. |
 | **Business purpose** | Establish a defensible counterparty strategy that reflects client objectives and supports an effective sale process. |
 | **Lifecycle position** | Deal preparation and early execution. |
-| **Scope boundary** | Begins when buyer strategy is required and ends before active buyer engagement and bid management. |
-| **Included work** | Develop buyer universe, agree exclusions, prioritize outreach, assign relationship ownership, and prepare engagement sequencing. |
+| **Scope boundary** | Begins when buyer strategy is required and ends before active buyer outreach and bid management. |
+| **Included work** | Develop buyer universe, agree exclusions, prioritize outreach, assign relationship ownership, and prepare outreach sequencing. |
 | **Excluded work** | Initial opportunity qualification, direct buyer outreach, bid evaluation, and transaction negotiation. |
 | **Primary business outcomes** | `BO-MA-01` - Accelerate buyer strategy preparation. |
 | **Business use cases** | `BUC-MA-01` - Develop and agree the buyer universe. |
 | **JTBDs** | `JTBD-MA-01` - Identify and prioritize credible buyers. |
 | **Responsible actor cohorts** | Sell-side deal team, including Associate, VP, senior deal-team banker, Coverage, and relevant specialists. |
-| **Adjacent job families** | Opportunity qualification; buyer engagement and process management `[validate IDs]`. |
+| **Adjacent job families** | Opportunity qualification; buyer outreach and process management `[validate IDs]`. |
 | **Common business rules and controls** | Client exclusions, confidentiality, conflicts, information barriers, and senior acceptance. |
 | **Known variations** | Pitch versus mandate, strategic versus sponsor emphasis, geography, sector, and transaction complexity. |
 | **Evidence** | Illustrative example; replace with business-process and interview evidence. |

@@ -86,7 +86,7 @@ Record only the meaningful differences from the parent business use case.
 
 - [ ] The scenario links to exactly one primary business use case.
 - [ ] The parent value delivered remains invariant.
-- [ ] The variation materially affects business context or process, not only a product interaction.
+- [ ] The variation materially affects business context or process, not only how a product is used.
 - [ ] Changed tasks, evidence, participants, decisions, or controls are explicit.
 - [ ] Actor archetypes and JTBDs use stable IDs.
 - [ ] The scenario does not duplicate the complete parent process unnecessarily.
@@ -107,9 +107,9 @@ Record only the meaningful differences from the parent business use case.
 | **Context** | The team is preparing an indicative buyer thesis before it has a mandate or complete client constraints. |
 | **Trigger** | A pitch or early client discussion requires a credible view of potential buyers. |
 | **Starting conditions** | Public and institutional evidence is available, but client exclusions, transaction perimeter, and process choices may be incomplete. |
-| **Stakes and urgency** | The universe must demonstrate judgment and preparedness without presenting hypothesis as settled fact. |
+| **Stakes and urgency** | The universe must demonstrate judgment and preparedness without presenting a starting view as settled fact. |
 | **What varies** | Evidence threshold is lighter; uncertainty and assumptions are more prominent; outreach sequencing and ownership may remain provisional. |
 | **What remains invariant** | The team must identify, prioritize, explain, and accept a credible buyer universe for the stage. |
-| **Additional business rules or controls** | Clearly distinguish hypotheses from known client direction and avoid implying authorization for outreach. |
+| **Additional business rules or controls** | Clearly distinguish starting views from known client direction and avoid implying authorization for outreach. |
 | **Exit or transition** | The indicative universe is accepted for pitch use or transitions to post-mandate refinement. |
 | **Evidence maturity** | `Hypothesis`. |

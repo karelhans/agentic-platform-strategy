@@ -52,7 +52,7 @@ Product capabilities and solution flows are downstream artifacts. Do not use the
 | --- | --- |
 | **Business outcome target** | A measurable organizational result, with a baseline, target, scope, and timeframe where evidence exists. |
 | **Value delivered** | The useful business state, decision, commitment, or output produced by one completion of a business use case. The underlying modeling term is **unit of value**. |
-| **Desired outcome** | The broader client, franchise, risk, or operating consequence sought through a JTBD. |
+| **Desired outcome** | The broader client, firm, risk, or operating consequence sought through a JTBD. |
 | **Value proposition** | A claim about why a product or solution is valuable. It belongs downstream and is not an intent artifact. |
 
 Keep these distinct:
@@ -63,6 +63,35 @@ Value delivered          = result of one completed business use case
 JTBD desired outcome     = consequence the responsible actors seek
 Value proposition        = promise made by a product or solution
 ```
+
+## House Terms
+
+Every record uses these terms exactly. Capitalise them when they carry this meaning. Do not use synonyms.
+
+| Term | Meaning |
+| --- | --- |
+| **Signal** | A piece of new information that may affect a client. |
+| **Decision** | The chosen response to a Signal: act, monitor, or dismiss. |
+| **Rationale** | Why that Decision was made, in one sentence. |
+| **View** | The workspace or person the Signal goes to next. It names the owner, not a screen. |
+| **Interaction** | A live exchange between a banker and a client: a phone call, a virtual meeting or an in-person meeting. |
+| **Engagement** | Any contact with a client, including emails and messages. Every Interaction is an Engagement; not every Engagement is an Interaction. |
+
+Avoid these words in editorial copy. Write the house term or the plain alternative instead.
+
+| Avoid | Use |
+| --- | --- |
+| disposition | Decision; disposition reason becomes Rationale |
+| route to, routing | send to, sending |
+| destination | View, or the owner |
+| steward, stewardship | owner, management |
+| consequential as a catch-all | material, high-stakes, or what matters, chosen by meaning |
+| cadence | timing, frequency |
+| franchise | firm, or JPM |
+| orchestrate, orchestration | coordinate, coordination |
+| touchpoint, contact (client outreach) | Engagement, or Interaction when the banker and client meet live |
+
+Canonical-source exception: verbatim quotations, confirmed JTBD statements, participant words and prior revision-history rows keep their original words.
 
 ## Generation Order
 
@@ -75,7 +104,7 @@ The work is iterative, but use this order to avoid deriving intent from a propos
 5. **Derive the JTBD.** Ask why the responsible actors undertake the use case and what enduring progress, judgment, and consequence they seek.
 6. **Derive actor archetypes.** Cluster evidence about responsibility, authority, behavior, information needs, and constraints. Do not invent a persona first and assign work to it later.
 7. **Identify scenarios.** Capture meaningful variations that preserve the same core value delivered but alter context, stakes, participants, evidence, or path.
-8. **Validate the model.** Check boundaries, traceability, evidence maturity, ownership, and language with participants or subject-matter experts.
+8. **Validate the model.** Check boundaries, traceability, evidence maturity, ownership, and language with participants or specialists.
 9. **Map capabilities separately.** Only after intent is stable, identify reusable product abilities and solution flows that may support it.
 
 ## Evidence Rules
@@ -138,7 +167,7 @@ Mark a record `Review required` when any of the following could materially chang
 2. **Flag the standing record.** Set review state to `Review required`; retain the current revision for consumers until a replacement decision is accepted.
 3. **Assess impact.** Trace inbound and outbound stable-ID references, including business outcomes, use cases, JTBDs, actors, scenarios, capabilities, requirements, and solution flows.
 4. **Re-evaluate the model.** Recheck boundaries, ownership, value delivered, job wording, maturity, success signals, and unresolved contradictions against the new evidence.
-5. **Record one disposition:**
+5. **Record one review decision:**
       - **No semantic change:** retain the revision and append the review decision.
       - **Revise in place:** preserve the stable ID and increment the revision when the enduring record remains the same.
       - **Split, merge, or replace:** create new stable ID(s), mark the prior record `Superseded`, and preserve explicit supersession links.
@@ -193,7 +222,7 @@ Intent artifacts may describe enduring business evidence and controls, but must 
 
 - products, platforms, screens, tabs, views, or navigation;
 - clicks, filters, forms, exports, notifications, or interface controls;
-- named technical services, data feeds, models, or system architecture;
+- named technical services, data feeds, models, or system design;
 - delivery phases, feature status, or implementation choices.
 
 Move that material into a capability map, requirements artifact, solution flow, or design document.
@@ -208,10 +237,10 @@ Before accepting a set of artifacts, confirm:
 - [ ] Each JTBD states enduring progress and desired outcome, not a task list.
 - [ ] Collective ownership and individual role contributions are both represented accurately.
 - [ ] Personas are derived from evidence-based actor cohorts rather than invented biographies.
-- [ ] Scenarios are contextual variations, not product interaction flows.
+- [ ] Scenarios are contextual variations, not flows through a product.
 - [ ] All substantive claims have evidence or a validation marker.
 - [ ] Cross-references use stable IDs and have no orphans.
 - [ ] Promoted records include revision, evidence cutoff, review ownership, review triggers, and revision history.
-- [ ] New or contradictory evidence has been preserved and its disposition is explicit.
+- [ ] New or contradictory evidence has been preserved and the decision taken on it is explicit.
 - [ ] Superseded records remain traceable and downstream impacts have been reviewed.
 - [ ] Product capability and solution language is absent from the intent layer.

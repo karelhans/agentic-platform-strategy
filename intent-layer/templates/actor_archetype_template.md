@@ -2,7 +2,7 @@
 
 Use this template to represent an evidence-based cohort responsible for all or part of a JTBD or business use case.
 
-> The work exists independently of a persona. First identify collective responsibility and role contributions; then derive an archetype that makes the responsible cohort relatable and useful for research and design.
+> The work exists independently of a persona. First identify collective responsibility and role contributions. Then derive an archetype that makes the responsible cohort relatable and useful for research and design.
 
 Follow the [Intent Artifact Generation Guide](artifact_generation_guide.md) for evidence rules, stable IDs, and cross-artifact validation.
 
@@ -25,7 +25,7 @@ Derive an archetype from patterns across evidence such as:
 - working patterns, pressures, constraints, and risk exposure;
 - meaningful behavioral differences within otherwise similar roles.
 
-Do not create a separate archetype for superficial preferences or differences that do not change responsibility, judgment, process contribution, or desired progress.
+Do not create a separate archetype for superficial preferences. Split only where differences change responsibility, judgment, process contribution, or desired progress.
 
 ## Record Template
 
@@ -62,7 +62,7 @@ Do not create a separate archetype for superficial preferences or differences th
 | **Expertise and mental models** | Domain knowledge and recurring reasoning patterns relevant to the work. |
 | **Working patterns** | Recurring contexts, timing, collaboration modes, and time constraints. |
 | **Pain points and failure exposure** | Friction, ambiguity, risk, or consequences experienced by the cohort. |
-| **Control and sensitivity constraints** | Entitlements, confidentiality, conduct, or risk boundaries shaping the work. |
+| **Control and sensitivity constraints** | Access, confidentiality, conduct, or risk boundaries shaping the work. |
 | **Meaningful internal variations** | Differences within the cohort that should influence scenarios or research cuts but do not justify a separate archetype. |
 
 #### Persona Expression

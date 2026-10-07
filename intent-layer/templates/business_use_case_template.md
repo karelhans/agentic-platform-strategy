@@ -2,7 +2,7 @@
 
 Use this template to describe one bounded, implementation-independent business process through which a person or team produces a recognizable value outcome.
 
-> A business use case begins with a meaningful business trigger and ends when its value has been delivered, explicitly paused, or failed. It describes banker tasks, activities, evidence, judgments, collaboration, and resulting state, not product interactions.
+> A business use case begins with a meaningful business trigger and ends when its value has been delivered, explicitly paused, or failed. It describes banker tasks, activities, evidence, judgments, collaboration, and resulting state, not how a product is used.
 
 Follow the [Intent Artifact Generation Guide](artifact_generation_guide.md) for generation order, evidence rules, stable IDs, and cross-artifact validation.
 
@@ -34,7 +34,7 @@ Use the [Business Outcome Template](business_outcome_template.md), [Job Family T
 | **Responsible actor archetype** | An evidence-based cohort that performs or contributes to the work; a persona may represent this cohort for design. | Who contributes, judges, or is accountable? |
 | **Scenario** | A specific context or meaningful variation in which the business use case occurs. | Under what circumstances does the process vary? |
 | **Product capability** | A reusable functional or technical ability that may support one or more business use cases. | What could support the work? |
-| **Solution flow** | Product-specific interactions using capabilities, interfaces, and channels. | How does a particular solution enable it? |
+| **Solution flow** | How a particular product uses capabilities, interfaces, and channels to support the work. | How does a particular solution enable it? |
 
 ## Boundary Test
 
@@ -114,7 +114,7 @@ Scenarios are meaningful variations of the same business use case. They retain t
 | Field | What to capture |
 | --- | --- |
 | **Success signals** | Behavioral, quality, timing, risk, client, or commercial evidence that the intended value is being delivered better. |
-| **Failure consequences** | Client, franchise, financial, timing, control, or operating impact when the process fails. |
+| **Failure consequences** | Client, firm, financial, timing, control, or operating impact when the process fails. |
 | **Current process and pain** | How the work is performed today and where effort, delay, ambiguity, or risk occurs. Mark unsupported claims `[validate]`. |
 | **Business rules and controls** | Enduring constraints governing the work, independent of a particular implementation. |
 | **Evidence** | Research sources, quotations, observed process, operating data, or outcome data. |
@@ -149,7 +149,7 @@ Scenarios are meaningful variations of the same business use case. They retain t
 - [ ] The process communicates key banker tasks, activities, evidence, judgments, and handoffs.
 - [ ] Scenarios describe meaningful variations, not separate product flows.
 - [ ] Success measures concern business value, quality, time, behavior, or risk rather than feature adoption alone.
-- [ ] Products, screens, views, features, clicks, data architecture, and implementation choices are absent.
+- [ ] Products, screens, views, features, clicks, data design, and implementation choices are absent.
 - [ ] Claims are supported by evidence or marked `[validate]`.
 - [ ] Promoted records include complete governance metadata and append-only revision history.
 - [ ] Boundary, value, ownership, and supersession changes remain traceable across linked records.
@@ -196,11 +196,11 @@ Scenarios are meaningful variations of the same business use case. They retain t
 
 | Step | Task or activity | Responsible role(s) | Evidence considered | Judgment or decision | Collaboration or handoff | Resulting state |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Establish transaction objectives and buyer-selection criteria. | Senior banker, VP, Associate | Client objectives, transaction perimeter, timing, constraints, and strategic hypotheses. | Determine what makes a buyer credible for this situation. | Senior direction is translated into working criteria. | Agreed assessment frame. |
+| 1 | Establish transaction objectives and buyer-selection criteria. | Senior banker, VP, Associate | Client objectives, transaction perimeter, timing, constraints, and the team's starting views on strategy. | Determine what makes a buyer credible for this situation. | Senior direction is translated into working criteria. | Agreed assessment frame. |
 | 2 | Assemble a broad candidate universe. | Associate | Sector participants, sponsors, precedents, acquisition history, financial capacity, and known interest. | Decide which candidates have enough initial relevance to assess. | Specialists contribute names and context. | Broad candidate universe. |
-| 3 | Assess and compare candidates. | Associate, VP | Strategic fit, likely appetite, capacity, acquisition history, relationship access, conflicts, and execution considerations. | Distinguish credible candidates from weak or unsupported names. | Evidence gaps are routed to relevant contributors. | Evidence-backed candidate assessments. |
+| 3 | Assess and compare candidates. | Associate, VP | Strategic fit, likely appetite, capacity, acquisition history, relationship access, conflicts, and execution considerations. | Distinguish credible candidates from weak or unsupported names. | The team sends evidence gaps to the relevant contributors. | Evidence-backed candidate assessments. |
 | 4 | Challenge gaps, exclusions, and assumptions. | VP, senior banker, specialists | Candidate comparisons, missing evidence, contradictory views, and non-obvious alternatives. | Add, remove, retain, or investigate candidates. | Material disagreements are escalated to the accountable senior banker. | Revised and defensible universe. |
-| 5 | Prioritize candidates and document the rationale. | VP, Associate | Relative fit, likelihood, client acceptability, access, sequencing, and process risk. | Establish priority, watch, excluded, or unresolved status. | Rationale is prepared for senior and client discussion. | Prioritized universe with explicit reasoning. |
+| 5 | Prioritize candidates and document the rationale. | VP, Associate | Relative fit, likelihood, client acceptability, access, sequencing, and process risk. | Establish priority, watch, excluded, or unresolved status. | The VP and Associate prepare the rationale for senior review and client Interactions. | Prioritized universe with explicit reasoning. |
 | 6 | Review and accept the buyer strategy. | Senior banker and deal team | Proposed universe, rationale, exclusions, uncertainties, and relationship ownership. | Accept the universe or request targeted revision. | Accepted direction is communicated to the team. | Approved buyer universe. |
 | 7 | Assign ownership and next actions. | Senior banker, VP | Accepted priorities, evidence gaps, relationship coverage, and process timing. | Decide who will validate, approach, monitor, or prepare each priority. | Work passes into outreach planning or further diligence. | Actionable buyer strategy. |
 
@@ -208,7 +208,7 @@ Scenarios are meaningful variations of the same business use case. They retain t
 
 | Scenario ID | Context or trigger | What varies | What remains invariant |
 | --- | --- | --- | --- |
-| `SC-MA-01A` | Preparing an indicative universe before a pitch. | Evidence is lighter, hypotheses are broader, and client constraints may be incomplete. | The universe must remain credible and explainable for its stage. |
+| `SC-MA-01A` | Preparing an indicative universe before a pitch. | Evidence is lighter, starting views are broader, and client constraints may be incomplete. | The universe must remain credible and explainable for its stage. |
 | `SC-MA-01B` | Finalizing the initial universe after mandate. | Client objectives, confidentiality, exclusions, sequencing, and ownership require greater precision. | The deal team must agree a defensible buyer strategy. |
 | `SC-MA-01C` | Revising the universe after client feedback or changed market conditions. | Existing assumptions, priorities, and exclusions are re-evaluated against new evidence. | Changes require explicit rationale and renewed acceptance. |
 

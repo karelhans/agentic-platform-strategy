@@ -31,14 +31,14 @@ When a baseline or target is not yet evidenced, mark it `[validate]` rather than
 | Field | What to capture |
 | --- | --- |
 | **Outcome statement** | Complete measurable statement using the structure above. |
-| **Business rationale** | Why this result matters to clients, the franchise, risk, or operating performance. |
+| **Business rationale** | Why this result matters to clients, the firm, risk, or operating performance. |
 | **Scope** | Population, portfolio, process, region, LOB, or time horizon covered. |
 | **Accountable business owner** | Role or governing body accountable for the result, not the product team delivering support. |
 | **Primary measure** | Metric that most directly represents the intended result. |
 | **Baseline** | Current measured state, period, and source; otherwise `[validate]`. |
 | **Target and timeframe** | Intended state and date, including the evidence or authority behind the target. |
 | **Guardrail measures** | Quality, risk, client, conduct, or sustainability measures that must not deteriorate. |
-| **Leading indicators** | Earlier behavioral or process signals plausibly associated with the outcome. |
+| **Leading indicators** | Earlier behavioral or process indicators plausibly associated with the outcome. |
 | **Contributing job families** | Stable `JF-*` IDs for the business-process areas expected to contribute. |
 | **Contributing business use cases** | Stable `BUC-*` IDs for bounded work that may influence the result. |
 | **Dependencies and external factors** | Conditions outside the modeled work that can materially affect the outcome. |

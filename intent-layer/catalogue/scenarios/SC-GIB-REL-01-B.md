@@ -20,8 +20,8 @@
 | **Stakes and urgency** | Senior involvement may materially protect trust, move a commitment, or repair the relationship's direction. |
 | **What varies** | The review is compressed, personal involvement is more likely, and coordination or moving the commitment becomes central. |
 | **What remains invariant** | Institution-level judgment, purposeful objective, Decision on how to engage, and owned next step remain explicit. |
-| **Additional business rules or controls** | Seniority alone does not justify contact; JPM must have a credible right and purpose to engage. |
-| **Exit or transition** | The risk is repaired, the commitment moves, ownership is clarified, or a deliberate wait is accepted. Repair contact runs through `BUC-GIB-REL-02` (candidate) or `BUC-GIB-MEET-01`. A commitment that is drifting or waiting on the MD enters `BUC-GIB-ACT-01` (candidate) once it crosses the drift threshold. Below that threshold it stays with its owner in this family. |
+| **Additional business rules or controls** | Seniority alone does not justify an Engagement; JPM must have a credible right and purpose to engage. |
+| **Exit or transition** | The risk is repaired, the commitment moves, ownership is clarified, or a deliberate wait is accepted. Repair Engagement runs through `BUC-GIB-REL-02` (candidate) or `BUC-GIB-MEET-01`. A commitment that is drifting or waiting on the MD enters `BUC-GIB-ACT-01` (candidate) once it crosses the drift threshold. Below that threshold it stays with its owner in this family. |
 
 ## Process Variation
 
@@ -42,7 +42,7 @@
 
 | Field | Value |
 | --- | --- |
-| **Revision** | `1.2` |
+| **Revision** | `1.3` |
 | **Evidence cutoff** | 2026-10-02, through Q151. |
 | **Review state** | `Current` |
 | **Last reviewed** | 2026-10-07 |
@@ -50,7 +50,7 @@
 | **Next review** | After a material relationship-risk or commitment episode is observed. |
 | **Review triggers** | Changed attention threshold, authority, commitment boundary, or right-to-engage rule; admission decision on `JTBD-GIB-ACT-01`. |
 | **Supersession links** | None. |
-| **Change rationale** | Model revision of 2026-10-07: cross-link the commitment half of this scenario to the candidate actions job `JTBD-GIB-ACT-01` and state the threshold at which a commitment leaves this family for `BUC-GIB-ACT-01` (candidate). Candidates are not admitted. No change to the variation or its maturity. Revision 1.2 is a banker-language pass on wording only. |
+| **Change rationale** | Model revision of 2026-10-07: cross-link the commitment half of this scenario to the candidate actions job `JTBD-GIB-ACT-01` and state the threshold at which a commitment leaves this family for `BUC-GIB-ACT-01` (candidate). Candidates are not admitted. No change to the variation or its maturity. Revision 1.2 is a banker-language pass on wording only. Revision 1.3 is a terminology pass on wording only: Interaction and Engagement adopted as governed terms. |
 
 ## Revision History
 
@@ -59,3 +59,4 @@
 | `1.0` | 2026-10-02 | Confirmed-intent synthesis through Q151 | Promoted as `Evidence-backed`. | Coverage intent model owner | `BUC-GIB-REL-01` |
 | `1.1` | 2026-10-07 | No new evidence; model revision of 2026-10-07 | Revised in place: commitment half cross-linked to `JTBD-GIB-ACT-01` (candidate); exits name `BUC-GIB-REL-02` (candidate) and `BUC-GIB-ACT-01` (candidate). | Coverage intent model owner | `BUC-GIB-REL-01` |
 | `1.2` | 2026-10-07 | No new evidence; wording only | Banker-language pass: editorial wording in house language (Decision, Rationale, View, Signal; send to; owner; management; material or high-stakes). Meaning, evidence, maturity and review state unchanged. | Coverage intent model owner | None |
+| `1.3` | 2026-10-07 | No new evidence; wording only | Terminology: Interaction (a live exchange with a client: call, virtual or in person) and Engagement (any client contact, including email) adopted as governed terms. Meaning, evidence, maturity and review state unchanged. | Coverage intent model owner | None |
