@@ -11,14 +11,14 @@
 | Confirmed conclusions | Intelligence triage (Q91), client relationship management (Q111), pipeline management (Q117), client meetings (Q127), and umbrella Senior Coverage MD intent (Q134) |
 | Working hypothesis | Actions and commitments (Q122); broader validation required |
 | Deferred intent | Human and agentic capacity (Q130) |
-| Evidence revision | `2.0` |
+| Evidence revision | `2.1` |
 | Evidence cutoff | Q151 |
 | Review state | `Current` |
 | Last reviewed | 2026-10-02 |
 | Review owner | Coverage intent model owner |
 | Next review | After the next broader Line MD or cross-LOB validation round, or when a review trigger occurs |
 | Review triggers | New participant validation; contradictory evidence; changed lens boundaries, ownership, or maturity; cross-LOB findings |
-| Supersession links | Revision `2.0` supersedes revision `1.0` in place; stable evidence path retained |
+| Supersession links | Revision `2.1` amends the catalogue boundary of revision `2.0` in place; revision `2.0` supersedes revision `1.0`; stable evidence path retained |
 | Change rationale | Q113-Q151 resolved pipeline, meetings, umbrella intent, actions status, capacity classification, cross-lens routing, and pipeline operating-model questions. |
 
 This synthesis preserves the accepted intent statements and the evidence themes required to understand them. It excludes participant identity, raw interview answers, and exploratory transcript detail. Supporting catalogue records must follow the [Intent Artifact Generation Guide](../../templates/artifact_generation_guide.md) and [Jobs to Be Done Template](../../templates/jtbd_template.md).
@@ -113,6 +113,8 @@ The meeting JTBD wording is confirmed. Its outcome, job family, business use cas
 
 This statement orients the intent model but does not replace the five standing lenses or imply one umbrella business use case.
 
+Amendment (model revision of 2026-10-07): the statement frames the model and is served by no use case of its own. Daily re-orientation and converging changes are scenarios of the intelligence use case (`SC-GIB-INTEL-01-D`, `SC-GIB-INTEL-01-E`), not an umbrella use case. The participants' word "lens" above is kept verbatim; the catalogue term is job family.
+
 ## Actions And Commitments
 
 ### Working JTBD Hypothesis
@@ -184,3 +186,4 @@ The local normalized session history remains the detailed research record. This 
 | --- | --- | --- | --- | --- | --- |
 | `1.0` | 2026-10-02 | Interview evidence through Q112; explicit confirmations at Q91 and Q111 | Initial repository-safe synthesis. Later marked `Review required` when Q113-Q151 produced material new conclusions. | Coverage intent evidence owner | Existing intelligence and relationship runtime records |
 | `2.0` | 2026-10-02 | Added Q113-Q151 validation and cross-LOB pipeline research synthesis | Revised in place; confirms pipeline, meetings, and umbrella intent, retains actions as evidence-backed, and defers capacity. | Coverage intent model owner | Intelligence, relationship, pipeline, and meeting catalogue/runtime records; pipeline scenarios `A-E`; shared actors; tracked contribution evidence |
+| `2.1` | 2026-10-07 | No new interview evidence. Catalogue boundary amended after the model revision of 2026-10-07. | Umbrella statement framed as served by no use case of its own; re-orientation and converging changes assigned to intelligence scenarios D and E. Statements and confirmations unchanged. | Coverage intent model owner | `SC-GIB-INTEL-01-D`, `SC-GIB-INTEL-01-E`, catalogue README validation boundary |

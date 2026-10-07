@@ -163,6 +163,8 @@ The proxy round should produce:
 - Conflicting actions or commitments emerged across job families.
 - Another trigger.
 
+**Probe (Q141, added 2026-10-07):** in Round 1 the participant did not select any plan for choosing which commitments get senior attention. Ask which of the triggers above would in practice have pulled a drifting commitment back to them, and whether the answer is a threshold or a judgment. The candidate `BUC-GIB-ACT-01` stays `Hypothesis` until this is answered.
+
 ## CACT08 - Resolution And Exit
 
 **Question:** When may a commitment leave the senior attention set, and what closure evidence is required?
