@@ -1,6 +1,6 @@
 # IB Intent Layer
 
-Single source of truth for what drives IB and GCB decision making: business outcomes, job families, business use cases, JTBDs, scenarios, and the evidence behind them. Read [`CHARTER.md`](CHARTER.md) first. The audit of the current content is in [`ASSESSMENT.md`](ASSESSMENT.md).
+Single source of truth for what drives IB and GCB decision making: business outcomes, job families, business use cases, JTBDs, scenarios, and the evidence behind them. New here? Read [`START-HERE.md`](START-HERE.md), one page on how a researcher, designer or product manager frames work against the layer. Then [`CHARTER.md`](CHARTER.md) for the rules in full. The audit of the current content is in [`ASSESSMENT.md`](ASSESSMENT.md).
 
 ## Layout
 
