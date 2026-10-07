@@ -65,7 +65,7 @@ If the description begins with “open,” “click,” “select a tab,” or �
 | **Collective JTBD(s)** | Stable JTBD IDs and statements explaining why the work is undertaken. |
 | **Accountable team or role** | Collective or individual accountable for completing the use case and accepting its value. |
 | **Participating roles** | Other roles contributing work, evidence, judgment, approval, or control. |
-| **Representative personas** | Links to evidence-based actor archetypes used as design lenses. |
+| **Representative personas** | Links to evidence-based actor archetypes used as design job families. |
 | **Evidence maturity** | `Hypothesis`, `Evidence-backed`, `Confirmed`, or `Superseded`. |
 
 #### Process Boundary

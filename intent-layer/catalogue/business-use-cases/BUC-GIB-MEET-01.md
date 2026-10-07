@@ -6,7 +6,7 @@
 | --- | --- |
 | **Business outcome target(s)** | [`BO-GIB-MEET-01`](../business-outcomes/BO-GIB-MEET-01.md) |
 | **Job family** | [`JF-GIB-MEET-01`](../job-families/JF-GIB-MEET-01.md) |
-| **Value delivered** | An interpreted consequential client-interaction outcome with explicit commitments, affected intent lenses updated, and first follow-through initiated. |
+| **Value delivered** | An interpreted consequential client-interaction outcome with explicit commitments, affected intent job families updated, and first follow-through initiated. |
 | **Collective JTBD(s)** | [`JTBD-GIB-MEET-01`](../jtbd/JTBD-GIB-MEET-01.md) |
 | **Accountable team or role** | Senior Coverage MD for the consequential client outcome, with a meeting team contributing preparation, participation, interpretation, and follow-through `[validate collective boundary]`. |
 | **Participating roles** | Coverage and product bankers, VPs, associates, relevant specialists, client stakeholders, and commitment owners `[validate]`. |
@@ -35,12 +35,12 @@
 
 | Step | Task or activity | Responsible role(s) | Evidence considered | Judgment or decision | Collaboration or handoff | Resulting state |
 | --- | --- | --- | --- | --- | --- | --- |
-| `BUC-GIB-MEET-01-S1` | Establish why this interaction matters now. | Senior Coverage MD, meeting contributors | What changed, client and relationship context, decision window, commitments, relevant intelligence and opportunity state. | Decide whether the interaction is consequential and what senior involvement is warranted. | Relevant lens owners contribute material context. | Accepted purpose and urgency. |
+| `BUC-GIB-MEET-01-S1` | Establish why this interaction matters now. | Senior Coverage MD, meeting contributors | What changed, client and relationship context, decision window, commitments, relevant intelligence and opportunity state. | Decide whether the interaction is consequential and what senior involvement is warranted. | Relevant job family owners contribute material context. | Accepted purpose and urgency. |
 | `BUC-GIB-MEET-01-S2` | Form the client hypothesis and intended outcome. | Senior Coverage MD, meeting team | Client agenda markers, prior interactions, decision dynamics, evidence and uncertainty. | Decide what should be learned, influenced, protected, repaired, advanced, or deliberately deferred. | Challenge unsupported assumptions. | Grounded hypothesis and intended outcome. |
 | `BUC-GIB-MEET-01-S3` | Align JPM posture and resolve critical uncertainty. | Senior Coverage MD, participants, contributors | Participant roles, message, questions, sensitivities, evidence gaps, controls, and what to avoid. | Decide what must be resolved before engagement and how JPM should show up. | Assign targeted preparation and participant responsibilities. | Aligned posture and acceptable readiness. |
 | `BUC-GIB-MEET-01-S4` | Engage and adapt in the client interaction. | Senior Coverage MD and meeting participants | Client responses, candor, questions, new evidence, relationship signals, and decision movement. | Test the hypothesis, adapt posture, and judge emerging consequence in context. | Participants contribute expertise without fragmenting the client experience. | New client and relationship evidence. |
 | `BUC-GIB-MEET-01-S5` | Interpret the outcome and changed state. | Senior Coverage MD, meeting team | What was learned, trust or candor changes, decision movement, uncertainty, and explicit or implied commitments. | Accept what changed, what remains unresolved, and whether action, wait, or stop is appropriate. | Reconcile interpretations without forcing false certainty. | Accepted interaction outcome. |
-| `BUC-GIB-MEET-01-S6` | Make commitments explicit, update lenses, and initiate follow-through. | Commitment owners, relevant lens owners, Senior Coverage MD as needed | Accepted outcome, commitments, owners, changed relationship or opportunity judgment, and sensitivity. | Decide destination ownership and the first next movement. | Route to relationships, pipeline, intelligence, or actions and begin follow-through. | Changed state is owned and first movement is underway. |
+| `BUC-GIB-MEET-01-S6` | Make commitments explicit, update job families, and initiate follow-through. | Commitment owners, relevant job family owners, Senior Coverage MD as needed | Accepted outcome, commitments, owners, changed relationship or opportunity judgment, and sensitivity. | Decide destination ownership and the first next movement. | Route to relationships, pipeline, intelligence, or actions and begin follow-through. | Changed state is owned and first movement is underway. |
 
 ## Scenarios
 

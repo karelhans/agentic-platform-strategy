@@ -23,7 +23,7 @@ Products and projects consume this layer. They never define it. A product concep
 
 ## 3. Scope today
 
-| Cohort | Lenses catalogued | Evidence basis | Maturity ceiling |
+| Cohort | Job families catalogued | Evidence basis | Maturity ceiling |
 | --- | --- | --- | --- |
 | Senior Coverage MD (IB) | Intelligence triage, client relationship management, opportunity pipeline stewardship, consequential client meetings, umbrella intent | One participant, Q01 to Q151, structured discovery with statement confirmation | JTBDs confirmed by one participant; all supporting records evidence-backed or hypothesis |
 | Actions and commitments (IB) | Working JTBD hypothesis only | Q118 to Q122 | Evidence-backed, uncatalogued |
@@ -31,7 +31,7 @@ Products and projects consume this layer. They never define it. A product concep
 | ECM, DCM, M&A, Sponsors (IB) | None | Untested user profiles only; Round 2 Capital Markets proxy guide not yet run | Hypothesis |
 | GCB | None | One unfilled template | None |
 
-Silence in this table means no coverage, not implied coverage. A workspace working for a cohort or lens that is absent here must say so in its alignment statement and must not borrow Coverage records as a proxy without marking the borrowing.
+Silence in this table means no coverage, not implied coverage. A workspace working for a cohort or job family that is absent here must say so in its alignment statement and must not borrow Coverage records as a proxy without marking the borrowing.
 
 ## 4. How a workspace uses the layer
 
@@ -60,7 +60,7 @@ A value-add initiative is aligned with IB or GCB intent when it can state all of
 | 6 | Maturity | Every record cited is at `Evidence-backed` or above, or the initiative is explicitly a discovery exercise. |
 | 7 | Guardrails | States which guardrail measures in the cited `BO-*` it could worsen and how it will watch them. |
 | 8 | Non-action | Where the cited job accepts deliberate non-action as a valid result, says how the initiative supports that result rather than manufacturing activity. |
-| 9 | Gaps | Lists any cohort, lens or scenario it needs that the layer does not yet contain, and whether it will contribute the missing evidence. |
+| 9 | Gaps | Lists any cohort, job family or scenario it needs that the layer does not yet contain, and whether it will contribute the missing evidence. |
 
 An initiative that fails tests 1 to 3 is not aligned. One that fails 4 to 9 is aligned with conditions, and the conditions are recorded against it. The test is run at initiation, before build, and whenever a cited record is superseded.
 
@@ -83,11 +83,11 @@ Interview instruments are admitted separately. Each instrument states its purpos
 
 In rough order:
 
-1. Collect concrete episodes for the four existing Coverage lenses and convert `[validate]` process fields into evidence.
+1. Collect concrete episodes for the four existing Coverage job families and convert `[validate]` process fields into evidence.
 2. Validate the existing Coverage model with a second and third participant; apply the two-participant confirmation rule.
-3. Catalogue or retire the actions and commitments lens.
+3. Catalogue or retire the actions and commitments job family.
 4. Reconcile the persona material into `ACTOR-*` records.
-5. Run Round 2 and extend to ECM and DCM with their own lenses where Q148's expected variation holds.
+5. Run Round 2 and extend to ECM and DCM with their own job families where Q148's expected variation holds.
 6. Open GCB with its own discovery round. Do not transplant Coverage records.
 7. Put ranges on every business outcome.
 
@@ -107,3 +107,4 @@ In rough order:
 | Revision | Date | Change | Accepted by |
 | --- | --- | --- | --- |
 | `1.0` draft | 2026-10-05 | First charter. Codifies purpose, scope, consumption contract, litmus test, admission rule and growth path. | `[validate]` |
+| `1.1` draft | 2026-10-07 | Terminology: the informal term "lens" is retired. The unit the catalogue is organised by is the job family record (`JF-*`). Round 1 evidence keeps the word verbatim as the participants' own language. | `[validate]` |

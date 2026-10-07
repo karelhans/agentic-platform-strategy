@@ -6,7 +6,7 @@
 | --- | --- |
 | **Parent business use case** | [`BUC-GIB-MEET-01`](../business-use-cases/BUC-GIB-MEET-01.md) |
 | **Related JTBDs** | [`JTBD-GIB-MEET-01`](../jtbd/JTBD-GIB-MEET-01.md) |
-| **Value delivered** | An interpreted consequential client-interaction outcome with explicit commitments, affected intent lenses updated, and first follow-through initiated. |
+| **Value delivered** | An interpreted consequential client-interaction outcome with explicit commitments, affected intent job families updated, and first follow-through initiated. |
 | **Primary actor cohorts** | `ACTOR-COV-SENIOR-MD`; relevant product and meeting contributors `[validate actor]`. |
 | **Evidence maturity** | `Evidence-backed` |
 
@@ -19,7 +19,7 @@
 | **Starting conditions** | Client intent and criteria may be incomplete; JPM must distinguish useful perspective from a premature proposition. |
 | **Stakes and urgency** | The opportunity to learn or influence decays as the client position hardens. |
 | **What varies** | Decision hypothesis, proof, alternatives, questions, and timing receive greater preparation and in-meeting emphasis. |
-| **What remains invariant** | The outcome is interpreted, commitments are explicit, affected lenses update, and first movement begins. |
+| **What remains invariant** | The outcome is interpreted, commitments are explicit, affected job families update, and first movement begins. |
 | **Additional business rules or controls** | Clearly distinguish evidence, hypothesis, advice, and client decision authority. |
 | **Exit or transition** | The decision advances, is protected, changes direction, or is deliberately deferred; the accepted state routes to its owners. |
 

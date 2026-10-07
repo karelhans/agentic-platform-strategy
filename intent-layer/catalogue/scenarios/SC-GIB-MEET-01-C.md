@@ -6,7 +6,7 @@
 | --- | --- |
 | **Parent business use case** | [`BUC-GIB-MEET-01`](../business-use-cases/BUC-GIB-MEET-01.md) |
 | **Related JTBDs** | [`JTBD-GIB-MEET-01`](../jtbd/JTBD-GIB-MEET-01.md) |
-| **Value delivered** | An interpreted consequential client-interaction outcome with explicit commitments, affected intent lenses updated, and first follow-through initiated. |
+| **Value delivered** | An interpreted consequential client-interaction outcome with explicit commitments, affected intent job families updated, and first follow-through initiated. |
 | **Primary actor cohorts** | `ACTOR-COV-SENIOR-MD`; product, regional, specialist, and commitment owners `[validate actor]`. |
 | **Evidence maturity** | `Evidence-backed` |
 
@@ -19,7 +19,7 @@
 | **Starting conditions** | Participants may hold different context, objectives, authority, messages, or follow-through expectations. |
 | **Stakes and urgency** | Incoherent participation can damage credibility, over-commit JPM, or leave material client expectations unowned. |
 | **What varies** | Participant alignment, decision rights, speaking roles, commitment authority, and post-meeting ownership receive greater emphasis. |
-| **What remains invariant** | The outcome is interpreted, commitments are explicit, affected lenses update, and first movement begins. |
+| **What remains invariant** | The outcome is interpreted, commitments are explicit, affected job families update, and first movement begins. |
 | **Additional business rules or controls** | Coverage orchestrates institution-level coherence; participants may commit only within authority; sensitive context follows entitlement. |
 | **Exit or transition** | Material commitments and changed states have accepted owners, authority, destinations, and initiated movement. |
 

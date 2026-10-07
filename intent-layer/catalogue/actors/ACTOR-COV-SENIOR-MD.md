@@ -50,7 +50,7 @@
 | **Last reviewed** | 2026-10-02 |
 | **Review owner** | Coverage intent model owner |
 | **Next review** | After broader Senior Coverage MD validation or material authority changes. |
-| **Review triggers** | Changed Coverage accountability, decision authority, handoffs, working context, lens contributions, or evidence that business-head and Line MD cohorts require different actors. |
+| **Review triggers** | Changed Coverage accountability, decision authority, handoffs, working context, job family contributions, or evidence that business-head and Line MD cohorts require different actors. |
 | **Supersession links** | Revision `2.0` revises the existing pre-governance actor interpretation in place. |
 | **Change rationale** | Incorporate the confirmed pipeline, meetings, and umbrella findings while retaining actor maturity independently. |
 

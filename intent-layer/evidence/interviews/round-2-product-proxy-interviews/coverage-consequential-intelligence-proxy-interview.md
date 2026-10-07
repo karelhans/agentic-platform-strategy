@@ -53,7 +53,7 @@ The proxy round should produce:
 
 ## CINT02 - Intelligence Scope
 
-**Question:** Which information belongs in the consequential-intelligence job, and which should stay in specialist or destination-lens workflows?
+**Question:** Which information belongs in the consequential-intelligence job, and which should stay in specialist or destination-job-family workflows?
 
 **Response mode:** Rank the primary source classes; mark the remainder secondary, on-demand, or out of scope.
 
@@ -192,7 +192,7 @@ The proxy round should produce:
 - Route to opportunity pipeline.
 - Route to meeting preparation.
 - Route to an action, commitment, or accountable owner.
-- Create a temporary cross-lens situation.
+- Create a temporary cross-family situation.
 - Act directly or prepare engagement.
 - Another disposition or destination.
 
@@ -227,7 +227,7 @@ The proxy round should produce:
 - Fewer consequential surprises.
 - Less senior time spent on noise and manual verification.
 - More appropriate deliberate non-action.
-- Faster movement in the destination lens.
+- Faster movement in the destination job family.
 
 **Possible failure modes:**
 

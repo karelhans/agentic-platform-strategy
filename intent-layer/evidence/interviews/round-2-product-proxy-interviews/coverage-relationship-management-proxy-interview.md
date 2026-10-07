@@ -16,7 +16,7 @@
 
 - Share all twelve questions in advance.
 - Ask respondents to label answers as direct experience, observed practice, or informed hypothesis.
-- Keep the lens at institution-level relationship intent; use the separate Meeting, Pipeline, Actions, and Intelligence interviews for their bounded jobs.
+- Keep the job family at institution-level relationship intent; use the separate Meeting, Pipeline, Actions, and Intelligence interviews for their bounded jobs.
 - Do not turn relationship quality into one opaque score or equate activity volume with strength.
 - Preserve variation by client tier, trajectory, region, sector, and Coverage model.
 - Proxy responses establish candidate direction only. They do not reconfirm banker intent.

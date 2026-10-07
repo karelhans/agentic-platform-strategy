@@ -9,7 +9,7 @@
 | **Value delivered** | An accepted disposition, rationale, intended outcome, and destination for potentially consequential intelligence. |
 | **Collective JTBD(s)** | [`JTBD-GIB-INTEL-01`](../jtbd/JTBD-GIB-INTEL-01.md) |
 | **Accountable team or role** | Senior Coverage MD for materiality, sufficient credibility, response, and intended client outcome; preparatory triage roles remain `[validate]`. |
-| **Participating roles** | VPs, associates, client and product bankers, research or intelligence contributors, relationship owners, and destination-lens owners `[validate]`. |
+| **Participating roles** | VPs, associates, client and product bankers, research or intelligence contributors, relationship owners, and destination-job-family owners `[validate]`. |
 | **Representative personas** | [`ACTOR-COV-SENIOR-MD`](../actors/ACTOR-COV-SENIOR-MD.md) |
 | **Evidence maturity** | `Evidence-backed` |
 
@@ -19,7 +19,7 @@
 | --- | --- |
 | **Trigger** | New information may materially affect a client, relationship, opportunity, meeting, commitment, or franchise outcome. |
 | **Starting state** | Information may be noisy, duplicated, weakly connected, uncertain, or unevenly shared. |
-| **Completion condition** | The intelligence has an accepted disposition and rationale, intended outcome where applicable, and destination lens or monitoring condition. |
+| **Completion condition** | The intelligence has an accepted disposition and rationale, intended outcome where applicable, and destination job family or monitoring condition. |
 | **Resulting state** | Consequential evidence can be acted upon, investigated, monitored, retained, or dismissed without consuming further unowned attention. |
 | **Out of scope** | Executing outreach, pipeline stewardship, meeting preparation, or downstream commitments. |
 | **Frequency and criticality** | Continuous and event-driven; consequence ranges from harmless noise to lost credibility, opportunity, or intervention time. |
@@ -28,7 +28,7 @@
 
 | Actor cohort | Responsibility in this use case | Judgment or authority | Information and constraints | Persona reference |
 | --- | --- | --- | --- | --- |
-| Senior Coverage MD | Judge materiality, sufficient credibility, response, and intended client outcome. | Can dismiss, monitor, validate, prepare, act, or route to another lens. | Requires concise context, evidence, uncertainty, consequence, and timing without noise. | `ACTOR-COV-SENIOR-MD` |
+| Senior Coverage MD | Judge materiality, sufficient credibility, response, and intended client outcome. | Can dismiss, monitor, validate, prepare, act, or route to another job family. | Requires concise context, evidence, uncertainty, consequence, and timing without noise. | `ACTOR-COV-SENIOR-MD` |
 | Preparatory triage contributors `[validate]` | Reduce duplication, connect client context, expose evidence and confidence, and prepare response options. | Can validate and synthesize; material client and franchise judgment remains senior. | Source access, confidentiality, context completeness, and time sensitivity. | `[validate actor]` |
 
 ## Banker Process
@@ -40,7 +40,7 @@
 | `BUC-GIB-INTEL-01-S3` | Explain consequence and evidential strength. | Preparatory contributors | Potential impact, time window, source, corroboration, uncertainty, missing facts. | Judge what confidence supports which possible use. | Escalate sensitive or short-window evidence. | Interpretable intelligence case. |
 | `BUC-GIB-INTEL-01-S4` | Judge the appropriate response. | Senior Coverage MD | Intelligence case and client or franchise context. | Decide whether it matters, is credible enough, warrants response, and changes intended outcome. | Seek targeted validation where needed. | Accepted response direction. |
 | `BUC-GIB-INTEL-01-S5` | Record the disposition and rationale. | Senior Coverage MD or delegate | Accepted judgment. | Dismiss, retain, monitor, validate, prepare, or act. | Establish reassessment condition where relevant. | Explicit disposition. |
-| `BUC-GIB-INTEL-01-S6` | Route to the destination lens. | Disposition owner | Intended outcome and accepted rationale. | Select relationship, pipeline, meeting, action, or continued intelligence ownership. | Accountable destination owner receives the context. | Owned next progress or deliberate non-action. |
+| `BUC-GIB-INTEL-01-S6` | Route to the destination job family. | Disposition owner | Intended outcome and accepted rationale. | Select relationship, pipeline, meeting, action, or continued intelligence ownership. | Accountable destination owner receives the context. | Owned next progress or deliberate non-action. |
 
 ## Scenarios
 

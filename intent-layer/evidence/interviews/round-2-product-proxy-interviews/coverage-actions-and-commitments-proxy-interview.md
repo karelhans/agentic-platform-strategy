@@ -10,13 +10,13 @@
 | **Direction-setting audience** | Former senior Coverage bankers and business-management, execution, workflow, and team-leadership SMEs |
 | **Focused validation audience** | Current Senior Coverage MDs after proxy synthesis |
 | **Purpose** | Test the working Actions and Commitments hypothesis, its embedded-versus-standing architecture, ownership contract, senior-attention boundary, and success measures. |
-| **Existing foundation** | Q122 accepted a useful working hypothesis, not a confirmed JTBD. Current evidence says consequential work needs an accepted owner, explicit next commitment, visible outcome progress, and a cross-domain view of MD blockers. This interview must remain more exploratory than the four confirmed lenses. |
+| **Existing foundation** | Q122 accepted a useful working hypothesis, not a confirmed JTBD. Current evidence says consequential work needs an accepted owner, explicit next commitment, visible outcome progress, and a cross-domain view of MD blockers. This interview must remain more exploratory than the four confirmed job families. |
 
 ## Interviewer Guidance
 
 - Share all twelve questions in advance.
 - Ask respondents to label answers as direct experience, observed practice, or informed hypothesis.
-- Actively test whether Actions deserves a distinct standing job, an execution layer beneath other lenses, both, or only an exception view.
+- Actively test whether Actions deserves a distinct standing job, an execution layer beneath other job families, both, or only an exception view.
 - Keep the focus on consequential commitments and outcome progress, not generic task management or personal productivity.
 - Do not assume a named assignee has accepted ownership.
 - Proxy responses establish candidate direction only. Actions remains unconfirmed until broader banker validation.
@@ -53,7 +53,7 @@ The proxy round should produce:
 
 ## CACT02 - What Is Being Managed
 
-**Question:** What is the primary object of the Actions lens, and which elements are supporting context rather than separate records?
+**Question:** What is the primary object of the Actions job family, and which elements are supporting context rather than separate records?
 
 **Response mode:** Choose the closest model and explain how the elements relate.
 
@@ -66,7 +66,7 @@ The proxy round should produce:
 - Outcomes in motion.
 - Senior-attention obligations.
 - A combined system with one dominant center.
-- No separate object; Actions is only execution metadata beneath other lenses.
+- No separate object; Actions is only execution metadata beneath other job families.
 - Another model.
 
 ## CACT03 - Entry Threshold
@@ -160,7 +160,7 @@ The proxy round should produce:
 - Quality is diverging from the accepted bar.
 - Owner lacks authority, capacity, or access.
 - Relationship, financial, or control risk increased.
-- Conflicting actions or commitments emerged across lenses.
+- Conflicting actions or commitments emerged across job families.
 - Another trigger.
 
 ## CACT08 - Resolution And Exit
@@ -178,11 +178,11 @@ The proxy round should produce:
 - Blocker or dependency is resolved.
 - Deliberate wait or monitor state is accepted.
 - Stop decision is made because expected value changed.
-- Work is transferred explicitly to another owner or lens.
+- Work is transferred explicitly to another owner or job family.
 - Commitment is cancelled with consequence understood.
 - Another exit state.
 
-## CACT09 - Standing Lens Or Embedded Layer
+## CACT09 - Standing Job Family Or Embedded Layer
 
 **Question:** How should Actions relate to Intelligence, Relationships, Pipeline, and Meetings?
 
@@ -190,8 +190,8 @@ The proxy round should produce:
 
 **Possible answers:**
 
-- A standing lens for consequential commitments and blockers across domains.
-- An execution layer beneath every lens with no independent view.
+- A standing job family for consequential commitments and blockers across domains.
+- An execution layer beneath every job family with no independent view.
 - Both: each domain owns its work while a standing view exposes cross-domain commitments and MD blockers.
 - An exception view shown only when consequence, timing, or blockage crosses a threshold.
 - A personal work queue separate from shared commitment management.

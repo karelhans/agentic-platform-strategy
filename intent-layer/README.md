@@ -10,7 +10,10 @@ Single source of truth for what drives IB and GCB decision making: business outc
 | [`evidence/`](evidence/) | What the records rest on: the confirmed-intent synthesis and the interview rounds. |
 | [`templates/`](templates/) | The generation guide and one template per artifact type. |
 | [`prompts/`](prompts/) | Writing prompts used to produce records in the business's language. |
+| [`intent-layer-explained.html`](intent-layer-explained.html) | Visual explainer for people new to SDD: where the layer sits, one record chain, maturity, the litmus test. Open in a browser. |
 | [`reference/`](reference/) | Pre-intent persona material (untested user profiles, personas, banker archetypes). Not a generation source until traced to actor records or marked superseded; see the charter. |
+
+**Terminology.** The word "lens" was used in early drafts for what the catalogue calls a job family. It is retired; only the Round 1 evidence keeps it, verbatim, as the participants' own language.
 
 ## Provenance
 
@@ -27,7 +30,7 @@ Note: the full interview appendix exists twice on the page, once as Markdown and
 | | Round 1 | Round 2 |
 | --- | --- | --- |
 | Folder | [`evidence/interviews/round-1-discovery-interview/`](evidence/interviews/round-1-discovery-interview/) | [`evidence/interviews/round-2-product-proxy-interviews/`](evidence/interviews/round-2-product-proxy-interviews/) |
-| What it is | The historical discovery mega-interview with one Senior Coverage MD (Q01 to Q151, 2026-09-23 to 2026-10-02). It produced the five JTBDs and the whole catalogue. | Eight product-ready proxy-interview guides (status Draft): one whole-model validation guide, five lens guides (intelligence, relationships, pipeline, meetings, actions), and two Market Intelligence Direction guides (Coverage, Capital Markets). |
+| What it is | The historical discovery mega-interview with one Senior Coverage MD (Q01 to Q151, 2026-09-23 to 2026-10-02). It produced the five JTBDs and the whole catalogue. | Eight product-ready proxy-interview guides (status Draft): one whole-model validation guide, five job family guides (intelligence, relationships, pipeline, meetings, actions), and two Market Intelligence Direction guides (Coverage, Capital Markets). |
 | Status | Complete. Treat as a research record, not a reusable instrument. | Not yet run. First to be run with Product Proxies as a sense check before going to bankers. |
 | Output | Confirmed intent statements in [`evidence/`](evidence/) and governed records in [`catalogue/`](catalogue/). | Candidate direction and a short banker-validation question set (see each guide's synthesis gate). |
 

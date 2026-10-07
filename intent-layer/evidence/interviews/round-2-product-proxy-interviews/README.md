@@ -1,6 +1,6 @@
 # Round 2: product-proxy sense-check interviews
 
-Eight product-ready interview guides, all status `Draft`. One validates the existing Coverage intent model as a whole; five validate direction for one lens each (intelligence, relationships, pipeline, meetings, actions); two set direction on market intelligence (Coverage, Capital Markets). They are separate from, and must not be confused with, the Round 1 discovery mega-interview in `../round-1-discovery-interview/`.
+Eight product-ready interview guides, all status `Draft`. One validates the existing Coverage intent model as a whole; five validate direction for one job family each (intelligence, relationships, pipeline, meetings, actions); two set direction on market intelligence (Coverage, Capital Markets). They are separate from, and must not be confused with, the Round 1 discovery mega-interview in `../round-1-discovery-interview/`.
 
 | Guide | ID | Questions | Direction-setting audience | Validation audience |
 | --- | --- | --- | --- | --- |
@@ -13,7 +13,7 @@ Eight product-ready interview guides, all status `Draft`. One validates the exis
 | [Coverage Consequential Client Meetings](coverage-consequential-client-meetings-proxy-interview.md) | `INT-COV-MEET-001` | CMEET01 to CMEET12 | Former senior Coverage bankers; client-meeting, relationship, product and executive-preparation SMEs | Current Senior Coverage MDs after proxy synthesis |
 | [Coverage Actions And Commitments](coverage-actions-and-commitments-proxy-interview.md) | `INT-COV-ACT-001` | CACT01 to CACT12 | Former senior Coverage bankers; business-management, execution, workflow and team-leadership SMEs | Current Senior Coverage MDs after proxy synthesis |
 
-Suggested order in a proxy session: the model-validation guide first (it tests the catalogue as a whole, episode first), then the lens guide for the lens the proxy knows best, then a market-intelligence guide where relevant. The five lens guides each end with a representative-episode question; ask it early if time is short.
+Suggested order in a proxy session: the model-validation guide first (it tests the catalogue as a whole, episode first), then the job family guide for the job family the proxy knows best, then a market-intelligence guide where relevant. The five job family guides each end with a representative-episode question; ask it early if time is short.
 
 A visual version of all eight guides, with facilitator notes, is in [`interview-guide.html`](interview-guide.html). The same guides are rendered as native frames on the Figma page **Round 2 · Interview Guide** in the Personas file, generated from the markdown layers on the Interview questions + Value stream page.
 

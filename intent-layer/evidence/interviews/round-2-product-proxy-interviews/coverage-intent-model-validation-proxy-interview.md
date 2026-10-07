@@ -9,7 +9,7 @@
 | **Status** | `Draft` |
 | **Direction-setting audience** | Former senior Coverage bankers (Line MD or Group Head level), former Coverage VPs who ran a senior's book, and product proxies with direct Coverage exposure |
 | **Focused validation audience** | At least two current Senior Coverage MDs who did not take part in Round 1, plus one product banker, after proxy synthesis |
-| **Purpose** | Test whether the existing four-lens Coverage intent model is the right summary of how Coverage operates and thinks, and whether it is framed around value, before current-banker time is spent. This guide validates what exists. It does not set new direction and does not produce new JTBDs. |
+| **Purpose** | Test whether the existing four-job-family Coverage intent model is the right summary of how Coverage operates and thinks, and whether it is framed around value, before current-banker time is spent. This guide validates what exists. It does not set new direction and does not produce new JTBDs. |
 | **Existing foundation** | Five JTBD statements (intelligence triage, client relationship management, opportunity pipeline stewardship, consequential client meetings, umbrella), one working hypothesis (actions and commitments), four business use cases with six steps each, fourteen scenarios, and two actor cohorts. All derived from one Senior Coverage MD, Q01 to Q151. Every statement in the pre-read pack is a hypothesis for this interview, whatever its catalogue maturity. |
 | **What this guide is not** | Not a discovery interview, not a market-intelligence direction interview, not a prototype review. If a respondent starts describing tools, bring them back to the work. |
 
@@ -29,13 +29,13 @@
 The proxy round should produce, for the Coverage model as it stands:
 
 1. A disposition for each of the five JTBD statements: survives unchallenged, needs edit (with the edit), wrong altitude, or not recognised.
-2. A verdict on each lens boundary, naming any pair that collides in practice.
-3. Any standing senior job the five lenses miss, with an example of that work.
-4. A verdict on the actions and commitments lens: standing lens, execution layer, both, or neither.
-5. Each lens's scenarios ranked by frequency and by consequence, plus missing scenarios and any scenario that is really a different use case.
-6. The actor split per lens: what is irreducibly MD work, what is team work, what is product-partner work.
+2. A verdict on each job family boundary, naming any pair that collides in practice.
+3. Any standing senior job the five job families miss, with an example of that work.
+4. A verdict on the actions and commitments job family: standing job family, execution layer, both, or neither.
+5. Each job family's scenarios ranked by frequency and by consequence, plus missing scenarios and any scenario that is really a different use case.
+6. The actor split per job family: what is irreducibly MD work, what is team work, what is product-partner work.
 7. At least one concrete episode per respondent, mapped onto the model, with the points where the model fails to describe what happened.
-8. Observed current practice per lens, separate from desired practice.
+8. Observed current practice per job family, separate from desired practice.
 9. Value ranges in units for each of the four business outcomes.
 10. A language verdict: which words a banker would not use, with substitutions.
 11. No more than five focused questions for current bankers, including at least one episode request.
@@ -58,16 +58,16 @@ The proxy round should produce, for the Coverage model as it stands:
 
 ## MV01 - Map The Episode Onto The Model
 
-**Question:** Now look at the pre-read pack. Which of the five lenses did your episode pass through, in what order, and where does the model describe what happened well, poorly, or not at all?
+**Question:** Now look at the pre-read pack. Which of the five job families did your episode pass through, in what order, and where does the model describe what happened well, poorly, or not at all?
 
-**Response mode:** Tag each lens touched (intelligence, relationships, pipeline, meetings, actions and commitments). For the lens where the episode spent most time, walk the six use-case steps and mark each as happened as described, happened differently, or did not happen.
+**Response mode:** Tag each job family touched (intelligence, relationships, pipeline, meetings, actions and commitments). For the job family where the episode spent most time, walk the six use-case steps and mark each as happened as described, happened differently, or did not happen.
 
 **Possible answers for each step:**
 
 - **Happened as described** - The step occurred in substance, whatever the tooling.
 - **Happened differently** - Describe the difference in who, what evidence, or what judgment.
 - **Did not happen** - And say whether its absence mattered.
-- **Happened but belongs to a different lens** - Say which.
+- **Happened but belongs to a different job family** - Say which.
 
 ## MV02 - Test Each Job Statement
 
@@ -84,11 +84,11 @@ The proxy round should produce, for the Coverage model as it stands:
 - **Not a job I recognise** - Senior Coverage does not do this as a distinct job. Say where the work actually sits.
 - **Two jobs in one** - Say where it splits.
 
-## MV03 - Lens Boundaries
+## MV03 - Job Family Boundaries
 
-**Question:** The model keeps five lenses distinct and routes any situation that touches several to the accountable owner. In your experience, which pairs collide so often that the boundary is a fiction, and which boundary is drawn in the wrong place?
+**Question:** The model keeps five job families distinct and routes any situation that touches several to the accountable owner. In your experience, which pairs collide so often that the boundary is a fiction, and which boundary is drawn in the wrong place?
 
-**Response mode:** Rank up to two collisions. For each, say what work falls between the lenses today.
+**Response mode:** Rank up to two collisions. For each, say what work falls between the job families today.
 
 **Possible answers:**
 
@@ -97,15 +97,15 @@ The proxy round should produce, for the Coverage model as it stands:
 - Pipeline and actions: opportunity trajectory and follow-through are the same thing in practice.
 - Meetings and actions: the meeting is not over until follow-through is done, so they are one job.
 - Intelligence and pipeline: most signals are opportunity signals, so triage is pipeline work.
-- Umbrella and everything: the umbrella statement is where the real job lives and the lenses are artificial.
+- Umbrella and everything: the umbrella statement is where the real job lives and the job families are artificial.
 - The boundaries hold.
 - Another collision.
 
 ## MV04 - The Missing Job
 
-**Question:** Think about the senior Coverage work you did in a typical quarter. What did you spend material time on that none of the five lenses describes?
+**Question:** Think about the senior Coverage work you did in a typical quarter. What did you spend material time on that none of the five job families describes?
 
-**Response mode:** Name the work first, with an example. Then say whether it deserves a distinct job, is context inside a lens, or is a triggered guardrail.
+**Response mode:** Name the work first, with an example. Then say whether it deserves a distinct job, is context inside a job family, or is a triggered guardrail.
 
 **Possible answers:**
 
@@ -120,24 +120,24 @@ The proxy round should produce, for the Coverage model as it stands:
 
 ## MV05 - Actions And Commitments
 
-**Question:** Every lens in the model hands its output to an "actions and commitments" lens that is only a working hypothesis. In practice, who owns follow-through once a senior has decided, and does that work deserve its own standing senior review?
+**Question:** Every job family in the model hands its output to an "actions and commitments" job family that is only a working hypothesis. In practice, who owns follow-through once a senior has decided, and does that work deserve its own standing senior review?
 
 **Response mode:** Choose one architecture and name the real owner of follow-through in your experience.
 
 **Possible answers:**
 
-- **A standing lens** - Seniors review consequential commitments and blockers across all domains as a distinct job.
-- **An execution layer beneath each lens** - Follow-through belongs to whichever lens generated it; there is no separate senior job.
-- **Both** - Each lens owns its actions and a senior view exposes cross-domain commitments and blockers.
+- **A standing job family** - Seniors review consequential commitments and blockers across all domains as a distinct job.
+- **An execution layer beneath each job family** - Follow-through belongs to whichever job family generated it; there is no separate senior job.
+- **Both** - Each job family owns its actions and a senior view exposes cross-domain commitments and blockers.
 - **An exception view only** - Follow-through surfaces to the senior only when impact, timing or blockage crosses a threshold.
-- **It should not exist as a lens** - The accountable owner's own lens is the destination; "actions" is a tooling idea, not a job.
+- **It should not exist as a job family** - The accountable owner's own job family is the destination; "actions" is a tooling idea, not a job.
 - Another model.
 
 ## MV06 - Scenario Ranking
 
-**Question:** For each lens, rank its scenarios by how often they occurred in your experience and by how much was at stake when they did. Then name one scenario that is missing and one scenario that is really a different piece of work.
+**Question:** For each job family, rank its scenarios by how often they occurred in your experience and by how much was at stake when they did. Then name one scenario that is missing and one scenario that is really a different piece of work.
 
-**Response mode:** Two rankings per lens (frequency, consequence). One missing scenario per lens or "none". One misfiled scenario per lens or "none".
+**Response mode:** Two rankings per job family (frequency, consequence). One missing scenario per job family or "none". One misfiled scenario per job family or "none".
 
 **Scenarios to rank:**
 
@@ -150,9 +150,9 @@ The proxy round should produce, for the Coverage model as it stands:
 
 ## MV07 - The Actor Split
 
-**Question:** For each lens, what is irreducibly the MD's own work, what does the VP or team do, and what do product or regional partners do? The model leaves every contributor role marked as unvalidated.
+**Question:** For each job family, what is irreducibly the MD's own work, what does the VP or team do, and what do product or regional partners do? The model leaves every contributor role marked as unvalidated.
 
-**Response mode:** Per lens, three short lists. Then answer the probe.
+**Response mode:** Per job family, three short lists. Then answer the probe.
 
 **Possible MD-only work (choose the ones that are truly irreducible):**
 
@@ -169,9 +169,9 @@ The proxy round should produce, for the Coverage model as it stands:
 
 ## MV08 - How It Is Actually Done Today
 
-**Question:** Leaving aside how it should work, how was each lens's work actually done when you were last in the role? What held the state, who kept it current, and which parts of the model's six steps simply never happened?
+**Question:** Leaving aside how it should work, how was each job family's work actually done when you were last in the role? What held the state, who kept it current, and which parts of the model's six steps simply never happened?
 
-**Response mode:** Per lens, name the artefacts and the keeper. Label every answer observed practice or direct experience. Hypotheses are not accepted for this question.
+**Response mode:** Per job family, name the artefacts and the keeper. Label every answer observed practice or direct experience. Hypotheses are not accepted for this question.
 
 **Possible state holders:**
 
@@ -208,7 +208,7 @@ The proxy round should produce, for the Coverage model as it stands:
 
 **Response mode:** List each word or phrase and the substitute. Then rate the overall readability.
 
-**Candidate terms to test:** intelligence, disposition, destination lens, stewardship, evidential strength, purposeful next movement, accepted judgment, consequential, orchestrate, umbrella intent, value delivered.
+**Candidate terms to test:** intelligence, disposition, destination job family, stewardship, evidential strength, purposeful next movement, accepted judgment, consequential, orchestrate, umbrella intent, value delivered.
 
 **Possible readability verdicts:**
 
@@ -230,7 +230,7 @@ The proxy round should produce, for the Coverage model as it stands:
 - Non-action is a valid result, so a team can claim value from a product nobody uses.
 - The model reflects one MD, so a team can pick the parts that suit it.
 - The language is abstract enough that bankers will not challenge a claim made in it.
-- The missing actions lens lets any follow-through tooling claim alignment by default.
+- The missing actions job family lets any follow-through tooling claim alignment by default.
 - Another failure mode.
 
 ## Proxy Synthesis And Banker Validation Gate
@@ -238,12 +238,12 @@ The proxy round should produce, for the Coverage model as it stands:
 After proxy interviews, produce:
 
 - one disposition per JTBD statement, with every proposed edit preserved verbatim and attributed to the respondent's experience label;
-- the lens-boundary and missing-job findings, with examples;
+- the job-family-boundary and missing-job findings, with examples;
 - the actions and commitments verdict;
-- scenario rankings by lens, missing scenarios, and any scenario proposed for promotion to a use case;
-- the actor split per lens;
+- scenario rankings by job family, missing scenarios, and any scenario proposed for promotion to a use case;
+- the actor split per job family;
 - every episode mapped onto the model, with the points where the model failed to describe it;
-- observed current practice per lens, kept separate from desired practice;
+- observed current practice per job family, kept separate from desired practice;
 - value ranges per outcome, with experience labels;
 - the language substitutions; and
 - no more than five focused questions for current bankers, including at least one episode request.
@@ -270,7 +270,7 @@ Send this to respondents ahead of the session. Everything here is a hypothesis f
 
 **Working hypothesis, actions and commitments.** When consequential outcomes depend on coordinated work, help me translate intent into an accepted owner and explicit next commitment, and keep that commitment connected to visible outcome progress, so responsibilities resolve clearly and owners can move independently without work drifting or repeatedly returning to me.
 
-### The lens boundaries
+### The job family boundaries
 
 - Intelligence decides how consequential evidence should be interpreted and routed.
 - Relationships judge and strengthen institution-level relationship quality.
@@ -278,16 +278,16 @@ Send this to respondents ahead of the session. Everything here is a hypothesis f
 - Actions and commitments translate intent into accepted ownership, explicit next commitments, and visible outcome progress.
 - Meetings prepare for and convert fixed client-interaction windows into interpreted, routed, and initiated progress.
 - Capacity is deferred. Risk and controls appear only when triggered.
-- When a situation touches several lenses, the accountable owner's lens leads and the others are linked.
+- When a situation touches several job families, the accountable owner's job family leads and the others are linked.
 
 ### The six steps of each business use case
 
-| Lens | Steps |
+| Job family | Steps |
 | --- | --- |
-| Intelligence | Reduce noise; identify affected clients and context; explain consequence and evidence; judge the response; record the disposition; route to the destination lens. |
+| Intelligence | Reduce noise; identify affected clients and context; explain consequence and evidence; judge the response; record the disposition; route to the destination job family. |
 | Relationships | Establish institution change and trajectory; interpret relationship markers; judge whether senior attention is warranted; set objective and stakeholder; choose the engagement disposition; review movement and update judgment. |
 | Pipeline | Recognise an opportunity or review trigger; assemble evidence and views; challenge maturity and trajectory; choose the stewardship response; confirm accountable stewardship and next movement; update the shared picture and review conditions. |
-| Meetings | Establish why this interaction matters now; form the hypothesis and intended outcome; align JPM posture and resolve critical uncertainty; engage and adapt; interpret the outcome; make commitments explicit, update lenses, initiate follow-through. |
+| Meetings | Establish why this interaction matters now; form the hypothesis and intended outcome; align JPM posture and resolve critical uncertainty; engage and adapt; interpret the outcome; make commitments explicit, update job families, initiate follow-through. |
 
 ### The fourteen scenarios
 

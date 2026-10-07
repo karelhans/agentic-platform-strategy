@@ -39,4 +39,4 @@
 | Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `1.0` | 2026-10-01 | Pipeline research and interview through Q112 | Recorded as a `Hypothesis` centered on seeing what is real and directing attention, ownership, and follow-through. | Pipeline pilot evidence owner | Existing runtime pipeline slice |
-| `2.0` | 2026-10-02 | Q113-Q117 confirmation plus Q140-Q151 operating-model validation | Revised in place and promoted to `Confirmed` for Senior Coverage MDs; ownership and follow-through remain primarily in the actions lens. | Coverage intent model owner | `BUC-GIB-PIPE-01`, actors, scenarios, and downstream runtime record pending implementation review |
+| `2.0` | 2026-10-02 | Q113-Q117 confirmation plus Q140-Q151 operating-model validation | Revised in place and promoted to `Confirmed` for Senior Coverage MDs; ownership and follow-through remain primarily in the actions job family. | Coverage intent model owner | `BUC-GIB-PIPE-01`, actors, scenarios, and downstream runtime record pending implementation review |

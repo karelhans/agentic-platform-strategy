@@ -6,7 +6,7 @@
 | --- | --- |
 | **Parent business use case** | [`BUC-GIB-MEET-01`](../business-use-cases/BUC-GIB-MEET-01.md) |
 | **Related JTBDs** | [`JTBD-GIB-MEET-01`](../jtbd/JTBD-GIB-MEET-01.md) |
-| **Value delivered** | An interpreted consequential client-interaction outcome with explicit commitments, affected intent lenses updated, and first follow-through initiated. |
+| **Value delivered** | An interpreted consequential client-interaction outcome with explicit commitments, affected intent job families updated, and first follow-through initiated. |
 | **Primary actor cohorts** | `ACTOR-COV-SENIOR-MD`; relationship and meeting contributors `[validate actor]`. |
 | **Evidence maturity** | `Evidence-backed` |
 
@@ -19,7 +19,7 @@
 | **Starting conditions** | The cause may be uncertain, sensitive, or distributed across JPM; over-prepared advocacy may worsen trust. |
 | **Stakes and urgency** | Mishandling can compound relationship damage, while purposeful restraint may restore candor and relevance. |
 | **What varies** | Listening, questions, sensitivity, acknowledgment, and restraint dominate; a commercial ask may be absent. |
-| **What remains invariant** | The outcome is interpreted, commitments are explicit, affected lenses update, and first movement begins. |
+| **What remains invariant** | The outcome is interpreted, commitments are explicit, affected job families update, and first movement begins. |
 | **Additional business rules or controls** | Listening is a valid client outcome; do not manufacture an offering or commitment where one is not warranted. |
 | **Exit or transition** | Relationship judgment updates; repair, follow-through, deliberate wait, or no-action is owned. |
 
