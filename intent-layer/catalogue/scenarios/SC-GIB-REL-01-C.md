@@ -7,7 +7,7 @@
 | **Parent business use case** | [`BUC-GIB-REL-01`](../business-use-cases/BUC-GIB-REL-01.md) |
 | **Related JTBDs** | [`JTBD-GIB-REL-01`](../jtbd/JTBD-GIB-REL-01.md) |
 | **Value delivered** | An accepted relationship-quality judgment, objective, engagement disposition, and owned next movement for a priority client institution. |
-| **Primary actor cohorts** | `ACTOR-COV-SENIOR-MD`; delegated Coverage contributors `[validate actor]`. |
+| **Primary actor cohorts** | `ACTOR-COV-SENIOR-MD`; `ACTOR-COV-SUPPORT-TEAM` (candidate) for delegated maintenance. |
 | **Evidence maturity** | `Evidence-backed` |
 
 ## Context And Variation
@@ -20,7 +20,7 @@
 | **Stakes and urgency** | Ignoring cadence can weaken access; automatic contact can create purposeless outreach and client fatigue. |
 | **What varies** | Response can be MD contact, delegated maintenance, review only, or deliberate wait based on tier and trajectory. |
 | **What remains invariant** | Cadence triggers relationship judgment rather than an automatic communication task. |
-| **Additional business rules or controls** | Listening is a legitimate purpose; engagement must have a credible relationship objective. |
+| **Additional business rules or controls** | Listening is a legitimate purpose; engagement must have a credible relationship objective. A cadence gap alone never produces a client contact (Q33, Q99): any contact that follows this scenario has first acquired a purpose at S4 and S5 of the parent, and only then runs through `BUC-GIB-REL-02` (candidate). This is the scenario the IBIQ draft-outreach product use case must explicitly exclude as a trigger; a product that turns a dry spell into a draft message contradicts this record. |
 | **Exit or transition** | Personal engagement, delegated contact, deliberate monitoring, or no action is accepted with a reassessment condition. |
 
 ## Process Variation
@@ -42,18 +42,19 @@
 
 | Field | Value |
 | --- | --- |
-| **Revision** | `1.0` |
+| **Revision** | `1.1` |
 | **Evidence cutoff** | 2026-10-02, through Q151. |
 | **Review state** | `Current` |
-| **Last reviewed** | 2026-10-02 |
+| **Last reviewed** | 2026-10-07 |
 | **Review owner** | Coverage intent model owner |
 | **Next review** | After tier and cadence evidence is validated. |
 | **Review triggers** | Changed tier model, cadence policy, delegated-maintenance boundary, or evidence of harmful engagement incentives. |
 | **Supersession links** | None. |
-| **Change rationale** | Promote cadence as a relationship-judgment variation rather than an automatic outreach workflow. |
+| **Change rationale** | Model revision of 2026-10-07: record that this is the scenario the IBIQ outreach product use case must explicitly exclude, and that any contact following it must first acquire a purpose in the parent before `BUC-GIB-REL-02` (candidate) runs. Candidate support-team actor named for delegated maintenance. No change to the variation or its maturity. |
 
 ## Revision History
 
 | Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `1.0` | 2026-10-02 | Confirmed-intent synthesis through Q151 | Promoted as `Evidence-backed`. | Coverage intent model owner | `BUC-GIB-REL-01` |
+| `1.1` | 2026-10-07 | No new evidence; model revision of 2026-10-07 | Revised in place: exclusion rule for the IBIQ outreach product use case stated; boundary with `BUC-GIB-REL-02` (candidate) stated. | Coverage intent model owner | `BUC-GIB-REL-01`, `BUC-GIB-REL-02` (candidate) |
