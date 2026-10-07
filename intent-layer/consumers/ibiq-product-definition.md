@@ -38,11 +38,11 @@ Also add to the IBIQ page, because the list has none of them: stable IDs, maturi
 ### Intent records (cited, not redefined)
 
 - **Business outcome (`BO-*`).** The measurable change the business wants, with a measurement rule (measure, baseline, target, direction) and guardrail measures it must not worsen. Owned by the business. A product names the outcome it serves and the measure it expects to move. Maturity today: all four are `Hypothesis` with ranges still to be filled.
-- **Job family (`JF-*`).** A standing area of senior banker work, such as intelligence triage or opportunity pipeline stewardship. Contains one or more business use cases. The unit the catalogue is organised by. Four exist today, all for Coverage.
+- **Job family (`JF-*`).** A standing area of senior banker work, such as intelligence triage or opportunity pipeline management. Contains one or more business use cases. The unit the catalogue is organised by. Four exist today, all for Coverage.
 - **Business use case (`BUC-*`).** The business process inside a job family: a trigger, six steps, the judgments that stay with a human, and the value delivered by one completed run. Product-agnostic. The value delivered is the test for whether a variation is a scenario or a different use case.
 - **Job to be done (`JTBD-*`).** The progress a banker wants, in the shape "when X, help me Y, so that Z, without W". It explains why the business use case is done and stays true if the product disappears. Five are `Confirmed`, each by one participant, so consumers treat them as evidence-backed, single participant.
 - **Actor (`ACTOR-*`).** A cohort with accepted responsibility for part of a job family: who judges, who contributes, what authority they hold, what they need to see. Two exist today. The only permitted source for personas.
-- **Scenario (`SC-*`).** The same business use case under different conditions: a short window, high impact with low confidence, deliberate non-action. What varies and what stays invariant are named. Not a screen, not a flow, not a persona applying a job.
+- **Scenario (`SC-*`).** The same business use case under different conditions: a short window, high impact with low confidence, a Decision to monitor or dismiss. What varies and what stays invariant are named. Not a screen, not a flow, not a persona applying a job.
 
 ### Product artefacts (owned by IBIQ)
 
@@ -58,7 +58,7 @@ Also add to the IBIQ page, because the list has none of them: stable IDs, maturi
 | Persona | Exactly one `ACTOR-*`, with revision | Invent goals or pain points not in the actor's evidence; borrow a reference persona without tracing it |
 | Product use case | One `BUC-*` and the steps it changes; one `SC-*` covered and one excluded; the `JTBD-*` behind the use case; the human judgments it preserves | Change the value delivered; cite a `Hypothesis` record as its only justification |
 | Product capability | The product use cases it enables | Cite a `JTBD-*` or `BO-*` directly |
-| Alignment statement | At least one `BO-*` with the measure it moves; every record above, at `Evidence-backed` or above; the guardrails it could worsen; how it supports deliberate non-action; the gaps it needs filled | Cite by title text; cite a `Superseded` record |
+| Alignment statement | At least one `BO-*` with the measure it moves; every record above, at `Evidence-backed` or above; the guardrails it could worsen; how it supports a Decision to monitor or dismiss; the gaps it needs filled | Cite by title text; cite a `Superseded` record |
 
 ## 6. Worked example
 
@@ -68,11 +68,11 @@ An IBIQ product use case for intelligence triage would read, in the record it ci
 | --- | --- |
 | Serves | `BUC-GIB-INTEL-01` revision `1.0`, steps 1 to 3 (reduce noise; identify affected clients and context; explain consequence and evidence) |
 | Job behind it | `JTBD-GIB-INTEL-01`, confirmed by one participant, treated as evidence-backed |
-| Scenario covered | `SC-GIB-INTEL-01-A`, short-window consequential signal |
-| Scenario excluded | `SC-GIB-INTEL-01-C`, deliberate non-action; the product must not manufacture activity here |
+| Scenario covered | `SC-GIB-INTEL-01-A`, short-window material Signal |
+| Scenario excluded | `SC-GIB-INTEL-01-C`, monitor or dismiss; the product must not manufacture activity here |
 | Persona | Expression of `ACTOR-COV-SENIOR-MD` revision `2.0` |
 | Judgments left with the human | Does it matter in context; is it credible enough for the contemplated use; respond or not; which client outcome |
-| Outcome and measure | `BO-GIB-INTEL-01`, consequential surprises, downward; guardrail: senior time on noise must not rise |
+| Outcome and measure | `BO-GIB-INTEL-01`, material surprises, downward; guardrail: senior time on noise must not rise |
 | Capabilities used | Signal deduplication, client-context assembly, evidence provenance display |
 
 A product use case that cannot fill this table is not yet aligned. One that fills it with `Hypothesis` records only is a discovery exercise and must say so.
@@ -82,7 +82,7 @@ A product use case that cannot fill this table is not yet aligned. One that fill
 - Do not keep both lists. One definition per term, and the intent layer's definition wins for the six shared records.
 - Do not call a product step sequence a use case. It is a product use case; the business use case is the record it serves.
 - Do not derive a persona from a product idea or from the untested user profiles. Start from an actor record; raise a review trigger if the actor record is missing something.
-- Do not promote an outcome measure that rewards activity. Productivity, time-to-outreach and volume measures are rejected throughout the catalogue; the primary measures are consequence, quality and deliberate non-action.
+- Do not promote an outcome measure that rewards activity. Productivity, time-to-outreach and volume measures are rejected throughout the catalogue; the primary measures are consequence, quality and the freedom to monitor or dismiss.
 - Do not treat a `Confirmed` label as validation by the cohort until two participants have accepted the statement. Read the participant count.
 
 ## 8. Adoption steps for IBIQ

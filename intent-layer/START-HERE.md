@@ -10,11 +10,11 @@ The Intent Layer says what the business is trying to achieve. It is written from
 
 | Record | Plain meaning | The question it answers | Example |
 | --- | --- | --- | --- |
-| Business outcome `BO-*` | What should change for the business, with a measure | What are we trying to move? | Fewer consequential surprises |
+| Business outcome `BO-*` | What should change for the business, with a measure | What are we trying to move? | Fewer material surprises |
 | Job family `JF-*` | One standing area of senior banker work | Which area of work is this? | Intelligence triage |
 | JTBD `JTBD-*` | The progress a banker wants, in their own words | **Why** does the banker bother? | "When new information may affect my clients, help me isolate what matters, judge it and choose the response, without acting on noise" |
-| Business use case `BUC-*` | The work that gets the job done: trigger, six steps, who judges, value delivered | **How** does the work run when it goes well? | Triage and route a signal: reduce noise, find affected clients, explain consequence, MD judges, record, route |
-| Scenario `SC-*` | The same use case under different conditions | What changes when conditions change? | Short window; high impact but low confidence; deliberate non-action |
+| Business use case `BUC-*` | The work that gets the job done: trigger, six steps, who judges, value delivered | **How** does the work run when it goes well? | Triage and send a Signal: reduce noise, find affected clients, explain what it means, MD decides, record, send to the owner |
+| Scenario `SC-*` | The same use case under different conditions | What changes when conditions change? | Short window; high impact but low confidence; a Decision to monitor or dismiss |
 | Actor `ACTOR-*` | A cohort with accepted responsibility, and the judgments it keeps | Who judges, who contributes? | Senior Coverage MD keeps: does it matter, is it credible, respond or not |
 
 ### JTBD versus business use case, because this is the one that confuses people
@@ -39,6 +39,19 @@ Test for which one you are holding: if it begins "when X, help me Y" it is a job
 ## Read the label
 
 Every record carries a maturity label and a review state. `Candidate` means raised by a proposal and not admitted: cite it only as a gap. `Superseded` means do not cite it. `Hypothesis` means plausible, little direct evidence. `Evidence-backed` means supported but not the standing model. `Confirmed` means accepted by the responsible group, and today that group is one Senior Coverage MD, so treat it as evidence-backed until a second banker has been through it. A product spec is never evidence of a user need, so anything raised from one stays `Hypothesis` until a banker episode supports it.
+
+## Six words with fixed meanings
+
+Capitalise these when they carry the meaning below. Do not use them loosely.
+
+| Term | Meaning |
+| --- | --- |
+| Signal | A piece of new information that may affect a client. |
+| Decision | The chosen response to a Signal: act, monitor, or dismiss. |
+| Rationale | Why that Decision was made, in one sentence. |
+| View | The workspace or person the Signal goes to next. |
+| Interaction | A banker and a client meet live: a phone call, a virtual meeting or an in-person meeting. |
+| Engagement | Any contact with a client, including emails, messages and Interactions. Every Interaction is an Engagement; not every Engagement is an Interaction. |
 
 ## Where things are
 

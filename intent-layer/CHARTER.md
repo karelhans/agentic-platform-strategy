@@ -1,6 +1,6 @@
 # IB Intent Layer Charter
 
-Status: Draft 1.0, 2026-10-05. Owner: `[validate: name the intent model owner]`. Review: on every promotion of a new JTBD, and at least quarterly.
+Status: Draft 1.3, 2026-10-07 (first draft 2026-10-05). Owner: `[validate: name the intent model owner]`. Review: on every promotion of a new JTBD, and at least quarterly.
 
 ## 1. Purpose
 
@@ -25,7 +25,7 @@ Products and projects consume this layer. They never define it. A product concep
 
 | Cohort | Job families catalogued | Evidence basis | Maturity ceiling |
 | --- | --- | --- | --- |
-| Senior Coverage MD (IB) | Intelligence triage, client relationship management, opportunity pipeline management, high-stakes client meetings, umbrella intent | One participant, Q01 to Q151, structured discovery with statement confirmation | JTBDs confirmed by one participant; all supporting records evidence-backed or hypothesis |
+| Senior Coverage MD (IB) | Intelligence triage, client relationship management, opportunity pipeline management, high-stakes client Interactions, umbrella intent | One participant, Q01 to Q151, structured discovery with statement confirmation | JTBDs confirmed by one participant; all supporting records evidence-backed or hypothesis |
 | Actions and commitments (IB) | Resolve a commitment that is drifting or waiting on the senior (`JF-GIB-ACT-01`, `JTBD-GIB-ACT-01`, `BUC-GIB-ACT-01`), catalogued as candidates | Q118 to Q122, Q136, Q141, Q145; model revision of 2026-10-07 | Hypothesis; Round 2 actions guide not yet run |
 | Supporting cohort to the Senior Coverage MD (IB) | None of its own. `ACTOR-COV-SUPPORT-TEAM` is a candidate actor contributing to the Coverage use cases | Q94, Q119 to Q121, Q136; IBIQ specs are not evidence | Hypothesis; no JTBD, by design, until a supporting-cohort interview is run |
 | Deal preparation (IB) | None. Preparation is a step inside `BUC-GIB-MEET-01` and `BUC-GIB-PIPE-01`, not a job family | Model revision of 2026-10-07, section 3.3 | No record |
@@ -111,3 +111,4 @@ In rough order:
 | `1.0` draft | 2026-10-05 | First charter. Codifies purpose, scope, consumption contract, litmus test, admission rule and growth path. | `[validate]` |
 | `1.1` draft | 2026-10-07 | Terminology: the informal term "lens" is retired. The unit the catalogue is organised by is the job family record (`JF-*`). Round 1 evidence keeps the word verbatim as the participants' own language. | `[validate]` |
 | `1.2` draft | 2026-10-07 | Scope: the actions and commitments row is catalogued as candidate records at `Hypothesis` following the model revision of 2026-10-07; rows added for the supporting cohort and for deal preparation (none). Measures, rules and the litmus test are unchanged. | `[validate]` |
+| `1.3` draft | 2026-10-07 | Terminology: Interaction and Engagement defined as governed terms. | `[validate]` |
