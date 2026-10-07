@@ -58,6 +58,7 @@ Known dangling links inside the ingested content, inherited from the source and 
 | [consumers/ibiq-product-definition.md](consumers/ibiq-product-definition.md) | `76:615`; native frames `78:616` (page IBIQ · Consumer Guide) | Consumer guide: IBIQ product definition on the Intent Layer | 11403 |
 | [consumers/ibiq-use-case-mapping.md](consumers/ibiq-use-case-mapping.md) | `82:615` (page IBIQ · Consumer Guide) | IBIQ product use cases UC-01 to UC-05 mapped onto the Intent Layer; six candidate records, none admitted | 45356 |
 | [consumers/job-family-example.html](consumers/job-family-example.html) | `80:616` (page Job Family · Example; diagrams `129:2`, `129:111`) | What a full job family looks like: generic shape and the intelligence family with the IBIQ use cases mapped on | 33553 |
+| [consumers/catalogue-map.html](consumers/catalogue-map.html) | page Catalogue · Map (native vectors) | The catalogue today, intent layer and product layer: every family, record and candidate on one page; the IBIQ product layer citing into it | 39676 |
 | [proposals/model-revision-2026-10-07.md](proposals/model-revision-2026-10-07.md) | page Model Revision, frame `112:2` (main body only) | Every job and use case candidate tested: six jobs, nine use cases, two retirements, one control rule | 79798 |
 | [reference/README.md](reference/README.md) | `27:619` | Reference: pre-intent persona material | 807 |
 | [catalogue/README.md](catalogue/README.md) | `2:5637` | Intent Catalogue | 12547 |
