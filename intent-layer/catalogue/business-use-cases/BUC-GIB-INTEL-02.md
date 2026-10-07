@@ -21,7 +21,7 @@
 | **Starting state** | The information sits with someone who has no declared demand for it from the owner (Q07). They may not know who the owner is or how to reach them. Client, legal, clean-team, regional, or relationship sensitivity may constrain them. |
 | **Completion condition** | The owner has acknowledged the Signal, its relevance, and its permitted context into `BUC-GIB-INTEL-01-S1`. Where substance is restricted, the existence of a restricted situation and its owner are recorded and nothing further is disclosed. |
 | **Resulting state** | The Signal is inside the owner's triage while the response window is open; restricted substance remains protected. |
-| **Out of scope** | Judging the Signal's materiality or response (that is `BUC-GIB-INTEL-01`), resolving ownership conflicts (business heads arbitrate under the control rule), and any client contact. |
+| **Out of scope** | Judging the Signal's materiality or response (that is `BUC-GIB-INTEL-01`), resolving ownership conflicts (business heads arbitrate under the control rule), and any client Engagement. |
 | **Frequency and criticality** | Event-driven and infrequent per holder. The participant's own costly miss (Q02) was exactly this failure: the information existed in the bank and never arrived. |
 
 ## Responsible Actor Archetypes
@@ -73,7 +73,7 @@
 
 | Field | Value |
 | --- | --- |
-| **Revision** | `0.2` |
+| **Revision** | `0.3` |
 | **Evidence cutoff** | 2026-10-02, through Q151. |
 | **Review state** | `Candidate` |
 | **Last reviewed** | 2026-10-07 |
@@ -89,3 +89,4 @@
 | --- | --- | --- | --- | --- | --- |
 | `0.1` | 2026-10-07 | Q02, Q06, Q07, Q142, Q145 re-read in the model revision | Raised as `Candidate` at `Evidence-backed`; not admitted. | `[validate: intent model owner]` | `JTBD-GIB-INTEL-02`, `JTBD-GIB-INTEL-01`, `BUC-GIB-INTEL-01`, `JF-GIB-INTEL-01`, `BO-GIB-INTEL-01` |
 | `0.2` | 2026-10-07 | None; wording only. | Banker-language pass: editorial wording in house language (Decision, Rationale, View, Signal; send to; owner; management; material or high-stakes). Meaning, evidence, maturity and review state unchanged. | `[validate: intent model owner]` | None |
+| `0.3` | 2026-10-07 | None; wording only. | Terminology: Interaction (a live exchange with a client: call, virtual or in person) and Engagement (any client contact, including email) adopted as governed terms. Meaning, evidence, maturity and review state unchanged. | `[validate: intent model owner]` | None |

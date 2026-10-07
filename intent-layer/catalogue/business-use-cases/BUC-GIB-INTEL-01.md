@@ -17,11 +17,11 @@
 
 | Field | Value |
 | --- | --- |
-| **Trigger** | New information may materially affect a client, relationship, opportunity, meeting, commitment, or firm outcome. A monitor condition set at S5 that fires is a new trigger. |
+| **Trigger** | New information may materially affect a client, relationship, opportunity, Interaction, commitment, or firm outcome. A monitor condition set at S5 that fires is a new trigger. |
 | **Starting state** | Information may be noisy, duplicated, weakly connected, or uncertain. Information held by a banker who does not own the affected client reaches this use case through [`BUC-GIB-INTEL-02`](BUC-GIB-INTEL-02.md) (candidate). |
 | **Completion condition** | The Signal has an accepted Decision and Rationale, an intended outcome where applicable, and an owner's View or a monitoring condition. |
 | **Resulting state** | Material evidence can be acted upon, investigated, monitored, retained, or dismissed without consuming further unowned attention. |
-| **Out of scope** | Carrying out outreach, pipeline management, meeting preparation, or downstream commitments; getting held information to its owner in the first place (`BUC-GIB-INTEL-02`, candidate). |
+| **Out of scope** | Carrying out outreach, pipeline management, Interaction preparation, or downstream commitments; getting held information to its owner in the first place (`BUC-GIB-INTEL-02`, candidate). |
 | **Frequency and criticality** | Continuous and event-driven. Consequence ranges from harmless noise to lost credibility, opportunity, or time to act. |
 
 ## Responsible Actor Archetypes
@@ -36,11 +36,11 @@
 | Step | Task or activity | Responsible role(s) | Evidence considered | Judgment or decision | Collaboration or handoff | Resulting state |
 | --- | --- | --- | --- | --- | --- | --- |
 | `BUC-GIB-INTEL-01-S1` | Reduce noise and duplication. | Support team | Repetition, novelty, relevance, existing knowledge; Signals acknowledged in from `BUC-GIB-INTEL-02`. | Decide what warrants context assessment. May run over a batch (scenario D). | Consolidate equivalent evidence. | Reduced candidate set. |
-| `BUC-GIB-INTEL-01-S2` | Identify affected clients and context. | Support team | Client priorities, relationships, opportunities, meetings, commitments, and knowledge. | Decide which contexts could materially change the implication. Where several changes converge, compose the connection (scenario E). | Consult relevant owners where permitted. | Client-specific context. |
+| `BUC-GIB-INTEL-01-S2` | Identify affected clients and context. | Support team | Client priorities, relationships, opportunities, Interactions, commitments, and knowledge. | Decide which contexts could materially change the implication. Where several changes converge, compose the connection (scenario E). | Consult relevant owners where permitted. | Client-specific context. |
 | `BUC-GIB-INTEL-01-S3` | Explain consequence and evidential strength. | Support team | Potential impact, time window, source, corroboration, uncertainty, missing facts; any targeted validation returned from S5. | Judge what confidence supports which possible use. | Escalate items meeting a Q74 threshold directly to the Senior Coverage MD. | An interpretable case for the Signal. |
 | `BUC-GIB-INTEL-01-S4` | Judge the appropriate response. | Senior Coverage MD | The Signal case and client or firm context. | Decide whether it matters, is credible enough, warrants response, and changes the intended outcome. | Seek targeted validation where needed. | Accepted response direction. |
 | `BUC-GIB-INTEL-01-S5` | Record the Decision and Rationale. | Senior Coverage MD or delegate | Accepted judgment. | Dismiss, retain, monitor, validate, prepare, or act. A `validate` Decision returns the item to S3 with the question to be answered. A `monitor` Decision sets the condition whose firing is a new trigger. | Set a reassessment condition where relevant. | Explicit Decision. |
-| `BUC-GIB-INTEL-01-S6` | Send to the owner's job family. | Decision owner | Intended outcome and accepted Rationale. | Identify the owner for the intended outcome (Q136): relationship, pipeline, meeting, or continued intelligence ownership. Keep cross-references to other affected owners. | The owner receives the context and accepts the next commitment. This commitment step serves [`JTBD-GIB-ACT-01`](../jtbd/JTBD-GIB-ACT-01.md) (candidate). Only items that later cross the drift or dependency threshold enter [`BUC-GIB-ACT-01`](BUC-GIB-ACT-01.md) (candidate). | Owned next step, or a Decision to monitor or dismiss. |
+| `BUC-GIB-INTEL-01-S6` | Send to the owner's job family. | Decision owner | Intended outcome and accepted Rationale. | Identify the owner for the intended outcome (Q136): relationship, pipeline, Interaction, or continued intelligence ownership. Keep cross-references to other affected owners. | The owner receives the context and accepts the next commitment. This commitment step serves [`JTBD-GIB-ACT-01`](../jtbd/JTBD-GIB-ACT-01.md) (candidate). Only items that later cross the drift or dependency threshold enter [`BUC-GIB-ACT-01`](BUC-GIB-ACT-01.md) (candidate). | Owned next step, or a Decision to monitor or dismiss. |
 
 ## Scenarios
 
@@ -65,7 +65,7 @@
 
 | Field | Value |
 | --- | --- |
-| **Success signals** | Fewer material surprises; less noise and manual verification; earlier client relevance; better conversations; appropriate Decisions to monitor or dismiss; faster downstream progress. |
+| **Success signals** | Fewer material surprises; less noise and manual verification; earlier client relevance; better Interactions; appropriate Decisions to monitor or dismiss; faster downstream progress. |
 | **Failure consequences** | Missed Signal, late response, wasted action, damaged credibility, or senior attention consumed by noise. |
 | **Current process and pain** | Relevant evidence may stay fragmented across the bank, disconnected from client context, and hard to trust or send on `[validate operational detail]`. |
 | **Business rules and controls** | Preserve the source trail and uncertainty; match scrutiny to impact and time; respect confidentiality; do not imply client action from relevance alone. Direct senior attention thresholds (Q74): high consequence with a short window, relationship-sensitive meaning, strategic ambiguity, a change to a major opportunity, or cross-client or firm-wide implication. These go to the Senior Coverage MD without prior support-team triage. Senior judgment may be asked for at more than one boundary (Q42): after changed evidence is identified, and again after responses are proposed. A `validate` Decision at S5 returns the item to S3. A fired monitor condition is a new trigger of this use case. Sending at S6 follows the owner (Q136). Cross-family control rule (Q70, Q145, Q142): when evidence, outreach, or an ownership conflict arises outside the group with access, others may know that a restricted situation exists and who owns it. Further visibility depends on the restriction. Coverage coordinates and business heads arbitrate. |
@@ -76,7 +76,7 @@
 
 | Field | Value |
 | --- | --- |
-| **Revision** | `1.2` |
+| **Revision** | `1.3` |
 | **Evidence cutoff** | 2026-10-02, through Q151. |
 | **Review state** | `Current` |
 | **Last reviewed** | 2026-10-07 |
@@ -93,3 +93,4 @@
 | `1.0` | 2026-10-02 | Q71-Q91 confirmed-intent synthesis | Promoted as `Evidence-backed`; preparatory role and observed process remain open. | Coverage intent model owner | Intelligence outcome, family, JTBD, and scenarios A-C |
 | `1.1` | 2026-10-07 | Model revision of 2026-10-07; Q39 to Q42, Q57 to Q62, Q70, Q74, Q136, Q142, Q145 re-read | Revised in place; no semantic change to steps or value. Candidate scenarios D and E, candidate sibling `BUC-GIB-INTEL-02`, and candidate actor `ACTOR-COV-SUPPORT-TEAM` referenced but not admitted. | `[validate: intent model owner]` | `SC-GIB-INTEL-01-A` to `-E`, `BUC-GIB-INTEL-02`, `JTBD-GIB-INTEL-01`, `JTBD-GIB-INTEL-02`, `JF-GIB-INTEL-01` |
 | `1.2` | 2026-10-07 | None; wording only. | Banker-language pass: editorial wording in house language (Decision, Rationale, View, Signal; send to; owner; management; material or high-stakes). Title changed from "Triage And Route Consequential Intelligence". Meaning, evidence, maturity and review state unchanged. | `[validate: intent model owner]` | None |
+| `1.3` | 2026-10-07 | None; wording only. | Terminology: Interaction (a live exchange with a client: call, virtual or in person) and Engagement (any client contact, including email) adopted as governed terms. Meaning, evidence, maturity and review state unchanged. | `[validate: intent model owner]` | None |

@@ -9,7 +9,7 @@
 | **Job owner** | The banker holding the information: any Coverage, product, or regional banker who does not own the affected client or outcome. Collective job; the owner closes the loop. |
 | **Responsible actor archetypes** | [`ACTOR-COV-SENIOR-MD`](../actors/ACTOR-COV-SENIOR-MD.md); [`ACTOR-COV-SUPPORT-TEAM`](../actors/ACTOR-COV-SUPPORT-TEAM.md) (candidate). |
 | **Job statement** | When I hold information that may matter to a client or outcome I do not own, help us recognise that and get it to the accountable owner in permitted form, so the signal is triaged while there is time, without breaching sensitivity or guessing at needs nobody has declared. |
-| **Situation and triggers** | A banker learns something in the course of their own work that could affect a client, relationship, opportunity, meeting, or commitment owned elsewhere in the bank. |
+| **Situation and triggers** | A banker learns something in the course of their own work that could affect a client, relationship, opportunity, Interaction, or commitment owned elsewhere in the bank. |
 | **Desired progress** | Move from information held in one place, with no declared demand for it, to the owner having the Signal, its relevance, and permitted context in time to judge it. |
 | **Required judgment** | Whether the information plausibly matters to someone else; who the owner is; what sensitivity permits to be shared and in what form. |
 | **Desired outcome** | The Signal reaches the owner while the response window is open, and is then triaged under `JTBD-GIB-INTEL-01`; restricted substance stays protected. |
@@ -24,7 +24,7 @@
 
 | Field | Value |
 | --- | --- |
-| **Revision** | `0.2` |
+| **Revision** | `0.3` |
 | **Evidence cutoff** | 2026-10-02, through Q151. |
 | **Review state** | `Candidate` |
 | **Last reviewed** | 2026-10-07 |
@@ -40,3 +40,4 @@
 | --- | --- | --- | --- | --- | --- |
 | `0.1` | 2026-10-07 | Q02, Q06, Q07, Q142, Q145 re-read in the model revision | Raised as `Candidate`; not admitted. Separate job owner and progress from `JTBD-GIB-INTEL-01`. | `[validate: intent model owner]` | `BUC-GIB-INTEL-02`, `BUC-GIB-INTEL-01`, `JF-GIB-INTEL-01` |
 | `0.2` | 2026-10-07 | None; wording only. | Banker-language pass: editorial wording in house language (Decision, Rationale, View, Signal; send to; owner; management; material or high-stakes). Meaning, evidence, maturity and review state unchanged. | `[validate: intent model owner]` | None |
+| `0.3` | 2026-10-07 | None; wording only. | Terminology: Interaction (a live exchange with a client: call, virtual or in person) and Engagement (any client contact, including email) adopted as governed terms. Meaning, evidence, maturity and review state unchanged. | `[validate: intent model owner]` | None |
