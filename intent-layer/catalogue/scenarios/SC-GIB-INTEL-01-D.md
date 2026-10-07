@@ -55,7 +55,7 @@
 
 ## Revision History
 
-| Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
+| Revision | Date | Evidence delta | Decision and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `0.1` | 2026-10-07 | IBIQ UC-01 specification; Q39 to Q41 re-read | Raised as `Candidate` at `Hypothesis`; not admitted. | `[validate: intent model owner]` | `BUC-GIB-INTEL-01`, `JTBD-GIB-INTEL-01`, `JF-GIB-INTEL-01` |
 | `0.2` | 2026-10-07 | None; wording only. | Banker-language pass: editorial wording in house language (Decision, Rationale, View, Signal; send to; owner; management; material or high-stakes). Meaning, evidence, maturity and review state unchanged. | `[validate: intent model owner]` | None |

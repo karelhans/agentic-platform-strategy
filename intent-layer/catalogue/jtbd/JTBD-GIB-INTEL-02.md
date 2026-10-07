@@ -36,7 +36,7 @@
 
 ## Revision History
 
-| Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
+| Revision | Date | Evidence delta | Decision and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `0.1` | 2026-10-07 | Q02, Q06, Q07, Q142, Q145 re-read in the model revision | Raised as `Candidate`; not admitted. Separate job owner and progress from `JTBD-GIB-INTEL-01`. | `[validate: intent model owner]` | `BUC-GIB-INTEL-02`, `BUC-GIB-INTEL-01`, `JF-GIB-INTEL-01` |
 | `0.2` | 2026-10-07 | None; wording only. | Banker-language pass: editorial wording in house language (Decision, Rationale, View, Signal; send to; owner; management; material or high-stakes). Meaning, evidence, maturity and review state unchanged. | `[validate: intent model owner]` | None |

@@ -91,7 +91,7 @@ The scenario axis is the forum's purpose (Q146).
 
 ## Revision History
 
-| Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
+| Revision | Date | Evidence delta | Decision and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `0.1` | 2026-10-07 | No new source evidence; model revision of 2026-10-07 re-tested the pipeline family against Q01-Q151 | Raised as a candidate, promoted from `SC-GIB-PIPE-01-A`; `Evidence-backed`, no forum observed; not admitted. | Coverage intent model owner (as candidate, not admitted) | `BUC-GIB-PIPE-01`, `SC-GIB-PIPE-01-A`, `SC-GIB-PIPE-03-A`, `SC-GIB-PIPE-03-B`, `JTBD-GIB-PIPE-01`, `JF-GIB-PIPE-01`, `BO-GIB-PIPE-01` |
 | `0.2` | 2026-10-07 | No new source evidence; banker-language pass | Banker-language pass: editorial wording in house language (Decision, Rationale, View, Signal; send to; owner; management; material or high-stakes). Meaning, evidence, maturity and review state unchanged. | Coverage intent model owner (as candidate, not admitted) | None; wording only |

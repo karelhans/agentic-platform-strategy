@@ -42,7 +42,7 @@
 
 ## Revision History
 
-| Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
+| Revision | Date | Evidence delta | Decision and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `1.0` | 2026-10-02 | Coverage interview through Q151 and cross-LOB pipeline synthesis | Promoted as the current measurable-outcome hypothesis; baseline, target, and causal model remain `[validate]`. | Coverage intent model owner | `JF-GIB-PIPE-01`, `BUC-GIB-PIPE-01` |
 | `1.1` | 2026-10-07 | No new source evidence; model revision of 2026-10-07 | Revised in place: leading indicator "earlier idea recognition" tied to `BUC-GIB-PIPE-02` (candidate) and effort allocation to `BUC-GIB-PIPE-03` (candidate). No measure changes; maturity unchanged. | Coverage intent model owner | `BUC-GIB-PIPE-01`, `BUC-GIB-PIPE-02`, `BUC-GIB-PIPE-03` |

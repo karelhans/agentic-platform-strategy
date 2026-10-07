@@ -56,7 +56,7 @@
 
 ## Revision History
 
-| Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
+| Revision | Date | Evidence delta | Decision and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `1.0` | 2026-10-01 | Interview through Q112 | Runtime actor interpretation spanning pipeline, intelligence, and relationships. | Coverage intent evidence owner | Existing runtime intent slices |
 | `2.0` | 2026-10-02 | Added Q113-Q151 validation | Revised in place; expands evidenced judgment, working context, and four-slice contribution without claiming actor confirmation. | Coverage intent model owner | `BUC/JTBD-GIB-INTEL-01`, `BUC/JTBD-GIB-REL-01`, `BUC/JTBD-GIB-PIPE-01`, `BUC/JTBD-GIB-MEET-01` |

@@ -55,7 +55,7 @@
 
 ## Revision History
 
-| Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
+| Revision | Date | Evidence delta | Decision and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `1.0` | 2026-10-07 | Q57, Q59 to Q62, Q74 re-read in the model revision | Raised as `Candidate` at `Evidence-backed`; not admitted. | `[validate: intent model owner]` | `BUC-GIB-INTEL-01`, `JTBD-GIB-INTEL-01`, `JF-GIB-INTEL-01` |
 | `1.1` | 2026-10-07 | None; wording only. | Banker-language pass: editorial wording in house language (Decision, Rationale, View, Signal; send to; owner; management; material or high-stakes). Meaning, evidence, maturity and review state unchanged. | `[validate: intent model owner]` | None |

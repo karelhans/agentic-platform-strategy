@@ -54,7 +54,7 @@
 
 ## Revision History
 
-| Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
+| Revision | Date | Evidence delta | Decision and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `1.0` | 2026-10-02 | Q123-Q127 and cross-JPM evidence | Promoted as `Evidence-backed`; contributor and controls validation remain open. | Coverage intent model owner | `BUC-GIB-MEET-01` |
 | `1.1` | 2026-10-07 | Model revision of 2026-10-07, meetings family inventory section D. | Revised in place: possible split flagged in open questions and review triggers. Maturity unchanged. | Coverage intent model owner | `BUC-GIB-MEET-01` |

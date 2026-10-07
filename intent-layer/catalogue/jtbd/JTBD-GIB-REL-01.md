@@ -36,7 +36,7 @@
 
 ## Revision History
 
-| Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
+| Revision | Date | Evidence delta | Decision and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `1.0` | 2026-10-02 | Q111 confirmation and supporting Q92-Q110 evidence | Promoted to `Confirmed` for Senior Coverage MDs. | Coverage intent model owner | `BUC-GIB-REL-01`, actor and scenarios A-C |
 | `1.1` | 2026-10-07 | No new evidence; re-reading of Q33, Q94, Q99, Q110 under the model revision of 2026-10-07 | Revised in place. Trade-off field filled; required judgment trimmed; `BUC-GIB-REL-02` and `ACTOR-COV-SUPPORT-TEAM` referenced as candidates raised by the model revision and not admitted; related scenarios extended to D. Statement and maturity unchanged. | Coverage intent model owner | `BUC-GIB-REL-01`, `BUC-GIB-REL-02` (candidate), `SC-GIB-REL-01-A` to `-D` |

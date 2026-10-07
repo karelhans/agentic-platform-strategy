@@ -54,7 +54,7 @@
 
 ## Revision History
 
-| Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
+| Revision | Date | Evidence delta | Decision and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `1.0` | 2026-10-02 | Confirmed-intent synthesis through Q151 | Promoted as `Evidence-backed`. | Coverage intent model owner | `BUC-GIB-INTEL-01` |
 | `1.1` | 2026-10-07 | Model revision of 2026-10-07; Q36, Q62, Q65, Q73 re-read | Revised in place; monitor return made explicit as a new trigger, no semantic change. | `[validate: intent model owner]` | `BUC-GIB-INTEL-01` |

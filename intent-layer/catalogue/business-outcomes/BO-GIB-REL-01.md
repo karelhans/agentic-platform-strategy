@@ -41,7 +41,7 @@
 
 ## Revision History
 
-| Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
+| Revision | Date | Evidence delta | Decision and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `1.0` | 2026-10-02 | Q92-Q111 | Promoted as a measurable-outcome hypothesis. | Coverage intent model owner | `JF-GIB-REL-01`, `BUC-GIB-REL-01` |
 | `1.1` | 2026-10-07 | No new evidence; model revision of 2026-10-07 | Revised in place: candidate contributing use case listed; guardrail note added. Measures unchanged. | Coverage intent model owner | `BUC-GIB-REL-02` (candidate) |

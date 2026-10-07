@@ -54,7 +54,7 @@
 
 ## Revision History
 
-| Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
+| Revision | Date | Evidence delta | Decision and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `1.0` | 2026-10-02 | Confirmed-intent synthesis through Q151 | Promoted as `Evidence-backed`. | Coverage intent model owner | `BUC-GIB-REL-01` |
 | `1.1` | 2026-10-07 | No new evidence; model revision of 2026-10-07 | Revised in place: exclusion rule for the IBIQ outreach product use case stated; boundary with `BUC-GIB-REL-02` (candidate) stated. | Coverage intent model owner | `BUC-GIB-REL-01`, `BUC-GIB-REL-02` (candidate) |

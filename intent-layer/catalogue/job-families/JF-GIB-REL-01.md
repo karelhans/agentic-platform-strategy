@@ -46,7 +46,7 @@
 
 ## Revision History
 
-| Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
+| Revision | Date | Evidence delta | Decision and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `1.0` | 2026-10-02 | Q92-Q111 | Promoted as `Evidence-backed`. | Coverage intent model owner | Relationship outcome, use case, JTBD, and scenarios A-C |
 | `1.1` | 2026-10-07 | No new evidence; Q11, Q12, Q94, Q98, Q100, Q104, Q142, Q145 re-read under the model revision of 2026-10-07 | Revised in place. Scope and included work widened to the family's own execution work; excluded work corrected; `BUC-GIB-REL-02`, `SC-GIB-REL-01-D` and `ACTOR-COV-SUPPORT-TEAM` listed as candidates raised by the model revision and not admitted; control rule added. Maturity unchanged. | Coverage intent model owner | `BUC-GIB-REL-01`, `BUC-GIB-REL-02` (candidate), `SC-GIB-REL-01-A`, `SC-GIB-REL-01-D` (candidate), `JTBD-GIB-REL-01` |

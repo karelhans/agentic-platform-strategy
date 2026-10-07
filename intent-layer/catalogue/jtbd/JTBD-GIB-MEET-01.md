@@ -36,7 +36,7 @@
 
 ## Revision History
 
-| Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
+| Revision | Date | Evidence delta | Decision and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `1.0` | 2026-10-02 | Q127 confirmation and supporting Q123-Q126 evidence | Promoted to `Confirmed` for Senior Coverage MDs. | Coverage intent model owner | `BUC-GIB-MEET-01`, actor and scenarios A-C |
 | `1.1` | 2026-10-07 | Model revision of 2026-10-07, sections 3 to 8 and the meetings family inventory; Q127 re-read. | Revised in place: wording unchanged; single-participant note added; candidate actor and candidate follow-up use case referenced; scenarios D and E listed. Maturity unchanged. | Coverage intent model owner | `BUC-GIB-MEET-01`, `SC-GIB-MEET-01-D`, `SC-GIB-MEET-01-E`; candidates `BUC-GIB-REL-02`, `ACTOR-COV-SUPPORT-TEAM` |

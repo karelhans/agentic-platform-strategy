@@ -43,7 +43,7 @@
 
 ## Revision History
 
-| Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
+| Revision | Date | Evidence delta | Decision and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `1.0` | 2026-10-02 | Q123-Q127 confirmed-intent evidence | Promoted as `Evidence-backed`; observed process and broader roles remain open. | Coverage intent model owner | `BO-GIB-MEET-01`, `BUC-GIB-MEET-01`, `JTBD-GIB-MEET-01` |
 | `1.1` | 2026-10-07 | Model revision of 2026-10-07; Q136, Q142, Q70, Q145. | Revised in place: trigger wording aligned, scenarios D and E listed, adjacent candidates and control rule added. Maturity unchanged. | Coverage intent model owner | `BUC-GIB-MEET-01`, `SC-GIB-MEET-01-D`, `SC-GIB-MEET-01-E`; candidates `JF-GIB-ACT-01`, `BUC-GIB-REL-02`, `ACTOR-COV-SUPPORT-TEAM` |

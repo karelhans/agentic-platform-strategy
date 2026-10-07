@@ -56,7 +56,7 @@
 
 ## Revision History
 
-| Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
+| Revision | Date | Evidence delta | Decision and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `1.0` | 2026-10-02 | Q146 and pipeline operating-model synthesis | Promoted as `Evidence-backed`; observation remains required. | Coverage intent model owner | `BUC-GIB-PIPE-01` |
 | `2.0` | 2026-10-07 | No new source evidence; model revision of 2026-10-07 | Marked `Superseded`: promoted to candidate use case `BUC-GIB-PIPE-03` with scenarios `SC-GIB-PIPE-03-A` and `SC-GIB-PIPE-03-B`. File retained. | Coverage intent model owner | `BUC-GIB-PIPE-01`, `BUC-GIB-PIPE-03`, `SC-GIB-PIPE-03-A`, `SC-GIB-PIPE-03-B` |

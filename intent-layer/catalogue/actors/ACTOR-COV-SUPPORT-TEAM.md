@@ -64,7 +64,7 @@ All five IBIQ product specifications exposed the same gap. The work they describ
 
 ## Revision History
 
-| Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
+| Revision | Date | Evidence delta | Decision and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `0.1` | 2026-10-07 | Round 1 Q04, Q22, Q29, Q34, Q35, Q86, Q107, Q144, tested in the model revision of 2026-10-07 | Raised as a candidate at `Evidence-backed` from the MD's account only; not admitted. | Pending: Coverage intent model owner | `JTBD-GIB-ACT-01`, `BUC-GIB-ACT-01`, `JF-GIB-ACT-01`, `ACTOR-COV-PIPELINE-TEAM`, `ACTOR-COV-SENIOR-MD` |
 | `0.2` | 2026-10-07 | None | Banker-language pass: editorial wording in house language (Decision, Rationale, View, Signal; send to; owner; management; material or high-stakes). Meaning, evidence, maturity and review state unchanged. | Pending: Coverage intent model owner | None; wording only. |

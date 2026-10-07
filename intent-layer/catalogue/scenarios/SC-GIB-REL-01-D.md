@@ -58,7 +58,7 @@
 
 ## Revision History
 
-| Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
+| Revision | Date | Evidence delta | Decision and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `1.0` | 2026-10-07 | Q94, Q104, Q141, Q142, Q145 re-read under the model revision of 2026-10-07; no new evidence | Raised as a candidate scenario at `Evidence-backed`; not admitted. Promotion to a use case deferred to Round 2 CREL08. | Pending: Coverage intent model owner | `BUC-GIB-REL-01`, `JF-GIB-REL-01`, `JTBD-GIB-REL-01` |
 | `1.1` | 2026-10-07 | No new evidence; wording only | Banker-language pass: editorial wording in house language (Decision, Rationale, View, Signal; send to; owner; management; material or high-stakes). Meaning, evidence, maturity and review state unchanged. | Pending: Coverage intent model owner | None |

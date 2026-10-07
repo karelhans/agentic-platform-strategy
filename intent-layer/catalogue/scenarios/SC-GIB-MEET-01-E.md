@@ -56,7 +56,7 @@
 
 ## Revision History
 
-| Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
+| Revision | Date | Evidence delta | Decision and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `0.1` | 2026-10-07 | Parent trigger wording; Round 2 CMEET10 as instrument; model revision of 2026-10-07, meetings family inventory sections B and D. | Candidate at `Hypothesis`; not admitted. Awaits participant evidence or an observed episode. | Coverage intent model owner (as candidate) | `BUC-GIB-MEET-01`, `JF-GIB-MEET-01`, `JTBD-GIB-MEET-01` |
 | `0.2` | 2026-10-07 | None; wording only. | Banker-language pass: editorial wording in house language (Decision, Rationale, View, Signal; send to; owner; management; material or high-stakes). Meaning, evidence, maturity and review state unchanged. | Coverage intent model owner (as candidate) | None. |

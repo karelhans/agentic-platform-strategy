@@ -54,7 +54,7 @@
 
 ## Revision History
 
-| Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
+| Revision | Date | Evidence delta | Decision and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `1.0` | 2026-10-02 | Confirmed-intent synthesis through Q151 | Promoted as `Evidence-backed`. | Coverage intent model owner | `BUC-GIB-REL-01` |
 | `1.1` | 2026-10-07 | No new evidence; model revision of 2026-10-07 | Revised in place: commitment half cross-linked to `JTBD-GIB-ACT-01` (candidate); exits name `BUC-GIB-REL-02` (candidate) and `BUC-GIB-ACT-01` (candidate). | Coverage intent model owner | `BUC-GIB-REL-01` |

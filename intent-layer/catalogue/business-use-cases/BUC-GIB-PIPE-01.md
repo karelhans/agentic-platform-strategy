@@ -93,7 +93,7 @@ Former scenario `SC-GIB-PIPE-01-A` (recurring pipeline management session) is su
 
 ## Revision History
 
-| Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
+| Revision | Date | Evidence delta | Decision and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `1.0` | 2026-10-01 | Pre-confirmation pipeline research and interview through Q112 | Initial evidence-backed runtime interpretation focused on portfolio review and senior intervention. | Pipeline pilot evidence owner | Existing runtime pipeline slice |
 | `2.0` | 2026-10-02 | Added Q113-Q151 validation | Revised in place; disciplined stewardship becomes the center and the Idea-to-Closed boundary is accepted for Coverage. | Coverage intent model owner | `JF-GIB-PIPE-01`, `JTBD-GIB-PIPE-01`, actors, and scenarios A-E |

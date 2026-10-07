@@ -89,7 +89,7 @@
 
 ## Revision History
 
-| Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
+| Revision | Date | Evidence delta | Decision and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `1.0` | 2026-10-02 | Q123-Q127 confirmed-intent evidence | Promoted as `Evidence-backed`; observed process and contributor roles remain open. | Coverage intent model owner | Meeting outcome, family, JTBD, and scenarios A-C |
 | `1.1` | 2026-10-07 | Model revision of 2026-10-07; Q127 split test; Q136, Q142, Q70, Q145; Round 2 CMEET10 and CMEET11 as instruments. | Revised in place: kept whole, split trigger tested and not fired; scenarios D and E, one exception, S6 handoffs, control rule and candidate actor added. Maturity unchanged at `Evidence-backed`. | Coverage intent model owner | `JF-GIB-MEET-01`, `JTBD-GIB-MEET-01`, `SC-GIB-MEET-01-D`, `SC-GIB-MEET-01-E`; candidates `BUC-GIB-REL-02`, `BUC-GIB-ACT-01`, `JTBD-GIB-ACT-01`, `ACTOR-COV-SUPPORT-TEAM` |

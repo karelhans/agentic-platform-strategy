@@ -55,7 +55,7 @@
 
 ## Revision History
 
-| Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
+| Revision | Date | Evidence delta | Decision and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `1.0` | 2026-10-07 | No new source evidence; model revision of 2026-10-07 re-tested Q23 | Added as `Evidence-backed`; concrete episode remains required. | Coverage intent model owner | `BUC-GIB-PIPE-01` |
 | `1.1` | 2026-10-07 | No new source evidence; banker-language pass | Banker-language pass: editorial wording in house language (Decision, Rationale, View, Signal; send to; owner; management; material or high-stakes). Title changed from "Review Condition Reached Without Movement". Meaning, evidence, maturity and review state unchanged. | Coverage intent model owner | None; wording only |

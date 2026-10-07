@@ -48,7 +48,7 @@
 
 ## Revision History
 
-| Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
+| Revision | Date | Evidence delta | Decision and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `1.0` | 2026-10-02 | Coverage interview through Q151 and cross-LOB pipeline synthesis | Promoted as `Evidence-backed`; preserve cross-LOB and boundary questions for validation. | Coverage intent model owner | `BO-GIB-PIPE-01`, `BUC-GIB-PIPE-01`, `JTBD-GIB-PIPE-01` |
 | `1.1` | 2026-10-07 | No new source evidence; model revision of 2026-10-07 re-tested every job and use case against Q01-Q151 | Revised in place: three use cases listed (two candidates, not admitted); scenario changes recorded; `JF-GIB-ACT-01` (candidate) named as adjacent; control rule added; known variations updated. Maturity unchanged. | Coverage intent model owner | `BUC-GIB-PIPE-01`, `BUC-GIB-PIPE-02`, `BUC-GIB-PIPE-03`, `JTBD-GIB-PIPE-01`, scenarios A-G and 03-A/B |

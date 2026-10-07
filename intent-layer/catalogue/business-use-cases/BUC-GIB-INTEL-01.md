@@ -88,7 +88,7 @@
 
 ## Revision History
 
-| Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
+| Revision | Date | Evidence delta | Decision and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `1.0` | 2026-10-02 | Q71-Q91 confirmed-intent synthesis | Promoted as `Evidence-backed`; preparatory role and observed process remain open. | Coverage intent model owner | Intelligence outcome, family, JTBD, and scenarios A-C |
 | `1.1` | 2026-10-07 | Model revision of 2026-10-07; Q39 to Q42, Q57 to Q62, Q70, Q74, Q136, Q142, Q145 re-read | Revised in place; no semantic change to steps or value. Candidate scenarios D and E, candidate sibling `BUC-GIB-INTEL-02`, and candidate actor `ACTOR-COV-SUPPORT-TEAM` referenced but not admitted. | `[validate: intent model owner]` | `SC-GIB-INTEL-01-A` to `-E`, `BUC-GIB-INTEL-02`, `JTBD-GIB-INTEL-01`, `JTBD-GIB-INTEL-02`, `JF-GIB-INTEL-01` |

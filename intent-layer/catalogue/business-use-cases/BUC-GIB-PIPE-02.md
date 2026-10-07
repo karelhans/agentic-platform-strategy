@@ -94,7 +94,7 @@ This record absorbs the IBIQ use-case mapping's earlier `BUC-GIB-PIPE-02` candid
 
 ## Revision History
 
-| Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
+| Revision | Date | Evidence delta | Decision and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `0.1` | 2026-10-07 | No new source evidence; model revision of 2026-10-07 re-tested the pipeline family against Q01-Q151 | Raised as a candidate; trigger and value `Evidence-backed`, steps `Hypothesis`; not admitted. | Coverage intent model owner (as candidate, not admitted) | `BUC-GIB-PIPE-01`, `JTBD-GIB-PIPE-01`, `JF-GIB-PIPE-01`, `BO-GIB-PIPE-01`, `SC-GIB-PIPE-01-D` |
 | `0.2` | 2026-10-07 | No new source evidence; banker-language pass | Banker-language pass: editorial wording in house language (Decision, Rationale, View, Signal; send to; owner; management; material or high-stakes). Meaning, evidence, maturity and review state unchanged. | Coverage intent model owner (as candidate, not admitted) | None; wording only |

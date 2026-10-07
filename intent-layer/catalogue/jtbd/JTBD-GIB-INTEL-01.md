@@ -36,7 +36,7 @@
 
 ## Revision History
 
-| Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
+| Revision | Date | Evidence delta | Decision and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `1.0` | 2026-10-02 | Q91 confirmation and supporting Q71-Q90 evidence | Promoted to `Confirmed` for Senior Coverage MDs. | Coverage intent model owner | `BUC-GIB-INTEL-01`, actor and scenarios A-C |
 | `1.1` | 2026-10-07 | [Model revision of 2026-10-07](../../proposals/model-revision-2026-10-07.md); Q89, Q02 re-read | Revised in place; title changed, statement and maturity unchanged. Candidate references not admitted. | `[validate: intent model owner]` | `BUC-GIB-INTEL-02`, `SC-GIB-INTEL-01-D`, `SC-GIB-INTEL-01-E`, `JF-GIB-INTEL-01` |

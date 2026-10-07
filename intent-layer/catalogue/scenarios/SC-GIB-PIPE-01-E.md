@@ -56,7 +56,7 @@
 
 ## Revision History
 
-| Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
+| Revision | Date | Evidence delta | Decision and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `1.0` | 2026-10-02 | Q142, Q145, and Q151 | Added as `Evidence-backed`; control validation remains open. | Coverage intent model owner | `BUC-GIB-PIPE-01` |
 | `2.0` | 2026-10-07 | Q70, Q02, Q06 added to the evidence; model revision of 2026-10-07 | Marked `Superseded`: retired as a scenario and restated as the cross-family control rule in every use case's business rules. File retained. | Coverage intent model owner | `BUC-GIB-PIPE-01`, `BUC-GIB-PIPE-02`, `BUC-GIB-PIPE-03`, `JF-GIB-PIPE-01` |

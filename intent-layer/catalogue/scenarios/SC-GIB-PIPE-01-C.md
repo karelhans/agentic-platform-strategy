@@ -54,7 +54,7 @@
 
 ## Revision History
 
-| Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
+| Revision | Date | Evidence delta | Decision and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `1.0` | 2026-10-02 | Q147 and pipeline synthesis | Promoted as `Evidence-backed`; observed-case validation remains open. | Coverage intent model owner | `BUC-GIB-PIPE-01` |
 | `1.1` | 2026-10-07 | No new source evidence; model revision of 2026-10-07 | Scenario axis noted; kept as a scenario on the value test; value delivered aligned to the narrowed parent. Maturity unchanged. | Coverage intent model owner | `BUC-GIB-PIPE-01`, `SC-GIB-PIPE-01-F` |

@@ -54,7 +54,7 @@
 
 ## Revision History
 
-| Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
+| Revision | Date | Evidence delta | Decision and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `1.0` | 2026-10-02 | Q115-Q117 and front-funnel follow-up | Added as `Evidence-backed`; cross-LOB threshold remains open. | Coverage intent model owner | `BUC-GIB-PIPE-01` |
 | `1.1` | 2026-10-07 | No new source evidence; model revision of 2026-10-07 | Re-scoped to the early condition after recognition; recognition moved to candidate `BUC-GIB-PIPE-02`, which takes the no-forced-economics rule. Maturity unchanged. | Coverage intent model owner | `BUC-GIB-PIPE-01`, `BUC-GIB-PIPE-02` |

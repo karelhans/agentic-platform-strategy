@@ -54,7 +54,7 @@
 
 ## Revision History
 
-| Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
+| Revision | Date | Evidence delta | Decision and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `1.0` | 2026-10-02 | Interview and pipeline synthesis through Q151 | Promoted as `Evidence-backed`; concrete episode remains required. | Coverage intent model owner | `BUC-GIB-PIPE-01` |
 | `1.1` | 2026-10-07 | No new source evidence; model revision of 2026-10-07 | Citations corrected to Q14, Q16, Q19; value delivered aligned to the narrowed parent. Maturity unchanged. | Coverage intent model owner | `BUC-GIB-PIPE-01` |

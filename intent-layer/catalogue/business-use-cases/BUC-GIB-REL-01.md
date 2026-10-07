@@ -90,7 +90,7 @@ The former exception "another JPM team plans engagement" is now scenario D, beca
 
 ## Revision History
 
-| Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
+| Revision | Date | Evidence delta | Decision and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `1.0` | 2026-10-02 | Q92-Q111 confirmed-intent synthesis | Promoted as `Evidence-backed`; contributor roles and observed process remain open. | Coverage intent model owner | Relationship outcome, family, JTBD, and scenarios A-C |
 | `1.1` | 2026-10-07 | No new evidence; Q94, Q104, Q136, Q142, Q145 re-read under the model revision of 2026-10-07 | Revised in place. Scenario A re-scoped to contextual change; scenario D (candidate) added and the matching exception row retired; S6 routes by accountable owner and serves `JTBD-GIB-ACT-01` (candidate); control rule added; `BUC-GIB-REL-02` (candidate) named as the destination of a contact disposition. Candidates raised by the model revision are not admitted. Maturity unchanged. | Coverage intent model owner | `SC-GIB-REL-01-A`, `SC-GIB-REL-01-D` (candidate), `BUC-GIB-REL-02` (candidate), `JF-GIB-REL-01`, `JTBD-GIB-REL-01` |

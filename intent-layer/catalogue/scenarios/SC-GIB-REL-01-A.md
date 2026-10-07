@@ -55,7 +55,7 @@
 
 ## Revision History
 
-| Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
+| Revision | Date | Evidence delta | Decision and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `1.0` | 2026-10-02 | Confirmed-intent synthesis through Q151 | Promoted as `Evidence-backed`. | Coverage intent model owner | `BUC-GIB-REL-01` |
 | `1.1` | 2026-10-07 | No new evidence; Q97 and Q110 re-read under the model revision of 2026-10-07 | Revised in place and renamed from "Institution Relationship Review" to "Contextual Change In The Client Institution". Re-scoped so it stops duplicating C's cadence trigger. | Coverage intent model owner | `BUC-GIB-REL-01`, `SC-GIB-REL-01-C` |

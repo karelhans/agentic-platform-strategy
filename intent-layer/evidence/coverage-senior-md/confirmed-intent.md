@@ -182,7 +182,7 @@ The local normalized session history remains the detailed research record. This 
 
 ## Revision History
 
-| Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
+| Revision | Date | Evidence delta | Decision and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `1.0` | 2026-10-02 | Interview evidence through Q112; explicit confirmations at Q91 and Q111 | Initial repository-safe synthesis. Later marked `Review required` when Q113-Q151 produced material new conclusions. | Coverage intent evidence owner | Existing intelligence and relationship runtime records |
 | `2.0` | 2026-10-02 | Added Q113-Q151 validation and cross-LOB pipeline research synthesis | Revised in place; confirms pipeline, meetings, and umbrella intent, retains actions as evidence-backed, and defers capacity. | Coverage intent model owner | Intelligence, relationship, pipeline, and meeting catalogue/runtime records; pipeline scenarios `A-E`; shared actors; tracked contribution evidence |

@@ -57,7 +57,7 @@
 
 ## Revision History
 
-| Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
+| Revision | Date | Evidence delta | Decision and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `1.0` | 2026-10-07 | No new source evidence; model revision of 2026-10-07 | Raised as a candidate scenario of `BUC-GIB-PIPE-03`; `Evidence-backed`, no forum observed; not admitted. | Coverage intent model owner (as candidate, not admitted) | `BUC-GIB-PIPE-03`, `SC-GIB-PIPE-01-A` |
 | `1.1` | 2026-10-07 | No new source evidence; banker-language pass | Banker-language pass: editorial wording in house language (Decision, Rationale, View, Signal; send to; owner; management; material or high-stakes). Meaning, evidence, maturity and review state unchanged. | Coverage intent model owner (as candidate, not admitted) | None; wording only |

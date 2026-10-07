@@ -62,7 +62,7 @@ Once the candidate is admitted, this record should either narrow to opportunity 
 
 ## Revision History
 
-| Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
+| Revision | Date | Evidence delta | Decision and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `1.0` | 2026-10-02 | Coverage interview through Q151 and cross-LOB synthesis | Promoted as `Evidence-backed`; validate cohort boundaries with contributing roles. | Coverage intent model owner | `BUC-GIB-PIPE-01`, `JTBD-GIB-PIPE-01` |
 | `1.1` | 2026-10-07 | No new interview evidence; model revision of 2026-10-07 re-read Q29, Q35 and the supporting-cohort evidence | Minor revision in place; review note added, VP variation evidenced, review state set to `Review required` pending narrow-or-merge once candidate `ACTOR-COV-SUPPORT-TEAM` is admitted. Maturity unchanged. | Coverage intent model owner | `ACTOR-COV-SUPPORT-TEAM`, `BUC-GIB-PIPE-01`, `JTBD-GIB-PIPE-01` |

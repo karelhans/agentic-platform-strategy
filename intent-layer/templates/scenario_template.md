@@ -78,7 +78,7 @@ Record only the meaningful differences from the parent business use case.
 
 #### Revision History
 
-| Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
+| Revision | Date | Evidence delta | Decision and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `1.0` | `[YYYY-MM-DD]` | `[Evidence included through cutoff]` | `[Promoted, revised, reclassified, maturity changed, or superseded]` | `[Review owner]` | `[Stable IDs or None]` |
 

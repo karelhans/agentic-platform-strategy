@@ -42,7 +42,7 @@ The confirmed-intent summary records the statement in the individual form ("help
 
 ## Revision History
 
-| Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
+| Revision | Date | Evidence delta | Decision and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `0.1` | 2026-10-07 | Round 1 Q17 to Q23, Q36, Q118 to Q122, tested in the model revision of 2026-10-07 | Raised as a candidate at `Evidence-backed`, statement accepted at Q122 as a starting hypothesis; not admitted. | Pending: Coverage intent model owner | `BUC-GIB-ACT-01`, `JF-GIB-ACT-01`, `ACTOR-COV-SENIOR-MD`, `ACTOR-COV-SUPPORT-TEAM` |
 | `0.2` | 2026-10-07 | None | Banker-language pass: editorial wording in house language (Decision, Rationale, View, Signal; send to; owner; management; material or high-stakes). Meaning, evidence, maturity and review state unchanged. | Pending: Coverage intent model owner | None; wording only. |

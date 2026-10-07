@@ -92,7 +92,7 @@ Candidate scenarios named by the model revision of 2026-10-07. No scenario recor
 
 ## Revision History
 
-| Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
+| Revision | Date | Evidence delta | Decision and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `0.1` | 2026-10-07 | Q11, Q12, Q94, Q98, Q100 re-read under the model revision of 2026-10-07; no new evidence | Raised as a candidate at `Hypothesis`; not admitted. Awaits an episode and the owner's acceptance. | Pending: Coverage intent model owner | `JTBD-GIB-REL-01`, `JF-GIB-REL-01`, `BO-GIB-REL-01`, `BUC-GIB-REL-01`, `SC-GIB-REL-01-C` |
 | `0.2` | 2026-10-07 | No new evidence; wording only | Banker-language pass: editorial wording in house language (Decision, Rationale, View, Signal; send to; owner; management; material or high-stakes). Meaning, evidence, maturity and review state unchanged. | Pending: Coverage intent model owner | None |

@@ -45,7 +45,7 @@
 
 ## Revision History
 
-| Revision | Date | Evidence delta | Disposition and rationale | Accepted by | Impacted records |
+| Revision | Date | Evidence delta | Decision and rationale | Accepted by | Impacted records |
 | --- | --- | --- | --- | --- | --- |
 | `1.0` | 2026-10-02 | Confirmed-intent evidence through Q151 | Promoted as `Evidence-backed`. | Coverage intent model owner | `BO-GIB-INTEL-01`, `BUC-GIB-INTEL-01`, `JTBD-GIB-INTEL-01` |
 | `1.1` | 2026-10-07 | Model revision of 2026-10-07; Q02, Q06, Q07, Q142, Q145 and the scenario evidence re-read | Revised in place; candidates listed and marked, none admitted. | `[validate: intent model owner]` | `BUC-GIB-INTEL-02`, `JTBD-GIB-INTEL-02`, `SC-GIB-INTEL-01-D`, `SC-GIB-INTEL-01-E` |

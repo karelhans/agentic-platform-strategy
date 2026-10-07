@@ -1,4 +1,4 @@
-# Coverage Consequential Client Meetings - Proxy Interview
+# Coverage High-Stakes Client Meetings - Proxy Interview
 
 ## Interview Record
 

@@ -25,7 +25,7 @@ Products and projects consume this layer. They never define it. A product concep
 
 | Cohort | Job families catalogued | Evidence basis | Maturity ceiling |
 | --- | --- | --- | --- |
-| Senior Coverage MD (IB) | Intelligence triage, client relationship management, opportunity pipeline stewardship, consequential client meetings, umbrella intent | One participant, Q01 to Q151, structured discovery with statement confirmation | JTBDs confirmed by one participant; all supporting records evidence-backed or hypothesis |
+| Senior Coverage MD (IB) | Intelligence triage, client relationship management, opportunity pipeline management, high-stakes client meetings, umbrella intent | One participant, Q01 to Q151, structured discovery with statement confirmation | JTBDs confirmed by one participant; all supporting records evidence-backed or hypothesis |
 | Actions and commitments (IB) | Resolve a commitment that is drifting or waiting on the senior (`JF-GIB-ACT-01`, `JTBD-GIB-ACT-01`, `BUC-GIB-ACT-01`), catalogued as candidates | Q118 to Q122, Q136, Q141, Q145; model revision of 2026-10-07 | Hypothesis; Round 2 actions guide not yet run |
 | Supporting cohort to the Senior Coverage MD (IB) | None of its own. `ACTOR-COV-SUPPORT-TEAM` is a candidate actor contributing to the Coverage use cases | Q94, Q119 to Q121, Q136; IBIQ specs are not evidence | Hypothesis; no JTBD, by design, until a supporting-cohort interview is run |
 | Deal preparation (IB) | None. Preparation is a step inside `BUC-GIB-MEET-01` and `BUC-GIB-PIPE-01`, not a job family | Model revision of 2026-10-07, section 3.3 | No record |
