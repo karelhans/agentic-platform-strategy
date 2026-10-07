@@ -57,7 +57,7 @@ When a baseline or target is not yet evidenced, mark it `[validate]` rather than
 | --- | --- |
 | **Revision** | Monotonic revision beginning at `1.0`. Preserve the stable `BO-*` ID while the same business result is being refined. |
 | **Evidence cutoff** | Latest date through which outcome, baseline, target, and measurement evidence was considered. |
-| **Review state** | `Current`, `Review required`, or `In review`. |
+| **Review state** | `Current`, `Review required`, `In review`, `Candidate` (raised by a proposal, not admitted; revision below `1.0` allowed), or `Superseded`. |
 | **Last reviewed** | Date of the latest explicit evidence and measurement review. |
 | **Review owner** | Business outcome owner or approved evidence owner who can accept, reopen, or supersede the record. |
 | **Next review** | Date, cadence, or event that prompts reconsideration. |

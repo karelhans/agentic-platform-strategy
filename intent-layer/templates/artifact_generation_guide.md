@@ -97,7 +97,7 @@ The work is iterative, but use this order to avoid deriving intent from a propos
 | **Confirmed** | Explicitly validated by the accountable participant group or approved evidence owner. |
 | **Superseded** | Replaced by a later conclusion; retained for traceability. |
 
-Evidence maturity is not delivery status. Do not use `Prototype`, `Candidate`, `Later`, or `Vision` to describe research confidence.
+Evidence maturity is not delivery status. Do not use `Prototype`, `Candidate`, `Later`, or `Vision` to describe research confidence. `Candidate` is a review state (a record raised by a proposal and not yet admitted), never a maturity.
 
 Evidence maturity is reversible. New contradictory evidence may move a record from `Confirmed` back to `Evidence-backed` or `Hypothesis`; replacement by a materially different conclusion moves it to `Superseded`. Never preserve a higher maturity merely because downstream capabilities or designs already reference the record.
 
@@ -111,7 +111,7 @@ Every promoted artifact must record:
 | --- | --- |
 | **Revision** | Monotonic record revision, beginning at `1.0`. |
 | **Evidence cutoff** | Latest date through which source evidence was considered. |
-| **Review state** | `Current`, `Review required`, or `In review`. This is governance state, not delivery status or evidence maturity. |
+| **Review state** | `Current`, `Review required`, `In review`, `Candidate` (raised by a proposal, not admitted; revision below `1.0` allowed), or `Superseded`. This is governance state, not delivery status or evidence maturity. |
 | **Last reviewed** | Date of the latest explicit evidence and boundary review. |
 | **Review owner** | Accountable role or evidence owner who can accept, reopen, or supersede the record. |
 | **Next review** | Date, cadence, or event-based condition that will prompt reconsideration. |

@@ -126,7 +126,7 @@ Scenarios are meaningful variations of the same business use case. They retain t
 | --- | --- |
 | **Revision** | Monotonic revision beginning at `1.0`. Preserve the stable `BUC-*` ID while the same bounded process and value delivered are being refined. |
 | **Evidence cutoff** | Latest date through which process, ownership, boundary, value, and outcome evidence was considered. |
-| **Review state** | `Current`, `Review required`, or `In review`. |
+| **Review state** | `Current`, `Review required`, `In review`, `Candidate` (raised by a proposal, not admitted; revision below `1.0` allowed), or `Superseded`. |
 | **Last reviewed** | Date of the latest explicit evidence, boundary, and value review. |
 | **Review owner** | Accountable business or evidence owner who can accept, reopen, split, merge, or supersede the use case. |
 | **Next review** | Date, cadence, or event that prompts reconsideration. |

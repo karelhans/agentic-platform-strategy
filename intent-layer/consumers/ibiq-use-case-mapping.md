@@ -24,7 +24,9 @@ The specs' success metrics are the other systematic problem. Of the thirty metri
 
 ## 2. Candidate records raised by this mapping
 
-None of these exist in the catalogue. IDs are provisional. Superseded in part by the model revision of the same day (`proposals/model-revision-2026-10-07.md`): daily re-orientation became scenario SC-GIB-INTEL-01-D rather than a use case, the ID BUC-GIB-INTEL-02 now names the signal-sharing use case, BUC-GIB-PIPE-02 was re-cut without its product-spec steps, and the two actor candidates collapsed into ACTOR-COV-SUPPORT-TEAM.
+IDs were provisional when this table was written. Superseded in part by the model revision of the same day (`proposals/model-revision-2026-10-07.md`): daily re-orientation became scenario SC-GIB-INTEL-01-D rather than a use case, the ID BUC-GIB-INTEL-02 now names the signal-sharing use case, BUC-GIB-PIPE-02 was re-cut without its product-spec steps, and the two actor candidates collapsed into ACTOR-COV-SUPPORT-TEAM.
+
+Where this stands after the catalogue update of 2026-10-07: `BUC-GIB-INTEL-02` (signal-sharing), `BUC-GIB-REL-02`, `BUC-GIB-PIPE-02`, `SC-GIB-INTEL-01-D`, `SC-GIB-MEET-01-E` and `ACTOR-COV-SUPPORT-TEAM` now exist in `catalogue/` as `Candidate` records at revision `0.1`; `SC-GIB-INTEL-01-E` exists as a candidate at `1.0`. The per-use-case mappings below are kept as written; read their candidate IDs through the table above and the catalogue README.
 
 | Candidate | Type | Raised by | One-line definition | Maturity and source |
 | --- | --- | --- | --- | --- |
@@ -32,7 +34,7 @@ None of these exist in the catalogue. IDs are provisional. Superseded in part by
 | SC-GIB-INTEL-01-D | Scenario | UC-01 | Periodic re-orientation after an unattended window, with no single triggering signal | `Hypothesis`, IBIQ product spec |
 | BUC-GIB-PIPE-02 | Business use case | UC-02 | From a credible signal, set out the plausible transaction paths and judge whether any merits recognition as an opportunity | `Hypothesis`, IBIQ product spec |
 | BUC-GIB-REL-02 | Business use case | UC-03 | Execute a purposeful client contact: one approved, substantive contact in the banker's voice, coherent with other JPM contact, with its ask and next step owned | `Hypothesis`, IBIQ product spec; Q94 and Q98 give partial support |
-| ACTOR-COV-VP (or ACTOR-COV-MEETING-CONTRIBUTOR) | Actor | UC-01 to UC-05 | The senior's supporting cohort: VPs and associates who prepare, build out, draft and route on the MD's behalf | `Hypothesis`; ACTOR-COV-PIPELINE-TEAM marks "VP translation" as `[validate]` |
+| ACTOR-COV-VP (or ACTOR-COV-MEETING-CONTRIBUTOR), now `ACTOR-COV-SUPPORT-TEAM` | Actor | UC-01 to UC-05 | The senior's supporting cohort: VPs and associates who prepare, build out, draft and route on the MD's behalf | `Hypothesis`; ACTOR-COV-PIPELINE-TEAM marks "VP translation" as `[validate]` |
 | Deal-preparation job family | Job family | UC-04 | Precedent and counterparty analysis as a standing area of work | `Hypothesis`, IBIQ product spec; no catalogue record of any kind |
 
 Review triggers to raise on existing records, collected from the five mappings: BUC-GIB-INTEL-01 (preparatory contributor `[validate actor]`; evidence that distinct use cases are required), JF-GIB-INTEL-01 (cross-client patterns; entitlement and sensitivity of shared evidence), BUC-GIB-REL-01 (boundary with meetings and actions), SC-GIB-PIPE-01-D (economics at idea stage), SC-GIB-PIPE-01-E (controls), SC-GIB-PIPE-01-C (watch ownership), BUC-GIB-MEET-01 (trigger width; meeting contributors), ACTOR-COV-SENIOR-MD (Line MD and ED cohort; cross-LOB handoffs), and the charter's growth-path item 3 (the actions-and-commitments family, which four of the five specs depend on).

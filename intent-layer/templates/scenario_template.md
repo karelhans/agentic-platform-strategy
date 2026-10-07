@@ -68,7 +68,7 @@ Record only the meaningful differences from the parent business use case.
 | --- | --- |
 | **Revision** | Monotonic revision beginning at `1.0`. Preserve the stable `SC-*` ID while the same contextual variation is being refined. |
 | **Evidence cutoff** | Latest date through which context, variation, control, and process evidence was considered. |
-| **Review state** | `Current`, `Review required`, or `In review`. |
+| **Review state** | `Current`, `Review required`, `In review`, `Candidate` (raised by a proposal, not admitted; revision below `1.0` allowed), or `Superseded`. |
 | **Last reviewed** | Date of the latest explicit evidence and variation review. |
 | **Review owner** | Business or evidence owner who can accept, reopen, reclassify, or supersede the scenario. |
 | **Next review** | Date, cadence, or event that prompts reconsideration. |

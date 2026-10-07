@@ -83,7 +83,7 @@ Optional narrative:
 | --- | --- |
 | **Revision** | Monotonic revision beginning at `1.0`. Preserve the stable `ACTOR-*` ID while the same evidence-based cohort is being refined. |
 | **Evidence cutoff** | Latest date through which cohort, responsibility, authority, behavior, and constraint evidence was considered. |
-| **Review state** | `Current`, `Review required`, or `In review`. |
+| **Review state** | `Current`, `Review required`, `In review`, `Candidate` (raised by a proposal, not admitted; revision below `1.0` allowed), or `Superseded`. |
 | **Last reviewed** | Date of the latest explicit cohort and contribution review. |
 | **Review owner** | Role or evidence owner who can accept, reopen, split, merge, or supersede the archetype. |
 | **Next review** | Date, cadence, or event that prompts reconsideration. |

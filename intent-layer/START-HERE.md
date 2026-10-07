@@ -19,7 +19,7 @@ The Intent Layer says what the business is trying to achieve. It is written from
 
 ### JTBD versus business use case, because this is the one that confuses people
 
-They look alike today because every family has exactly one of each. They are not the same thing.
+They look alike because most families began with exactly one of each. They are not the same thing. Since the model revision of 2026-10-07 the intelligence, relationship and pipeline families each carry a second or third use case as a candidate, and the test below is how they were told apart.
 
 - The **JTBD** is about the person. It is what you hear in an interview and what stays true if every product disappeared. A researcher validates it.
 - The **business use case** is about the process. It is what you observe in an episode: what triggered it, what happened step by step, who decided, what was left behind. A designer maps against it.
@@ -38,7 +38,7 @@ Test for which one you are holding: if it begins "when X, help me Y" it is a job
 
 ## Read the label
 
-Every record carries a maturity label. `Hypothesis` means plausible, little direct evidence. `Evidence-backed` means supported but not the standing model. `Confirmed` means accepted by the responsible group, and today that group is one Senior Coverage MD, so treat it as evidence-backed until a second banker has been through it. A product spec is never evidence of a user need, so anything raised from one stays `Hypothesis` until a banker episode supports it.
+Every record carries a maturity label and a review state. `Candidate` means raised by a proposal and not admitted: cite it only as a gap. `Superseded` means do not cite it. `Hypothesis` means plausible, little direct evidence. `Evidence-backed` means supported but not the standing model. `Confirmed` means accepted by the responsible group, and today that group is one Senior Coverage MD, so treat it as evidence-backed until a second banker has been through it. A product spec is never evidence of a user need, so anything raised from one stays `Hypothesis` until a banker episode supports it.
 
 ## Where things are
 
@@ -50,5 +50,5 @@ Every record carries a maturity label. `Hypothesis` means plausible, little dire
 | Definitions to paste into a product definition page | `consumers/ibiq-product-definition.md`, sections 4 and 5 |
 | How five real product specs mapped, and what they got wrong | `consumers/ibiq-use-case-mapping.md`, section 1 is enough |
 | The full test of every job and use case, and what should change | `proposals/model-revision-2026-10-07.md`, sections 2 to 5 |
-| The records themselves | `catalogue/` |
+| The records themselves, with maturity and review state per record | `catalogue/README.md` |
 | The interview guides to run next | `evidence/interviews/round-2-product-proxy-interviews/` |
